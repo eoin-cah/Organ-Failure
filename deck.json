@@ -1,0 +1,2032 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "f518d81b-7dcf-11eb-ae27-af478fea30f9",
+                    "deck_config_uuid": "f518ff38-7dcf-11eb-8a27-af478fea30f9",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "fead45c5b5734e158a2205de204355b7-ao-1-A.svg",
+                        "fead45c5b5734e158a2205de204355b7-ao-1-Q.svg",
+                        "fead45c5b5734e158a2205de204355b7-ao-2-A.svg",
+                        "fead45c5b5734e158a2205de204355b7-ao-2-Q.svg",
+                        "fead45c5b5734e158a2205de204355b7-ao-3-A.svg",
+                        "fead45c5b5734e158a2205de204355b7-ao-3-Q.svg",
+                        "fead45c5b5734e158a2205de204355b7-ao-O.svg",
+                        "paste-009cde11405094d359e27d4d06a4d4b280e92508.jpg",
+                        "paste-f695991f6891e67234af87f7cfdd3700c62a42cd.jpg",
+                        "tmpq8ycav9_.png"
+                    ],
+                    "mid": 1602236504918,
+                    "name": "Fulminant Liver Failure 22/02",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Fulminant Hepatic Failure: Causes</div><div><br></div><div>{{c1::paracetamol overdose}} (39 percent)</div><div><br></div><div>indeterminate (17 percent)</div><div><br></div><div>idiosyncratic (non-acetaminophen) drug reactions (13 </div><div>percent)</div><div><br></div><div>{{c1::viral hepatitis A or B}} (12 percent)</div><div><br></div><div>Rare Causes:</div><div>Autoimmune hepatitis</div><div>{{c1::Wilson's Disease}}: Overload of copper in the liver</div><div>{{c1::Budd Chiari}}: Acute obstruction of hepatic vein</div><div>Acute fatty liver of pregnancy</div>",
+                                "<img src=\"paste-009cde11405094d359e27d4d06a4d4b280e92508.jpg\">"
+                            ],
+                            "guid": "I=y;Y[2`%4",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Nimesulide}} caused an idiosyncratic drug reaction that led to fulminant liver failure, that led to it being pulled from use",
+                                ""
+                            ],
+                            "guid": "j)9z;>f-3@",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-f695991f6891e67234af87f7cfdd3700c62a42cd.jpg\">",
+                                ""
+                            ],
+                            "guid": "icEF_]!kTP",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "fead45c5b5734e158a2205de204355b7-ao-1",
+                                "",
+                                "<img src=\"tmpq8ycav9_.png\" />",
+                                "<img src=\"fead45c5b5734e158a2205de204355b7-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"fead45c5b5734e158a2205de204355b7-ao-1-A.svg\" />",
+                                "<img src=\"fead45c5b5734e158a2205de204355b7-ao-O.svg\" />"
+                            ],
+                            "guid": "JT)4/9@]cU",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "fead45c5b5734e158a2205de204355b7-ao-2",
+                                "",
+                                "<img src=\"tmpq8ycav9_.png\" />",
+                                "<img src=\"fead45c5b5734e158a2205de204355b7-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"fead45c5b5734e158a2205de204355b7-ao-2-A.svg\" />",
+                                "<img src=\"fead45c5b5734e158a2205de204355b7-ao-O.svg\" />"
+                            ],
+                            "guid": "c*OKed0BU,",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "fead45c5b5734e158a2205de204355b7-ao-3",
+                                "",
+                                "<img src=\"tmpq8ycav9_.png\" />",
+                                "<img src=\"fead45c5b5734e158a2205de204355b7-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"fead45c5b5734e158a2205de204355b7-ao-3-A.svg\" />",
+                                "<img src=\"fead45c5b5734e158a2205de204355b7-ao-O.svg\" />"
+                            ],
+                            "guid": "AHO_N.)G0&",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Hepatic Encephalopathy: Failure to&nbsp;{{c1::detoxify}} portal blood<div><br></div><div>{{c1::Ammonia}} in the blood is a good indicator of fulminant liver failure.<br></div><div><br></div><div>Clinical Faetures of encephalopathy are:</div><div>Confusion</div><div>Drosziness</div><div>{{c1::COnstructional Apraxia}}: inability to assemble, draw objects</div><div>{{c1::Fetor hepaticus}}: Bad breath</div><div><br></div><div><br></div>",
+                                "<div>Treatments include</div><div>Laxatives eg lactulose</div><div>•Non-absorbable antibiotics eg </div><div>Neomycin</div>"
+                            ],
+                            "guid": "ph4Ai>MdE|",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>{{c1::2}}: Gross disorientation, drowsiness, possibly asterixis,</div><div>inappropriate behavior</div><div><br></div><div>{{c1::1}}&nbsp;Changes in behavior with minimal change in level of </div><div>consciousness</div><div><br></div><div><div>{{c1::4}}Comatose, unresponsive to pain, decorticate or<br></div><div>decerebrate posturing</div></div><div><br></div><div>&nbsp;{{c1::3}}Marked confusion, incoherent speech, sleeping most of</div><div>the time but arousable to vocal stimuli</div><div><br></div><div>&nbsp;</div>",
+                                ""
+                            ],
+                            "guid": "v#xnzu?HOR",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Why does fluid oedema happen during fulminant liver failure?",
+                                "Osmotic changes in astrocytes (big differrence in osmotic pressure between brain and plasma)<div><br></div><div><span style=\"background-color: rgb(242, 242, 242);\"><font color=\"#00000f\">Fluid balance, elevate head, mannitol are treatments</font></span><br></div>"
+                            ],
+                            "guid": "vI!TW8djif",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Liver produces clotting factors&nbsp;{{c1::2,7,9,10}}(4)<div>They are all&nbsp;{{c1::vitamin k}} depedant</div><div>In liver failure there is a decreased ability to synthesize clotting factors.</div><div>This can result in bleeding, especially in&nbsp; {{c1::<i>GI&nbsp;</i><span style=\"background-color: rgb(242, 242, 242);\"><font color=\"#00000f\">tract.</font></span>}}</div><div><br></div><div><br></div>",
+                                "<span style=\"background-color: rgb(242, 242, 242);\"><font color=\"#00000f\">Treatment: replace clotting factors</font></span>"
+                            ],
+                            "guid": "FyiHsm1{$8",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "f51b206c-7dcf-11eb-b174-af478fea30f9",
+                    "deck_config_uuid": "f51b47b7-7dcf-11eb-86ea-af478fea30f9",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-0847fcc47d22d4e819743849c13eee6d65bc3a27.jpg",
+                        "paste-370110f48e65e7ea734bc7bb14ace022dd0b98e7.jpg",
+                        "paste-acb9252602274175e7526d76871342d74cf4fea3.jpg"
+                    ],
+                    "mid": 1602236504918,
+                    "name": "Hepatic Drug Reactions and Metabolism 21/02?",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is the most common route of membrane passage for a drug?",
+                                "Passive diffusion through lipid"
+                            ],
+                            "guid": "k5-*>-?N!t",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The four physiochemical factors are&nbsp;<div>{{c1::Molecular size}}<div><br></div><div>{{c1::Solubility at site of absorption}}</div><div><br></div><div>{{c1::Degree of ionization}}</div><div><br></div><div>{{c1::Relative lipid solubility of unionized and ionized forms}}</div></div>",
+                                "Smaller drugs=easier to absorb<div>Drugs that are not soluble=not absorbed</div><div>Drugs with ionic charge not absorbed</div>"
+                            ],
+                            "guid": "rq%&9?aK<Z",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Rate of diffusion proportional to</div><div>{{c1::Magnitude of concentration gradient}} and</div><div>{{c1::Lipid:water partition, i.e. lipid solubility}}</div><div><br></div><div>{{c1::Non-polar}} or {{c1::ionized}} molecules are essentially impermeable to the cell membrane</div>",
+                                ""
+                            ],
+                            "guid": "E6adER$,Xh",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Lipophilic drugs are filtered into urine but readily reabsorbed</div><div>How do we eliminate them?</div><div><br></div><div><br></div>",
+                                "<div>Biotransformation into less lipophilic compounds</div><div>Decreases activity</div><div>Aids elimination in the kidney</div>"
+                            ],
+                            "guid": "KSv|3LsYp#",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>{{c1::Codeine}} → Morphine (CYP2D6)</div><div><br></div><div>Azathioprine → {{c1::mercaptopurine}} (non-enzymatic)</div><div><br></div><div>Enalapril → {{c1::enalprilat}}</div><div><br></div><div>{{c1::Prednisone}} → prednisolone</div>",
+                                "Enalapril is an ACE inhibitor<div>Prednisone is an oral corticosteroid</div>"
+                            ],
+                            "guid": "yfJFZgHfSq",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Drug metabolizing enzymes expressed </div><div>highly in {{c1::Liver}} and {{c1::Small intestinal epithelial cells}}</div><div><br></div><div><div>Orally administered drugs are absorbed through small intestinal</div><div>epithelial cells and&nbsp; travel in {{c1::portal vein}} to liver.</div><div>The drugs undergo significant biotransformation prior to reaching {{c1::systemic circulation}}</div></div>",
+                                "Hepatocytes work on the blood in the sinusoids, non-orally administered drugs avoid First-pass metabolism"
+                            ],
+                            "guid": "z<$p`^#cVG",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Phase 1:</div><div>{{c1::Oxidation}}</div><div>{{c1::Reduction}}</div><div>{{c1::Hydrolysis}}</div><div><br></div><div>Phase 2</div><div>{{c1::Conjugation}}<br></div>",
+                                "phase 1 usually results in drugs with lower pharm activity<div>phase 2 usually produce more polar drugs and are excreted in kidney</div><div><img src=\"paste-370110f48e65e7ea734bc7bb14ace022dd0b98e7.jpg\"><br></div>"
+                            ],
+                            "guid": "b/*E0H,7k*",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::CYP1}}<font color=\"#00000f\"><span style=\"background-color: rgb(242, 242, 242);\">Primarily metabolize c</span>arcinogens, some drugs as well<br></font><div>{{c1::CYP2}}<span style=\"background-color: rgb(242, 242, 242);\"><font color=\"#00000f\">Metabolize many important drugs</font></span><font color=\"#00000f\"><br></font></div><div><div>{{c1::CYP3}}Most abundant family in human liver, metabolize many important drugs</div></div>",
+                                "Cytochrome P450's are ancestral genes<div><img src=\"paste-0847fcc47d22d4e819743849c13eee6d65bc3a27.jpg\"><br></div>"
+                            ],
+                            "guid": "yV/.m3JP0y",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"background-color: rgb(242, 242, 242);\"><font color=\"#00000f\">Promoters of genes encoding certain CYPs respond to&nbsp;</font></span>{{c1::certain drugs}} and&nbsp;{{c1::pollutants}}.<div><br></div>",
+                                "Induction of CYP can lead to an increase in detoxifying activity or an increase in toxic metabolites, depending on what's being metabolised."
+                            ],
+                            "guid": "lM2~P1gmB?",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "An aryl hydrocarbons is a harmful&nbsp;{{c1::xenobiotic}} substance.<div><br></div>",
+                                "<img src=\"paste-acb9252602274175e7526d76871342d74cf4fea3.jpg\">"
+                            ],
+                            "guid": "y#Jvx5n[BE",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><span style=\"background-color: rgb(242, 242, 242);\"><font color=\"#00000f\">Most CYPs have activity against multiple substrates</font></span><br></div><div><br></div><div>co-administration of 2 substrates for one {{c1::CYP}} results in competition</div><div>Drug with lower {{c1::affinity}} is metabolized more slowly</div>",
+                                "Example, cyclosporin and grapefruit juice"
+                            ],
+                            "guid": "x06Oi@@Z&<",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Name an non comprtitive inhibitor of a CYP",
+                                "Ketoconazale"
+                            ],
+                            "guid": "DU7_Vu,9(R",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Phase 2 reactions.<div><div>Catalyzed by a diverse group of enzymes {{c1::</div><div>(transferases)</div><div></div>}}<div>Transfer of \"simple\" moieties (methyl-, acetyl-, sulfate, etc.) to a </div><div>{{c1::heteroatom}} (N, O or S) on the target drug</div><div><br></div><div>Enzymatic activation of these common intermediates to high-</div><div>energy species which then serve as co-substrates for the </div><div>transferases</div><div>Most, but not all, of these reaction products are extremely polar.<br></div><div><br></div><div>Increased water solubility of most conjugates makes them readily</div><div>excreted in the urine&nbsp;</div></div>",
+                                ""
+                            ],
+                            "guid": "z,u/Q=Rm.E",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>{{c1::Fulminant}} hepatic failure is the rapid development of severe acute liver injury with </div><div>impaired synthetic function and {{c1::encephalopathy}} in a person </div><div>who previously had a normal liver</div>",
+                                "<span style=\"background-color: rgb(242, 242, 242);\"><font color=\"#00000f\">Usually &lt; 8 weeks, sometimes , 1 week</font></span>"
+                            ],
+                            "guid": "GQTe)E^XH}",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "f51f3c4a-7dcf-11eb-bb7f-af478fea30f9",
+                    "deck_config_uuid": "f51f64b1-7dcf-11eb-821f-af478fea30f9",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "93ef347977834e4986944433867010cd-ao-1-A.svg",
+                        "93ef347977834e4986944433867010cd-ao-1-Q.svg",
+                        "93ef347977834e4986944433867010cd-ao-2-A.svg",
+                        "93ef347977834e4986944433867010cd-ao-2-Q.svg",
+                        "93ef347977834e4986944433867010cd-ao-O.svg",
+                        "paste-7a326143e7879159ca316b319ecc064d3c9af01f.jpg",
+                        "tmpjz94bgv9.png"
+                    ],
+                    "name": "Liver Review 02/03",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Paracetamol Toxicity:<div>{{c1::50%}} Accidental Overdose ,{{c1::50%}} suicide</div><div><br></div><div>Paracetamol toxicity is a common cause of&nbsp;{{c1::fulminant hepatic failure}}</div><div><br></div><div>Dose:&nbsp;</div><div> Toxicity unlikely &lt; {{c1::10g}} in adults&nbsp;</div><div> Toxicity almost universal &gt; {{c1::20g}} in adults&nbsp;</div><div> 1 Panadol tablet = 500mg paracetamol&nbsp;&nbsp;</div><div><br></div><div><br></div>",
+                                "<img src=\"paste-7a326143e7879159ca316b319ecc064d3c9af01f.jpg\"><div>this is the new and improved nomogram</div>"
+                            ],
+                            "guid": "C?.?=e.Lbx",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Clinical Features of Paracetamol Intoxication:<div><br></div><div>First 24 hours&nbsp;</div><div>&nbsp;{{c1::nausea}} and vomiting</div><div> Malaise&nbsp;</div><div> Labs results are {{c1::normal}}&nbsp;</div><div><br></div><div>24-72 hours&nbsp;</div><div> Elevated&nbsp;</div><div>&nbsp; &nbsp;-{{c1::aminotransferase}}: Due to degradation of hepatocytes</div><div>&nbsp; &nbsp;-{{c1::bilirubin}}: Due to degradation of hemoglobin</div><div>&nbsp; &nbsp;-{{c1::prothrombin time}}: Due to absence of clotting factors&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2,7,9,10</div><div> RUQ pain&nbsp;</div><div> {{c1::Renal}} failure<br></div><div><br></div><div>72-96 hours&nbsp;</div><div> {{c1::Jaundice}}: Due to build u of bilirubin&nbsp;</div><div> {{c1::Encephalopathy}}: Due to liver not working anymore</div><div> Worsening liver and renal function<br></div><div><br></div><div> &gt; 96 hours&nbsp;</div><div> Death&nbsp;</div><div> Liver transplant&nbsp;</div><div> Slow recovery<br></div>",
+                                "Serum Creatinine can be an indicator of renal failure"
+                            ],
+                            "guid": "J/u>UO1#su",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Treatment of paracetamol intoxication:</b><div><b><br></b></div><div>Gastrointestinal decontamination:&nbsp;</div><div>{{c1::Activated charcoal}} (adsorbing agent)<br></div><div>If &lt; {{c1::4}} hours since ingestion&nbsp;</div><div>Longer if delayed-release tabs used&nbsp;<b><br></b></div><div><br></div><div>Antidotes</div><div>Drug Name: {{c1::N-acetylcysteine}}&nbsp;</div><div> Precursor of {{c1::glutathione}}&nbsp;</div><div> Increases {{c1::glutathione}} stores&nbsp;</div><div> Neutralizes {{c1::NAPQI}}&nbsp;</div><div> Anti-{{c1::inflammatory}} &amp; anti-{{c1::oxidant}} properties&nbsp;</div><div> Highly efficacious<br></div><div><br></div>",
+                                ""
+                            ],
+                            "guid": "p/O^SW(Lq+",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Indications for NAC<div><br></div><div>-Serum paracetamol concentration drawn at 4 hours or more after a single acute ingestion\nis above the \"possible hepatic toxicity\" line of the Rumack-Matthew nomogram</div><div><br></div><div>-Serum paracetamol concentration is unavailable or will not return within {{c1::8}} hours of time of\ningestion and paracetamol ingestion suspected</div><div><br></div><div>-{{c1::Time}} of ingestion is unknown and serum paracetamol level is greater than {{c1::10}}\nmicrograms/ml</div><div><br></div><div>-There is evidence of ANY {{c1::hepatotoxicity}} with a history of paracetamol ingestion<br></div><div><br></div><div>-Patient reports or clinician suspects {{c1::repeated}} excessive paracetamol ingestions, patient\nhas risk factors for paracetamol -induced hepatotoxicity, and the serum paracetamol level\nis greater than 10 micrograms/mL</div>",
+                                "New nomogram, and you use treatment line now, which is 25% lower than possible hepatic toxicity line."
+                            ],
+                            "guid": "Q]Bj3/u]6d",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "N-acetyl-p-benzoquinoneimine (NAPQI)&nbsp;<div> Highly {{c1::reactive}} electrophile&nbsp;</div><div> Covalently binds {{c1::hepatocyte}} macromolecules. Covalent means bond is&nbsp;{{c1::Irreversible}}</div><div> Can cause {{c1::Oxidative}} injury&nbsp;</div><div> {{c1::Centrilobular}} necrosis&nbsp;</div><div> Secondary release of {{c1::cytokines}} and {{c1::ROS}}</div>",
+                                ""
+                            ],
+                            "guid": "A.ceg^=Wv/",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "93ef347977834e4986944433867010cd-ao-1",
+                                "",
+                                "<img src=\"tmpjz94bgv9.png\" />",
+                                "<img src=\"93ef347977834e4986944433867010cd-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"93ef347977834e4986944433867010cd-ao-1-A.svg\" />",
+                                "<img src=\"93ef347977834e4986944433867010cd-ao-O.svg\" />"
+                            ],
+                            "guid": "nX?KQ&=Eve",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "93ef347977834e4986944433867010cd-ao-2",
+                                "",
+                                "<img src=\"tmpjz94bgv9.png\" />",
+                                "<img src=\"93ef347977834e4986944433867010cd-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"93ef347977834e4986944433867010cd-ao-2-A.svg\" />",
+                                "<img src=\"93ef347977834e4986944433867010cd-ao-O.svg\" />"
+                            ],
+                            "guid": "eLufHI{w5i",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "MELD Score<div>MELD Score = (0.957 * ln({{c1::Serum Cr}}) + 0.378 * ln({{c1::Serum Bilirubin}}) + 1.120 *\nln({{c1::INR}}) + 0.643 ) * 10<br></div>",
+                                ""
+                            ],
+                            "guid": "1H1:ROq]2",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "f51d68bc-7dcf-11eb-a420-af478fea30f9",
+                    "deck_config_uuid": "f51d68bd-7dcf-11eb-abd4-af478fea30f9",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "3e6f3fc9c28546a38dec9e51eff84baa-oa-1-A.svg",
+                        "3e6f3fc9c28546a38dec9e51eff84baa-oa-1-Q.svg",
+                        "3e6f3fc9c28546a38dec9e51eff84baa-oa-2-A.svg",
+                        "3e6f3fc9c28546a38dec9e51eff84baa-oa-2-Q.svg",
+                        "3e6f3fc9c28546a38dec9e51eff84baa-oa-3-A.svg",
+                        "3e6f3fc9c28546a38dec9e51eff84baa-oa-3-Q.svg",
+                        "3e6f3fc9c28546a38dec9e51eff84baa-oa-4-A.svg",
+                        "3e6f3fc9c28546a38dec9e51eff84baa-oa-4-Q.svg",
+                        "3e6f3fc9c28546a38dec9e51eff84baa-oa-O.svg",
+                        "tmp8_h27fcm.png"
+                    ],
+                    "mid": 1602236504914,
+                    "name": "Liver cirrhosis Wheatley 12/02",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What does parenchymal mean?",
+                                "Relating to or affecting an organs function"
+                            ],
+                            "guid": "P1(lZ]Ea!8",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What are the parenchymal cells of the liver?<div>What percentage of liver cells do they make up?</div>",
+                                "Hepatocytes<div>80%</div>"
+                            ],
+                            "guid": "fz^V2>P#`l",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The four non-parenchymal cells of the liver are&nbsp;{{c1::Sinusoidal endothelial cells (lsecs), Biliary epithelial cells (cholagiocytes),Kupffer cells, Hepatic stellate cells (HSC)}}",
+                                ""
+                            ],
+                            "guid": "rcrh+V;)W0",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "LSECs are very thin cells with no&nbsp;{{c1::basement membrane}} and many&nbsp;{{c1::fenestrae}}",
+                                ""
+                            ],
+                            "guid": "vH%wBcC%bM",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Biliary epithelial cells function as&nbsp;{{c1::cuboidal epithelium}} in small interlobar bile ducts, and as&nbsp;{{c1::columnar and mucus secreting cells}} in larger bile ducts.&nbsp;<div><br></div><div>They secrete&nbsp;{{c1::bicarbonate}} and&nbsp;{{c1::water}} which contributes to bile.</div>",
+                                ""
+                            ],
+                            "guid": "Bm0O)Q;vW+",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is the role of Kupffer cells?",
+                                "Phagocytes in the sinusoids"
+                            ],
+                            "guid": "i~+%y+flrO",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What can heme be broken down into?",
+                                "Iron and bilirubin"
+                            ],
+                            "guid": "Jy(:#ADtBu",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Quiescient HSC is a storage site for&nbsp;{{c1::vitamin A}}. When activated, they become&nbsp;{{c1::contractile}} and produce&nbsp;{{c1::extra-cellular matrix proteins}}",
+                                ""
+                            ],
+                            "guid": "sOe7YhQU`.",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What activates HSCs?",
+                                "TGF-beta"
+                            ],
+                            "guid": "OTPc~&eN/,",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "At what blood pressure is it considered portal hypertension?",
+                                "12 mmHg or above"
+                            ],
+                            "guid": "q91#5?~cMS",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What does alcohol increase the intestines permeability of?",
+                                "Endotoxins (lipopolysacchrides), components of the gram negative bacterial cell wall."
+                            ],
+                            "guid": "tRC-{ht^+0",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What cytokines can kupffer cells produce?",
+                                "TNF-alpha, IL-1, IL-8"
+                            ],
+                            "guid": "Qq:.?BPwRt",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Why aren't the hepatic arteries really affected by fibrosis of the liver?",
+                                "They were already high pressure"
+                            ],
+                            "guid": "sGRls]=G*y",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is normal portal pressure?<div>What is portal hypertension?</div>",
+                                "5-10mmHg<div>12mmHg</div>"
+                            ],
+                            "guid": "kqldFKUe.(",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "How much of the blood flow to the liver comes from the portal vein?",
+                                "70-80%"
+                            ],
+                            "guid": "foV9+J3Ks6",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "3e6f3fc9c28546a38dec9e51eff84baa-oa-1",
+                                "",
+                                "<img src=\"tmp8_h27fcm.png\" />",
+                                "<img src=\"3e6f3fc9c28546a38dec9e51eff84baa-oa-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"3e6f3fc9c28546a38dec9e51eff84baa-oa-1-A.svg\" />",
+                                "<img src=\"3e6f3fc9c28546a38dec9e51eff84baa-oa-O.svg\" />"
+                            ],
+                            "guid": "Ik/rM@y_P<",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "3e6f3fc9c28546a38dec9e51eff84baa-oa-2",
+                                "",
+                                "<img src=\"tmp8_h27fcm.png\" />",
+                                "<img src=\"3e6f3fc9c28546a38dec9e51eff84baa-oa-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"3e6f3fc9c28546a38dec9e51eff84baa-oa-2-A.svg\" />",
+                                "<img src=\"3e6f3fc9c28546a38dec9e51eff84baa-oa-O.svg\" />"
+                            ],
+                            "guid": "yg/;bEOv9>",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "3e6f3fc9c28546a38dec9e51eff84baa-oa-3",
+                                "",
+                                "<img src=\"tmp8_h27fcm.png\" />",
+                                "<img src=\"3e6f3fc9c28546a38dec9e51eff84baa-oa-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"3e6f3fc9c28546a38dec9e51eff84baa-oa-3-A.svg\" />",
+                                "<img src=\"3e6f3fc9c28546a38dec9e51eff84baa-oa-O.svg\" />"
+                            ],
+                            "guid": "y>!+95|F@<",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "3e6f3fc9c28546a38dec9e51eff84baa-oa-4",
+                                "",
+                                "<img src=\"tmp8_h27fcm.png\" />",
+                                "<img src=\"3e6f3fc9c28546a38dec9e51eff84baa-oa-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"3e6f3fc9c28546a38dec9e51eff84baa-oa-4-A.svg\" />",
+                                "<img src=\"3e6f3fc9c28546a38dec9e51eff84baa-oa-O.svg\" />"
+                            ],
+                            "guid": "v5O;7S+JCv",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::glucagon}} is an endogenous vasodilator, produced in the the&nbsp;{{c1::pancreas}} that would usually be inactivated by the&nbsp;{{c1::liver}}<br>",
+                                ""
+                            ],
+                            "guid": "uns[{NzBmp",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What happens to the heart as a result of all the new volume?",
+                                "Increased EDV, which menas heart is stretched"
+                            ],
+                            "guid": "gf9qt#c6at",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What are varices?",
+                                "Dilation of pre-existing blood vessels"
+                            ],
+                            "guid": "v0WQRDHkQ#",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What veins do the esophageal varices anastamose with?",
+                                "Veins that drain into the azygous vein"
+                            ],
+                            "guid": "gKDQBbZ(1V",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What hormone contributes to biliary epithelial cell fluid secretion?",
+                                "Secretin"
+                            ],
+                            "guid": "E1513BD4cc",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Why might an esophageal varix rupture?",
+                                "Thin walls dues to stretch, and food passing down."
+                            ],
+                            "guid": "oX<;*!mYC&",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What diameter are LSECs?",
+                                "6.5um"
+                            ],
+                            "guid": "Hgk&`t#&DU",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is a fall in portal vein blood flow offset by?",
+                                "An increase in hepatic artery blood flow"
+                            ],
+                            "guid": "urPw%1fTuy",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What hormones/neurotransmitters are in abundance during cirrhosis?",
+                                "Adrenaline and noradrenaline"
+                            ],
+                            "guid": "FH/hr@<+|S",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What drug would you give to reduce the effect of portal hypertension?",
+                                "Propranolol or any other beta blokcer"
+                            ],
+                            "guid": "D5TQ#H%{8u",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What receptor is used to reduce the splanchnic blood flow?",
+                                "alpha1-adrenoceptors"
+                            ],
+                            "guid": "cQo*<bho{h",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        }
+                    ]
+                }
+            ],
+            "crowdanki_uuid": "f5186336-7dcf-11eb-b673-af478fea30f9",
+            "deck_config_uuid": "f5186337-7dcf-11eb-af38-af478fea30f9",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Liver Failure",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "f5204d62-7dcf-11eb-862f-af478fea30f9",
+                    "deck_config_uuid": "f5204d63-7dcf-11eb-8a03-af478fea30f9",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "3d11acb077a847d098ce75ce0346ec42-ao-1-A.svg",
+                        "3d11acb077a847d098ce75ce0346ec42-ao-1-Q.svg",
+                        "3d11acb077a847d098ce75ce0346ec42-ao-2-A.svg",
+                        "3d11acb077a847d098ce75ce0346ec42-ao-2-Q.svg",
+                        "3d11acb077a847d098ce75ce0346ec42-ao-3-A.svg",
+                        "3d11acb077a847d098ce75ce0346ec42-ao-3-Q.svg",
+                        "3d11acb077a847d098ce75ce0346ec42-ao-O.svg",
+                        "63d7808dd3ea492eb7c5b381f2ded48f-ao-1-A.svg",
+                        "63d7808dd3ea492eb7c5b381f2ded48f-ao-1-Q.svg",
+                        "63d7808dd3ea492eb7c5b381f2ded48f-ao-2-A.svg",
+                        "63d7808dd3ea492eb7c5b381f2ded48f-ao-2-Q.svg",
+                        "63d7808dd3ea492eb7c5b381f2ded48f-ao-3-A.svg",
+                        "63d7808dd3ea492eb7c5b381f2ded48f-ao-3-Q.svg",
+                        "63d7808dd3ea492eb7c5b381f2ded48f-ao-4-A.svg",
+                        "63d7808dd3ea492eb7c5b381f2ded48f-ao-4-Q.svg",
+                        "63d7808dd3ea492eb7c5b381f2ded48f-ao-O.svg",
+                        "8b33dbe059fe48a1944550248f5f5ef4-ao-1-A.svg",
+                        "8b33dbe059fe48a1944550248f5f5ef4-ao-1-Q.svg",
+                        "8b33dbe059fe48a1944550248f5f5ef4-ao-2-A.svg",
+                        "8b33dbe059fe48a1944550248f5f5ef4-ao-2-Q.svg",
+                        "8b33dbe059fe48a1944550248f5f5ef4-ao-3-A.svg",
+                        "8b33dbe059fe48a1944550248f5f5ef4-ao-3-Q.svg",
+                        "8b33dbe059fe48a1944550248f5f5ef4-ao-4-A.svg",
+                        "8b33dbe059fe48a1944550248f5f5ef4-ao-4-Q.svg",
+                        "8b33dbe059fe48a1944550248f5f5ef4-ao-5-A.svg",
+                        "8b33dbe059fe48a1944550248f5f5ef4-ao-5-Q.svg",
+                        "8b33dbe059fe48a1944550248f5f5ef4-ao-O.svg",
+                        "paste-10b615ec234444da2849e9b13cb980aa3563cf11.jpg",
+                        "paste-478239b84373a9ed97a8b3310413aba0deaf61a6.jpg",
+                        "paste-5d6ce3412a502c4fd0fe1260d15c8ee84ef569d0.jpg",
+                        "paste-b6b6631b6b9c6a0dded71b3ec67323608cb3957c.jpg",
+                        "paste-bf2c32e7ddffa2fcc241a3da5bb1556441abcb11.jpg",
+                        "tmp2l5uoqd0.png",
+                        "tmpa507w8cz.png",
+                        "tmpx4hx0lop.png"
+                    ],
+                    "mid": 1602236504914,
+                    "name": "Resp Physiology 07/02",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "8b33dbe059fe48a1944550248f5f5ef4-ao-1",
+                                "",
+                                "<img src=\"tmpa507w8cz.png\" />",
+                                "<img src=\"8b33dbe059fe48a1944550248f5f5ef4-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"8b33dbe059fe48a1944550248f5f5ef4-ao-1-A.svg\" />",
+                                "<img src=\"8b33dbe059fe48a1944550248f5f5ef4-ao-O.svg\" />"
+                            ],
+                            "guid": "DQ90X^3:+;",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "8b33dbe059fe48a1944550248f5f5ef4-ao-2",
+                                "",
+                                "<img src=\"tmpa507w8cz.png\" />",
+                                "<img src=\"8b33dbe059fe48a1944550248f5f5ef4-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"8b33dbe059fe48a1944550248f5f5ef4-ao-2-A.svg\" />",
+                                "<img src=\"8b33dbe059fe48a1944550248f5f5ef4-ao-O.svg\" />"
+                            ],
+                            "guid": "I(oK!2+JfB",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "8b33dbe059fe48a1944550248f5f5ef4-ao-3",
+                                "",
+                                "<img src=\"tmpa507w8cz.png\" />",
+                                "<img src=\"8b33dbe059fe48a1944550248f5f5ef4-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"8b33dbe059fe48a1944550248f5f5ef4-ao-3-A.svg\" />",
+                                "<img src=\"8b33dbe059fe48a1944550248f5f5ef4-ao-O.svg\" />"
+                            ],
+                            "guid": "uxZSc72I<d",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "8b33dbe059fe48a1944550248f5f5ef4-ao-4",
+                                "",
+                                "<img src=\"tmpa507w8cz.png\" />",
+                                "<img src=\"8b33dbe059fe48a1944550248f5f5ef4-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"8b33dbe059fe48a1944550248f5f5ef4-ao-4-A.svg\" />",
+                                "<img src=\"8b33dbe059fe48a1944550248f5f5ef4-ao-O.svg\" />"
+                            ],
+                            "guid": "JRI?c0:1eT",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "8b33dbe059fe48a1944550248f5f5ef4-ao-5",
+                                "",
+                                "<img src=\"tmpa507w8cz.png\" />",
+                                "<img src=\"8b33dbe059fe48a1944550248f5f5ef4-ao-5-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"8b33dbe059fe48a1944550248f5f5ef4-ao-5-A.svg\" />",
+                                "<img src=\"8b33dbe059fe48a1944550248f5f5ef4-ao-O.svg\" />"
+                            ],
+                            "guid": "yRX3`GyY*a",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Sensory Inputs to Respiratory Centre<div><br></div><div>Central {{c1::Chemoreceptors}} and Peripheral {{c1::Chemoreceptors}}(Both the same): Monitor PCO2<br></div><div><br></div><div>Higher Brain Centres: When we conciously breath</div><div><br></div><div>Pulmonary {{c1::Stretch}} Receptors: Monitors over or underbreathing</div><div><br></div><div>Muscle Stretch Receptors: These activate during excercise to help adjust ventilation<br><br></div><div>Irritant Receptors: Important in the&nbsp;{{c1::cough}} and&nbsp;{{c1::sneeze}}&nbsp; reflex<br><br><br><br></div><div><br></div><div><br></div>",
+                                "<img src=\"paste-bf2c32e7ddffa2fcc241a3da5bb1556441abcb11.jpg\">"
+                            ],
+                            "guid": "Rjx21-hjL/",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "• O2 binds to Hb with much {{c1::less}} affinity than carbon monoxide<div><br></div><div>Normal Lung<br>• Cappilary PO2 equilibrates with {{c1::Alveolar}} PO2 after&nbsp;{{c1::0.25}} seconds</div><div>{{c1::97}}% of oxygen that diffuses into capillary binds to Hb</div><div>In healthy Lung Oxygen Transfer is {{c1::Perfusion}} Limited</div><div><br></div><div><br></div><div>Abnormal Lung with Thickened barrier<br>• {{c1::Diffusion}} is impaired<br>• Capillary PO2 may not equilibrate with&nbsp;{{c1::Alveolar}} PO2<br>In non - healthy Lung Oxygen Transfer is {{c1::Diffusion}} limited<br></div><div><br></div><div>Excercise&nbsp;{{c1::increases}} the amount of time taken for oxygen to diffuse</div>",
+                                "<img src=\"paste-b6b6631b6b9c6a0dded71b3ec67323608cb3957c.jpg\">"
+                            ],
+                            "guid": "N;[lTEpJho",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "63d7808dd3ea492eb7c5b381f2ded48f-ao-1",
+                                "",
+                                "<img src=\"tmpx4hx0lop.png\" />",
+                                "<img src=\"63d7808dd3ea492eb7c5b381f2ded48f-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"63d7808dd3ea492eb7c5b381f2ded48f-ao-1-A.svg\" />",
+                                "<img src=\"63d7808dd3ea492eb7c5b381f2ded48f-ao-O.svg\" />"
+                            ],
+                            "guid": "r{#Upb<PfT",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "63d7808dd3ea492eb7c5b381f2ded48f-ao-2",
+                                "",
+                                "<img src=\"tmpx4hx0lop.png\" />",
+                                "<img src=\"63d7808dd3ea492eb7c5b381f2ded48f-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"63d7808dd3ea492eb7c5b381f2ded48f-ao-2-A.svg\" />",
+                                "<img src=\"63d7808dd3ea492eb7c5b381f2ded48f-ao-O.svg\" />"
+                            ],
+                            "guid": "F2!rF$yxCr",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "63d7808dd3ea492eb7c5b381f2ded48f-ao-3",
+                                "",
+                                "<img src=\"tmpx4hx0lop.png\" />",
+                                "<img src=\"63d7808dd3ea492eb7c5b381f2ded48f-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"63d7808dd3ea492eb7c5b381f2ded48f-ao-3-A.svg\" />",
+                                "<img src=\"63d7808dd3ea492eb7c5b381f2ded48f-ao-O.svg\" />"
+                            ],
+                            "guid": "p0P6er?hvB",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "63d7808dd3ea492eb7c5b381f2ded48f-ao-4",
+                                "",
+                                "<img src=\"tmpx4hx0lop.png\" />",
+                                "<img src=\"63d7808dd3ea492eb7c5b381f2ded48f-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"63d7808dd3ea492eb7c5b381f2ded48f-ao-4-A.svg\" />",
+                                "<img src=\"63d7808dd3ea492eb7c5b381f2ded48f-ao-O.svg\" />"
+                            ],
+                            "guid": "yB%v|BXhVA",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Where is the best ventilation in the lung? Apex/Base&nbsp; {{c1::Base}}<div>Where is the best perfusion in the lung? APex/Base&nbsp;{{c1::Base}}</div><div><br></div><div>Measurement of regional differences in ventilation is measured using {{c1::radioactive xenon}} (substance marker)</div><div><br></div><div>Pulmonary blood flow is much higher at base/apex due to&nbsp;{{c1::gravity}}&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;{{c1::base}}</div><div><br></div><div><br></div>",
+                                ""
+                            ],
+                            "guid": "JwQ!`{Kf57",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Zone 1 (APEX OF LUNG)<br>• {{c1::Alveolar}} pressure higher than {{c1::Pulmonary&nbsp;artery}}&nbsp;Pressure &amp; {{c1::venous}} Pressure, so collapsible vessels closed and no flow<br><br><div>• Zone 2 (middle of lung)<br>•&nbsp;{{c1::Pulmonary artery}} pressure &gt;&nbsp;{{c1::Alveolar }} pressure &gt; {{c1::venous}} pressure.&nbsp;</div><div>Constriction at the downstream end of collapsible vessel.<br>Intermittent flow with each breath<br><br></div><div>• Zone 3<br>• (Pulmonary artery) pressure &gt; (venous) pressure &gt; (Alveolar) pressure , and so collapsible vessels are held open</div>",
+                                "<img src=\"paste-5d6ce3412a502c4fd0fe1260d15c8ee84ef569d0.jpg\">"
+                            ],
+                            "guid": "n-cSrK]Aet",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "From the Apex to base of the lung ventilation decreases&nbsp;{{c1::less}} quickly than perfusion",
+                                "<img src=\"paste-478239b84373a9ed97a8b3310413aba0deaf61a6.jpg\">"
+                            ],
+                            "guid": "j,t/r52ik/",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Deadspace}} : High ventilation, low perfusion<div>{{c1::Shunt}}:&nbsp; Low ventilation, high perfusion</div>",
+                                "Shunt and deadspace can lead to hypoxia<div>Shunt<br>• Perfusion of lung units without ventilation<br>• Unoxygenated blood enters the systemic circulation<br>• V/Q = 0<br><br>• Dead space<br>• Ventilation of lung units without perfusion<br>• Gas enters and leaves lung units without contacting blood<br>• Wasted ventilation<br>• V/Q is infinite<br></div>"
+                            ],
+                            "guid": "f5$yW)D.%t",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Flow= Pressure{{c1::/}} Resistance<div><br></div><div>At low flow rates, flow is&nbsp;{{c1::laminar}}</div><div>At higher flow rates (esp. at branches etc.) flow is&nbsp;{{c1::turbulent}}</div>",
+                                "<img src=\"paste-10b615ec234444da2849e9b13cb980aa3563cf11.jpg\">"
+                            ],
+                            "guid": "P4(n>Y-a#?",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "3d11acb077a847d098ce75ce0346ec42-ao-1",
+                                "",
+                                "<img src=\"tmp2l5uoqd0.png\" />",
+                                "<img src=\"3d11acb077a847d098ce75ce0346ec42-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"3d11acb077a847d098ce75ce0346ec42-ao-1-A.svg\" />",
+                                "<img src=\"3d11acb077a847d098ce75ce0346ec42-ao-O.svg\" />"
+                            ],
+                            "guid": "BQv.gT4O^l",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "3d11acb077a847d098ce75ce0346ec42-ao-2",
+                                "",
+                                "<img src=\"tmp2l5uoqd0.png\" />",
+                                "<img src=\"3d11acb077a847d098ce75ce0346ec42-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"3d11acb077a847d098ce75ce0346ec42-ao-2-A.svg\" />",
+                                "<img src=\"3d11acb077a847d098ce75ce0346ec42-ao-O.svg\" />"
+                            ],
+                            "guid": "AU_?,29eww",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "3d11acb077a847d098ce75ce0346ec42-ao-3",
+                                "",
+                                "<img src=\"tmp2l5uoqd0.png\" />",
+                                "<img src=\"3d11acb077a847d098ce75ce0346ec42-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"3d11acb077a847d098ce75ce0346ec42-ao-3-A.svg\" />",
+                                "<img src=\"3d11acb077a847d098ce75ce0346ec42-ao-O.svg\" />"
+                            ],
+                            "guid": "Ck[wI,:4,t",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Most resistance (and turbulent flow)\nis in {{c1::medium}} sized bronchi&nbsp;<div>{{c1::Terminal}} bronchioles offer very little\nresistance</div><div><br></div><div>In upper airway obstruction,\ndevelopment of {{c1::turbulent}} flow is\nimportant mechanism of increased airway\nresistance</div><div>&nbsp;</div><div>Treated by {{c1::Heliox}} (21 % O2\n, 79 % He)&nbsp;</div><div>{{c1::Less}} dense\nthan air so more conducive to laminar\nflow and ↓ resistance in turbulent\nflow</div><div><div><br></div><div><br></div><div>Factors Affecting Airway Resistance&nbsp;</div><div>• Lung Volume:</div><div><br></div><div>Increased Lung volume=&nbsp;{{c1::decreased}} Airway resistance and {{c1::increased}} Bronchi diameter&nbsp;&nbsp;</div><div><br></div><div>Decreased Lung volume=&nbsp;{{c1::increased}} Airway resistance&nbsp;</div><div>Small airways (base of lung) may close completely&nbsp;<br></div><div><br></div><div><br></div><div>Factors Affecting Airway Resistance&nbsp;</div><div>• Bronchial smooth muscle contraction ↓ airway diameter ↑ resistance&nbsp;</div><div>&nbsp;Due to {{c1::Vagus}}nerve and {{c1::ACh}} (NT) and Irritant reflexes&nbsp;</div><div><br></div><div>• Bronchial smooth muscle relaxation ↑ airway diameter ↓ resistance</div><div>&nbsp;• Activation of {{c1::adrenergic}} receptors&nbsp;</div><div><br></div><div><br></div></div>",
+                                ""
+                            ],
+                            "guid": "ptsYq{.i:}",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "f5213816-7dcf-11eb-8509-af478fea30f9",
+                    "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "46dc24a0b046403e8984e886e58046dd-ao-1-A.svg",
+                        "46dc24a0b046403e8984e886e58046dd-ao-1-Q.svg",
+                        "46dc24a0b046403e8984e886e58046dd-ao-2-A.svg",
+                        "46dc24a0b046403e8984e886e58046dd-ao-2-Q.svg",
+                        "46dc24a0b046403e8984e886e58046dd-ao-O.svg",
+                        "e1585bb71517447e8fe81de114906004-ao-1-A.svg",
+                        "e1585bb71517447e8fe81de114906004-ao-1-Q.svg",
+                        "e1585bb71517447e8fe81de114906004-ao-O.svg",
+                        "e8ec704b3b27469f8b4c20117afa2dd9-ao-1-A.svg",
+                        "e8ec704b3b27469f8b4c20117afa2dd9-ao-1-Q.svg",
+                        "e8ec704b3b27469f8b4c20117afa2dd9-ao-O.svg",
+                        "paste-680de7e3068aca576b9c63d84d08e1e423fe3112.jpg",
+                        "paste-a237140a0cb9861aa60e81e76d9e69b41fe5ded4.jpg",
+                        "tmp66_dufv7.png",
+                        "tmp_6h8e_kt.png",
+                        "tmpgnl834z5.png"
+                    ],
+                    "mid": 1602236504918,
+                    "name": "Resp. Failure 09/02",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "e1585bb71517447e8fe81de114906004-ao-1",
+                                "",
+                                "<img src=\"tmp_6h8e_kt.png\" />",
+                                "<img src=\"e1585bb71517447e8fe81de114906004-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"e1585bb71517447e8fe81de114906004-ao-1-A.svg\" />",
+                                "<img src=\"e1585bb71517447e8fe81de114906004-ao-O.svg\" />"
+                            ],
+                            "guid": "N7ml-o7~n/",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Oxygen consumption:<br>~ {{c1::250}}ml/min (approximately 3 – 4ml/kg/min)<br><br>Oxygen delivery:<br>~ {{c1::1000}}ml/min (~ 10 – 15ml/Kg/min)<br><br>Oxygen delivery<br>DO2 = CO {{c1::x}} CaO2<div>CO={{c1::Cardiac Output}}</div><div>CaO2=Oxygen content of arterial blood<br><br>CaO2 =({{c1::Hb}} x 1.34 x SaO2/100) + 0.0225 PaO2 (Kpa)</div><div><br></div><div>0.0225 PaO2 (Kpa) is the amount of oxygen&nbsp;{{c1::dissolved}} in the blood<br></div><div><br></div><div><br></div>",
+                                ""
+                            ],
+                            "guid": "vh#r~u?OQj",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Elevated CO2 levels lead to respiratory {{c1::acidosis}}<div>{{c1::hypercapnea}}: Build up of CO2 in bloodstream<br></div><div><br></div><div><br></div><div><br></div>",
+                                "Elevated CO2 levels can cause vasodilation of vessels in the brain, causing cerebral oedema<div><br></div><div>Can also cause heart to pump less efficiantly, this can lead to ventricular tachycardia and ventricular fibrillation.</div>"
+                            ],
+                            "guid": "hz28W#L?<$",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Respiratory Failure.<div><br></div><div>Type 1:</div><div>&nbsp;{{c1::Oxygenation}} failure which leads to&nbsp;{{c1::hypoxia}} (in the slides)</div><div>PaO2 must be under&nbsp;{{c1::60}}mmHg to be considered type 1 resp failure (normal is&nbsp;{{c1::100}}mmHg)</div><div><br></div><div>Type 2:&nbsp;</div><div>{{c1::Ventilation}} failure which leads to&nbsp;{{c1::hypercapneoa}}<br></div><div>PaCO2 is over {{c1::50}}mmHg for type 2 resp failure (normal is&nbsp;{{c1::40}}mmHg)</div><div>It is associated with&nbsp;{{c1::acidosis}}</div><div><br></div><div>Which is more life threatening: Acute Hypoxia or CO2 retention?&nbsp;{{c1::Hypoxia}}</div><div>&nbsp;</div><div><br></div>",
+                                "If patient comes in with hypoxia, if you give too much O2, body can start hypoventilating causing retention of CO2.<div><br></div><div>Type 2 common in COPD and Pickwickian syndrome</div>"
+                            ],
+                            "guid": "j%u;m`qpj+",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>CAUSES OF RESPIRATORY FAILURE</div>- Airways:<br>Acinus which consists of&nbsp;{{c1::respiratory bronchioles/alveoli}}<div>Pulmonary blood supply<br><div><br></div><div>- Neurological system<br>CNS:&nbsp;</div><div>{{c1::carotid body}} chemoreceptors,<br>respiratory center<br><br></div><div>PNS:&nbsp;</div><div>Innervation to&nbsp;{{c1::neuromuscular junctions}}<br><br></div><div>- muscles of respiration;<br></div><div>{{c1::diaphragm, intercostals,<br>accessory muscles}}(3)<br><br></div><div>Airway Conditions</div><div>{{c1::- Asthma,&nbsp;<div>-COPD<br>- Pneumonia<br>-Pulmonary oedema<br>- Pulmonary embolism}} (5)</div></div><div><br>- Overdose ({{c1::opiates}}, {{c1::benzodiazeplines}})<br>-{{c1::brain-stem}} stroke<br><br></div><div>Muscle Affecting Conditions</div><div>{{c1::MND,&nbsp;<div>Guillain-Barre,<br>myasthenia gravis,<br>Muscular dystrophy}}</div></div></div>",
+                                ""
+                            ],
+                            "guid": "Ae_y>LvppO",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The&nbsp;{{c1::phrenic}} nerve supplies the diaphragm<div>The&nbsp;{{c1::intercostal}} nerve supplies the intercostal muscles</div><div><br></div><div>Impulses from peripheral chemoreceptors and baroreceptors are carried by the&nbsp;{{c1::glossopharyngeal}} nerve and&nbsp;{{c1::vagus}} nerve to the respiratory center</div>",
+                                ""
+                            ],
+                            "guid": "mZF1Uq,`6_",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-a237140a0cb9861aa60e81e76d9e69b41fe5ded4.jpg\"><div>Increased [H+] is leads to&nbsp;{{c1::acidosis}}</div><div><br></div>",
+                                ""
+                            ],
+                            "guid": "H|ru`=/>(4",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Asthma,Cancer of the airway ,Foreign body are all examples of&nbsp;{{c1::intrinsic}} ariway obstruction<div><br></div><div>Infections of the epiglottis or neck, goitre are examples of&nbsp;{{c1::extrinsic}} airway obstruction</div>",
+                                ""
+                            ],
+                            "guid": "ESYRwP-yZw",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Supportive or definitive treatment?<div><br></div><div>Priority is to support respiratory function&nbsp;{{c1::supportive}}<br></div><div><br></div><div>Involves establishing the underlying cause of the illness&nbsp;{{c1::definitive}}</div><div><br></div><div>Commence before definitive diagnosis&nbsp;{{c1::supportive}}<br></div><div><br></div><div>Buys time&nbsp;{{c1::supportive}}<br></div><div><br></div><div>requires history, physical examination and investigations&nbsp;{{c1::definitve}}<br></div><div><br></div>",
+                                ""
+                            ],
+                            "guid": "Pnnv7oheDA",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Conditions: Bronchoconstriction, Tumour, Infection, Foreign body<div><br></div><div>Intubation and resection treats&nbsp;{{c1::a tumour}}</div><div><br></div><div>Removal treats&nbsp;{{c1::foreign body}}</div><div><br></div><div>Intubation and antibiotic treats&nbsp;{{c1::infection}}</div><div><br></div><div>B-agonists, Steroids treat,&nbsp;{{c1::bronchoconstriction}}<br></div>",
+                                ""
+                            ],
+                            "guid": "H39su!EJv/",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Dead space is when a lung is being&nbsp;{{c1::ventialted}} but not&nbsp;{{c1::perfused}}</div><div><br></div>Anatomical dead space makes up&nbsp;{{c1::1/3}} of tidal volume<div><br></div><div>Anatomical dead space does does not include&nbsp;{{c1::alveoli}}</div><div><br></div><div>Physiological dead space is any part of the lung not being perfused</div><div><br></div><div><br></div>",
+                                "VD = PaCO2 – PeCO2/PaCO2"
+                            ],
+                            "guid": "i/;l~cEw8d",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Shunt is when a lung is&nbsp;{{c1::perfused}} but not&nbsp;{{c1::ventilated}}<div><img src=\"paste-680de7e3068aca576b9c63d84d08e1e423fe3112.jpg\"><br></div><div>Examples of conditions that involeve alveolar consolidation are&nbsp;{{c1::pneumonia, ARDS, and cardiac failure}}(3) due to&nbsp;Pus ,Inflammatory exudate and pulmonary oedema respectively</div><div><br></div><div>Examples of conditions that involve impaired diffusion are&nbsp;{{c1:: Interstitial pulmonary\nfibrosis Cancer}}(2) dues to fibrous tissue and malignant cells respectively</div>",
+                                ""
+                            ],
+                            "guid": "vllCU-<A9N",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "e8ec704b3b27469f8b4c20117afa2dd9-ao-1",
+                                "",
+                                "<img src=\"tmpgnl834z5.png\" />",
+                                "<img src=\"e8ec704b3b27469f8b4c20117afa2dd9-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"e8ec704b3b27469f8b4c20117afa2dd9-ao-1-A.svg\" />",
+                                "<img src=\"e8ec704b3b27469f8b4c20117afa2dd9-ao-O.svg\" />"
+                            ],
+                            "guid": "s;(1cv#_dm",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "46dc24a0b046403e8984e886e58046dd-ao-1",
+                                "",
+                                "<img src=\"tmp66_dufv7.png\" />",
+                                "<img src=\"46dc24a0b046403e8984e886e58046dd-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"46dc24a0b046403e8984e886e58046dd-ao-1-A.svg\" />",
+                                "<img src=\"46dc24a0b046403e8984e886e58046dd-ao-O.svg\" />"
+                            ],
+                            "guid": "fpf*_`,Y9y",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "46dc24a0b046403e8984e886e58046dd-ao-2",
+                                "",
+                                "<img src=\"tmp66_dufv7.png\" />",
+                                "<img src=\"46dc24a0b046403e8984e886e58046dd-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"46dc24a0b046403e8984e886e58046dd-ao-2-A.svg\" />",
+                                "<img src=\"46dc24a0b046403e8984e886e58046dd-ao-O.svg\" />"
+                            ],
+                            "guid": "grAqo}[yN6",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>A-a Gradient (difference in PAO2 and PaO2)</div>Normal gradient:<br>{{c1::5 – 10}}mmHg<div><br></div><div>Hypoxia + normal gradient:<br>Implies {{c1::hypoventilation}}<br></div><div><br></div><div>Hypoxia + increased gradient:<br>Implies {{c1::intrapulmonary shunt}}<br></div>",
+                                ""
+                            ],
+                            "guid": "nzoY]H_VT#",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        }
+                    ]
+                }
+            ],
+            "crowdanki_uuid": "f51fd813-7dcf-11eb-9d14-af478fea30f9",
+            "deck_config_uuid": "f51fd814-7dcf-11eb-8798-af478fea30f9",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Respiratory Failure",
+            "notes": []
+        }
+    ],
+    "crowdanki_uuid": "f517a04a-7dcf-11eb-9bfa-af478fea30f9",
+    "deck_config_uuid": "f517c747-7dcf-11eb-8982-af478fea30f9",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "f517c747-7dcf-11eb-8982-af478fea30f9",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    1,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "f5186337-7dcf-11eb-af38-af478fea30f9",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    1,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "f518ff38-7dcf-11eb-8a27-af478fea30f9",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    1,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "f51b47b7-7dcf-11eb-86ea-af478fea30f9",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    1,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "f51d68bd-7dcf-11eb-abd4-af478fea30f9",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    1,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "f51f64b1-7dcf-11eb-821f-af478fea30f9",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    1,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "f51fd814-7dcf-11eb-8798-af478fea30f9",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    1,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "f5204d63-7dcf-11eb-8a03-af478fea30f9",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    1,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    1,
+                    0
+                ],
+                "order": 0,
+                "perDay": 100
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "2.2::Organ Failure",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic-b2764",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": []
+}
