@@ -7,440 +7,8 @@
                 {
                     "__type__": "Deck",
                     "children": [],
-                    "crowdanki_uuid": "f518d81b-7dcf-11eb-ae27-af478fea30f9",
-                    "deck_config_uuid": "f518ff38-7dcf-11eb-8a27-af478fea30f9",
-                    "desc": "",
-                    "dyn": 0,
-                    "extendNew": 0,
-                    "extendRev": 0,
-                    "media_files": [
-                        "fead45c5b5734e158a2205de204355b7-ao-1-A.svg",
-                        "fead45c5b5734e158a2205de204355b7-ao-1-Q.svg",
-                        "fead45c5b5734e158a2205de204355b7-ao-2-A.svg",
-                        "fead45c5b5734e158a2205de204355b7-ao-2-Q.svg",
-                        "fead45c5b5734e158a2205de204355b7-ao-3-A.svg",
-                        "fead45c5b5734e158a2205de204355b7-ao-3-Q.svg",
-                        "fead45c5b5734e158a2205de204355b7-ao-O.svg",
-                        "paste-009cde11405094d359e27d4d06a4d4b280e92508.jpg",
-                        "paste-f695991f6891e67234af87f7cfdd3700c62a42cd.jpg",
-                        "tmpq8ycav9_.png"
-                    ],
-                    "mid": 1602236504918,
-                    "name": "Fulminant Liver Failure 22/02",
-                    "notes": [
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<div>Fulminant Hepatic Failure: Causes</div><div><br></div><div>{{c1::paracetamol overdose}} (39 percent)</div><div><br></div><div>indeterminate (17 percent)</div><div><br></div><div>idiosyncratic (non-acetaminophen) drug reactions (13 </div><div>percent)</div><div><br></div><div>{{c1::viral hepatitis A or B}} (12 percent)</div><div><br></div><div>Rare Causes:</div><div>Autoimmune hepatitis</div><div>{{c1::Wilson's Disease}}: Overload of copper in the liver</div><div>{{c1::Budd Chiari}}: Acute obstruction of hepatic vein</div><div>Acute fatty liver of pregnancy</div>",
-                                "<img src=\"paste-009cde11405094d359e27d4d06a4d4b280e92508.jpg\">"
-                            ],
-                            "guid": "I=y;Y[2`%4",
-                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "{{c1::Nimesulide}} caused an idiosyncratic drug reaction that led to fulminant liver failure, that led to it being pulled from use",
-                                ""
-                            ],
-                            "guid": "j)9z;>f-3@",
-                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<img src=\"paste-f695991f6891e67234af87f7cfdd3700c62a42cd.jpg\">",
-                                ""
-                            ],
-                            "guid": "icEF_]!kTP",
-                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "fead45c5b5734e158a2205de204355b7-ao-1",
-                                "",
-                                "<img src=\"tmpq8ycav9_.png\" />",
-                                "<img src=\"fead45c5b5734e158a2205de204355b7-ao-1-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"fead45c5b5734e158a2205de204355b7-ao-1-A.svg\" />",
-                                "<img src=\"fead45c5b5734e158a2205de204355b7-ao-O.svg\" />"
-                            ],
-                            "guid": "JT)4/9@]cU",
-                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "fead45c5b5734e158a2205de204355b7-ao-2",
-                                "",
-                                "<img src=\"tmpq8ycav9_.png\" />",
-                                "<img src=\"fead45c5b5734e158a2205de204355b7-ao-2-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"fead45c5b5734e158a2205de204355b7-ao-2-A.svg\" />",
-                                "<img src=\"fead45c5b5734e158a2205de204355b7-ao-O.svg\" />"
-                            ],
-                            "guid": "c*OKed0BU,",
-                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "fead45c5b5734e158a2205de204355b7-ao-3",
-                                "",
-                                "<img src=\"tmpq8ycav9_.png\" />",
-                                "<img src=\"fead45c5b5734e158a2205de204355b7-ao-3-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"fead45c5b5734e158a2205de204355b7-ao-3-A.svg\" />",
-                                "<img src=\"fead45c5b5734e158a2205de204355b7-ao-O.svg\" />"
-                            ],
-                            "guid": "AHO_N.)G0&",
-                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Hepatic Encephalopathy: Failure to&nbsp;{{c1::detoxify}} portal blood<div><br></div><div>{{c1::Ammonia}} in the blood is a good indicator of fulminant liver failure.<br></div><div><br></div><div>Clinical Faetures of encephalopathy are:</div><div>Confusion</div><div>Drosziness</div><div>{{c1::COnstructional Apraxia}}: inability to assemble, draw objects</div><div>{{c1::Fetor hepaticus}}: Bad breath</div><div><br></div><div><br></div>",
-                                "<div>Treatments include</div><div>Laxatives eg lactulose</div><div>•Non-absorbable antibiotics eg </div><div>Neomycin</div>"
-                            ],
-                            "guid": "ph4Ai>MdE|",
-                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<div>{{c1::2}}: Gross disorientation, drowsiness, possibly asterixis,</div><div>inappropriate behavior</div><div><br></div><div>{{c1::1}}&nbsp;Changes in behavior with minimal change in level of </div><div>consciousness</div><div><br></div><div><div>{{c1::4}}Comatose, unresponsive to pain, decorticate or<br></div><div>decerebrate posturing</div></div><div><br></div><div>&nbsp;{{c1::3}}Marked confusion, incoherent speech, sleeping most of</div><div>the time but arousable to vocal stimuli</div><div><br></div><div>&nbsp;</div>",
-                                ""
-                            ],
-                            "guid": "v#xnzu?HOR",
-                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Why does fluid oedema happen during fulminant liver failure?",
-                                "Osmotic changes in astrocytes (big differrence in osmotic pressure between brain and plasma)<div><br></div><div><span style=\"background-color: rgb(242, 242, 242);\"><font color=\"#00000f\">Fluid balance, elevate head, mannitol are treatments</font></span><br></div>"
-                            ],
-                            "guid": "vI!TW8djif",
-                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Liver produces clotting factors&nbsp;{{c1::2,7,9,10}}(4)<div>They are all&nbsp;{{c1::vitamin k}} depedant</div><div>In liver failure there is a decreased ability to synthesize clotting factors.</div><div>This can result in bleeding, especially in&nbsp; {{c1::<i>GI&nbsp;</i><span style=\"background-color: rgb(242, 242, 242);\"><font color=\"#00000f\">tract.</font></span>}}</div><div><br></div><div><br></div>",
-                                "<span style=\"background-color: rgb(242, 242, 242);\"><font color=\"#00000f\">Treatment: replace clotting factors</font></span>"
-                            ],
-                            "guid": "FyiHsm1{$8",
-                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
-                            "tags": []
-                        }
-                    ]
-                },
-                {
-                    "__type__": "Deck",
-                    "children": [],
-                    "crowdanki_uuid": "f51b206c-7dcf-11eb-b174-af478fea30f9",
-                    "deck_config_uuid": "f51b47b7-7dcf-11eb-86ea-af478fea30f9",
-                    "desc": "",
-                    "dyn": 0,
-                    "extendNew": 0,
-                    "extendRev": 0,
-                    "media_files": [
-                        "paste-0847fcc47d22d4e819743849c13eee6d65bc3a27.jpg",
-                        "paste-370110f48e65e7ea734bc7bb14ace022dd0b98e7.jpg",
-                        "paste-acb9252602274175e7526d76871342d74cf4fea3.jpg"
-                    ],
-                    "mid": 1602236504918,
-                    "name": "Hepatic Drug Reactions and Metabolism 21/02?",
-                    "notes": [
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "What is the most common route of membrane passage for a drug?",
-                                "Passive diffusion through lipid"
-                            ],
-                            "guid": "k5-*>-?N!t",
-                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "The four physiochemical factors are&nbsp;<div>{{c1::Molecular size}}<div><br></div><div>{{c1::Solubility at site of absorption}}</div><div><br></div><div>{{c1::Degree of ionization}}</div><div><br></div><div>{{c1::Relative lipid solubility of unionized and ionized forms}}</div></div>",
-                                "Smaller drugs=easier to absorb<div>Drugs that are not soluble=not absorbed</div><div>Drugs with ionic charge not absorbed</div>"
-                            ],
-                            "guid": "rq%&9?aK<Z",
-                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<div>Rate of diffusion proportional to</div><div>{{c1::Magnitude of concentration gradient}} and</div><div>{{c1::Lipid:water partition, i.e. lipid solubility}}</div><div><br></div><div>{{c1::Non-polar}} or {{c1::ionized}} molecules are essentially impermeable to the cell membrane</div>",
-                                ""
-                            ],
-                            "guid": "E6adER$,Xh",
-                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<div>Lipophilic drugs are filtered into urine but readily reabsorbed</div><div>How do we eliminate them?</div><div><br></div><div><br></div>",
-                                "<div>Biotransformation into less lipophilic compounds</div><div>Decreases activity</div><div>Aids elimination in the kidney</div>"
-                            ],
-                            "guid": "KSv|3LsYp#",
-                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<div>{{c1::Codeine}} → Morphine (CYP2D6)</div><div><br></div><div>Azathioprine → {{c1::mercaptopurine}} (non-enzymatic)</div><div><br></div><div>Enalapril → {{c1::enalprilat}}</div><div><br></div><div>{{c1::Prednisone}} → prednisolone</div>",
-                                "Enalapril is an ACE inhibitor<div>Prednisone is an oral corticosteroid</div>"
-                            ],
-                            "guid": "yfJFZgHfSq",
-                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<div>Drug metabolizing enzymes expressed </div><div>highly in {{c1::Liver}} and {{c1::Small intestinal epithelial cells}}</div><div><br></div><div><div>Orally administered drugs are absorbed through small intestinal</div><div>epithelial cells and&nbsp; travel in {{c1::portal vein}} to liver.</div><div>The drugs undergo significant biotransformation prior to reaching {{c1::systemic circulation}}</div></div>",
-                                "Hepatocytes work on the blood in the sinusoids, non-orally administered drugs avoid First-pass metabolism"
-                            ],
-                            "guid": "z<$p`^#cVG",
-                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<div>Phase 1:</div><div>{{c1::Oxidation}}</div><div>{{c1::Reduction}}</div><div>{{c1::Hydrolysis}}</div><div><br></div><div>Phase 2</div><div>{{c1::Conjugation}}<br></div>",
-                                "phase 1 usually results in drugs with lower pharm activity<div>phase 2 usually produce more polar drugs and are excreted in kidney</div><div><img src=\"paste-370110f48e65e7ea734bc7bb14ace022dd0b98e7.jpg\"><br></div>"
-                            ],
-                            "guid": "b/*E0H,7k*",
-                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "{{c1::CYP1}}<font color=\"#00000f\"><span style=\"background-color: rgb(242, 242, 242);\">Primarily metabolize c</span>arcinogens, some drugs as well<br></font><div>{{c1::CYP2}}<span style=\"background-color: rgb(242, 242, 242);\"><font color=\"#00000f\">Metabolize many important drugs</font></span><font color=\"#00000f\"><br></font></div><div><div>{{c1::CYP3}}Most abundant family in human liver, metabolize many important drugs</div></div>",
-                                "Cytochrome P450's are ancestral genes<div><img src=\"paste-0847fcc47d22d4e819743849c13eee6d65bc3a27.jpg\"><br></div>"
-                            ],
-                            "guid": "yV/.m3JP0y",
-                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<span style=\"background-color: rgb(242, 242, 242);\"><font color=\"#00000f\">Promoters of genes encoding certain CYPs respond to&nbsp;</font></span>{{c1::certain drugs}} and&nbsp;{{c1::pollutants}}.<div><br></div>",
-                                "Induction of CYP can lead to an increase in detoxifying activity or an increase in toxic metabolites, depending on what's being metabolised."
-                            ],
-                            "guid": "lM2~P1gmB?",
-                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "An aryl hydrocarbons is a harmful&nbsp;{{c1::xenobiotic}} substance.<div><br></div>",
-                                "<img src=\"paste-acb9252602274175e7526d76871342d74cf4fea3.jpg\">"
-                            ],
-                            "guid": "y#Jvx5n[BE",
-                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<div><span style=\"background-color: rgb(242, 242, 242);\"><font color=\"#00000f\">Most CYPs have activity against multiple substrates</font></span><br></div><div><br></div><div>co-administration of 2 substrates for one {{c1::CYP}} results in competition</div><div>Drug with lower {{c1::affinity}} is metabolized more slowly</div>",
-                                "Example, cyclosporin and grapefruit juice"
-                            ],
-                            "guid": "x06Oi@@Z&<",
-                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Name an non comprtitive inhibitor of a CYP",
-                                "Ketoconazale"
-                            ],
-                            "guid": "DU7_Vu,9(R",
-                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Phase 2 reactions.<div><div>Catalyzed by a diverse group of enzymes {{c1::</div><div>(transferases)</div><div></div>}}<div>Transfer of \"simple\" moieties (methyl-, acetyl-, sulfate, etc.) to a </div><div>{{c1::heteroatom}} (N, O or S) on the target drug</div><div><br></div><div>Enzymatic activation of these common intermediates to high-</div><div>energy species which then serve as co-substrates for the </div><div>transferases</div><div>Most, but not all, of these reaction products are extremely polar.<br></div><div><br></div><div>Increased water solubility of most conjugates makes them readily</div><div>excreted in the urine&nbsp;</div></div>",
-                                ""
-                            ],
-                            "guid": "z,u/Q=Rm.E",
-                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<div>{{c1::Fulminant}} hepatic failure is the rapid development of severe acute liver injury with </div><div>impaired synthetic function and {{c1::encephalopathy}} in a person </div><div>who previously had a normal liver</div>",
-                                "<span style=\"background-color: rgb(242, 242, 242);\"><font color=\"#00000f\">Usually &lt; 8 weeks, sometimes , 1 week</font></span>"
-                            ],
-                            "guid": "GQTe)E^XH}",
-                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
-                            "tags": []
-                        }
-                    ]
-                },
-                {
-                    "__type__": "Deck",
-                    "children": [],
-                    "crowdanki_uuid": "f51f3c4a-7dcf-11eb-bb7f-af478fea30f9",
-                    "deck_config_uuid": "f51f64b1-7dcf-11eb-821f-af478fea30f9",
-                    "desc": "",
-                    "dyn": 0,
-                    "extendNew": 0,
-                    "extendRev": 0,
-                    "media_files": [
-                        "93ef347977834e4986944433867010cd-ao-1-A.svg",
-                        "93ef347977834e4986944433867010cd-ao-1-Q.svg",
-                        "93ef347977834e4986944433867010cd-ao-2-A.svg",
-                        "93ef347977834e4986944433867010cd-ao-2-Q.svg",
-                        "93ef347977834e4986944433867010cd-ao-O.svg",
-                        "paste-7a326143e7879159ca316b319ecc064d3c9af01f.jpg",
-                        "tmpjz94bgv9.png"
-                    ],
-                    "name": "Liver Review 02/03",
-                    "notes": [
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Paracetamol Toxicity:<div>{{c1::50%}} Accidental Overdose ,{{c1::50%}} suicide</div><div><br></div><div>Paracetamol toxicity is a common cause of&nbsp;{{c1::fulminant hepatic failure}}</div><div><br></div><div>Dose:&nbsp;</div><div> Toxicity unlikely &lt; {{c1::10g}} in adults&nbsp;</div><div> Toxicity almost universal &gt; {{c1::20g}} in adults&nbsp;</div><div> 1 Panadol tablet = 500mg paracetamol&nbsp;&nbsp;</div><div><br></div><div><br></div>",
-                                "<img src=\"paste-7a326143e7879159ca316b319ecc064d3c9af01f.jpg\"><div>this is the new and improved nomogram</div>"
-                            ],
-                            "guid": "C?.?=e.Lbx",
-                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Clinical Features of Paracetamol Intoxication:<div><br></div><div>First 24 hours&nbsp;</div><div>&nbsp;{{c1::nausea}} and vomiting</div><div> Malaise&nbsp;</div><div> Labs results are {{c1::normal}}&nbsp;</div><div><br></div><div>24-72 hours&nbsp;</div><div> Elevated&nbsp;</div><div>&nbsp; &nbsp;-{{c1::aminotransferase}}: Due to degradation of hepatocytes</div><div>&nbsp; &nbsp;-{{c1::bilirubin}}: Due to degradation of hemoglobin</div><div>&nbsp; &nbsp;-{{c1::prothrombin time}}: Due to absence of clotting factors&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2,7,9,10</div><div> RUQ pain&nbsp;</div><div> {{c1::Renal}} failure<br></div><div><br></div><div>72-96 hours&nbsp;</div><div> {{c1::Jaundice}}: Due to build u of bilirubin&nbsp;</div><div> {{c1::Encephalopathy}}: Due to liver not working anymore</div><div> Worsening liver and renal function<br></div><div><br></div><div> &gt; 96 hours&nbsp;</div><div> Death&nbsp;</div><div> Liver transplant&nbsp;</div><div> Slow recovery<br></div>",
-                                "Serum Creatinine can be an indicator of renal failure"
-                            ],
-                            "guid": "J/u>UO1#su",
-                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<b>Treatment of paracetamol intoxication:</b><div><b><br></b></div><div>Gastrointestinal decontamination:&nbsp;</div><div>{{c1::Activated charcoal}} (adsorbing agent)<br></div><div>If &lt; {{c1::4}} hours since ingestion&nbsp;</div><div>Longer if delayed-release tabs used&nbsp;<b><br></b></div><div><br></div><div>Antidotes</div><div>Drug Name: {{c1::N-acetylcysteine}}&nbsp;</div><div> Precursor of {{c1::glutathione}}&nbsp;</div><div> Increases {{c1::glutathione}} stores&nbsp;</div><div> Neutralizes {{c1::NAPQI}}&nbsp;</div><div> Anti-{{c1::inflammatory}} &amp; anti-{{c1::oxidant}} properties&nbsp;</div><div> Highly efficacious<br></div><div><br></div>",
-                                ""
-                            ],
-                            "guid": "p/O^SW(Lq+",
-                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Indications for NAC<div><br></div><div>-Serum paracetamol concentration drawn at 4 hours or more after a single acute ingestion\nis above the \"possible hepatic toxicity\" line of the Rumack-Matthew nomogram</div><div><br></div><div>-Serum paracetamol concentration is unavailable or will not return within {{c1::8}} hours of time of\ningestion and paracetamol ingestion suspected</div><div><br></div><div>-{{c1::Time}} of ingestion is unknown and serum paracetamol level is greater than {{c1::10}}\nmicrograms/ml</div><div><br></div><div>-There is evidence of ANY {{c1::hepatotoxicity}} with a history of paracetamol ingestion<br></div><div><br></div><div>-Patient reports or clinician suspects {{c1::repeated}} excessive paracetamol ingestions, patient\nhas risk factors for paracetamol -induced hepatotoxicity, and the serum paracetamol level\nis greater than 10 micrograms/mL</div>",
-                                "New nomogram, and you use treatment line now, which is 25% lower than possible hepatic toxicity line."
-                            ],
-                            "guid": "Q]Bj3/u]6d",
-                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "N-acetyl-p-benzoquinoneimine (NAPQI)&nbsp;<div> Highly {{c1::reactive}} electrophile&nbsp;</div><div> Covalently binds {{c1::hepatocyte}} macromolecules. Covalent means bond is&nbsp;{{c1::Irreversible}}</div><div> Can cause {{c1::Oxidative}} injury&nbsp;</div><div> {{c1::Centrilobular}} necrosis&nbsp;</div><div> Secondary release of {{c1::cytokines}} and {{c1::ROS}}</div>",
-                                ""
-                            ],
-                            "guid": "A.ceg^=Wv/",
-                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "93ef347977834e4986944433867010cd-ao-1",
-                                "",
-                                "<img src=\"tmpjz94bgv9.png\" />",
-                                "<img src=\"93ef347977834e4986944433867010cd-ao-1-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"93ef347977834e4986944433867010cd-ao-1-A.svg\" />",
-                                "<img src=\"93ef347977834e4986944433867010cd-ao-O.svg\" />"
-                            ],
-                            "guid": "nX?KQ&=Eve",
-                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "93ef347977834e4986944433867010cd-ao-2",
-                                "",
-                                "<img src=\"tmpjz94bgv9.png\" />",
-                                "<img src=\"93ef347977834e4986944433867010cd-ao-2-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"93ef347977834e4986944433867010cd-ao-2-A.svg\" />",
-                                "<img src=\"93ef347977834e4986944433867010cd-ao-O.svg\" />"
-                            ],
-                            "guid": "eLufHI{w5i",
-                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "MELD Score<div>MELD Score = (0.957 * ln({{c1::Serum Cr}}) + 0.378 * ln({{c1::Serum Bilirubin}}) + 1.120 *\nln({{c1::INR}}) + 0.643 ) * 10<br></div>",
-                                ""
-                            ],
-                            "guid": "1H1:ROq]2",
-                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
-                            "tags": []
-                        }
-                    ]
-                },
-                {
-                    "__type__": "Deck",
-                    "children": [],
                     "crowdanki_uuid": "f51d68bc-7dcf-11eb-a420-af478fea30f9",
-                    "deck_config_uuid": "f51d68bd-7dcf-11eb-abd4-af478fea30f9",
+                    "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
@@ -458,7 +26,7 @@
                         "tmp8_h27fcm.png"
                     ],
                     "mid": 1602236504914,
-                    "name": "Liver cirrhosis Wheatley 12/02",
+                    "name": "02/12 Liver cirrhosis Wheatley",
                     "notes": [
                         {
                             "__type__": "Note",
@@ -797,10 +365,442 @@
                             "tags": []
                         }
                     ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "f51b206c-7dcf-11eb-b174-af478fea30f9",
+                    "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-0847fcc47d22d4e819743849c13eee6d65bc3a27.jpg",
+                        "paste-370110f48e65e7ea734bc7bb14ace022dd0b98e7.jpg",
+                        "paste-acb9252602274175e7526d76871342d74cf4fea3.jpg"
+                    ],
+                    "mid": 1602236504918,
+                    "name": "02/21 Hepatic Drug Reactions and Metabolism",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is the most common route of membrane passage for a drug?",
+                                "Passive diffusion through lipid"
+                            ],
+                            "guid": "k5-*>-?N!t",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The four physiochemical factors are&nbsp;<div>{{c1::Molecular size}}<div><br></div><div>{{c1::Solubility at site of absorption}}</div><div><br></div><div>{{c1::Degree of ionization}}</div><div><br></div><div>{{c1::Relative lipid solubility of unionized and ionized forms}}</div></div>",
+                                "Smaller drugs=easier to absorb<div>Drugs that are not soluble=not absorbed</div><div>Drugs with ionic charge not absorbed</div>"
+                            ],
+                            "guid": "rq%&9?aK<Z",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Rate of diffusion proportional to</div><div>{{c1::Magnitude of concentration gradient}} and</div><div>{{c1::Lipid:water partition, i.e. lipid solubility}}</div><div><br></div><div>{{c1::Non-polar}} or {{c1::ionized}} molecules are essentially impermeable to the cell membrane</div>",
+                                ""
+                            ],
+                            "guid": "E6adER$,Xh",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Lipophilic drugs are filtered into urine but readily reabsorbed</div><div>How do we eliminate them?</div><div><br></div><div><br></div>",
+                                "<div>Biotransformation into less lipophilic compounds</div><div>Decreases activity</div><div>Aids elimination in the kidney</div>"
+                            ],
+                            "guid": "KSv|3LsYp#",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>{{c1::Codeine}} → Morphine (CYP2D6)</div><div><br></div><div>Azathioprine → {{c1::mercaptopurine}} (non-enzymatic)</div><div><br></div><div>Enalapril → {{c1::enalprilat}}</div><div><br></div><div>{{c1::Prednisone}} → prednisolone</div>",
+                                "Enalapril is an ACE inhibitor<div>Prednisone is an oral corticosteroid</div>"
+                            ],
+                            "guid": "yfJFZgHfSq",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Drug metabolizing enzymes expressed </div><div>highly in {{c1::Liver}} and {{c1::Small intestinal epithelial cells}}</div><div><br></div><div><div>Orally administered drugs are absorbed through small intestinal</div><div>epithelial cells and&nbsp; travel in {{c1::portal vein}} to liver.</div><div>The drugs undergo significant biotransformation prior to reaching {{c1::systemic circulation}}</div></div>",
+                                "Hepatocytes work on the blood in the sinusoids, non-orally administered drugs avoid First-pass metabolism"
+                            ],
+                            "guid": "z<$p`^#cVG",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Phase 1:</div><div>{{c1::Oxidation}}</div><div>{{c1::Reduction}}</div><div>{{c1::Hydrolysis}}</div><div><br></div><div>Phase 2</div><div>{{c1::Conjugation}}<br></div>",
+                                "phase 1 usually results in drugs with lower pharm activity<div>phase 2 usually produce more polar drugs and are excreted in kidney</div><div><img src=\"paste-370110f48e65e7ea734bc7bb14ace022dd0b98e7.jpg\"><br></div>"
+                            ],
+                            "guid": "b/*E0H,7k*",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::CYP1}}<font color=\"#00000f\"><span style=\"background-color: rgb(242, 242, 242);\">Primarily metabolize c</span>arcinogens, some drugs as well<br></font><div>{{c1::CYP2}}<span style=\"background-color: rgb(242, 242, 242);\"><font color=\"#00000f\">Metabolize many important drugs</font></span><font color=\"#00000f\"><br></font></div><div><div>{{c1::CYP3}}Most abundant family in human liver, metabolize many important drugs</div></div>",
+                                "Cytochrome P450's are ancestral genes<div><img src=\"paste-0847fcc47d22d4e819743849c13eee6d65bc3a27.jpg\"><br></div>"
+                            ],
+                            "guid": "yV/.m3JP0y",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"background-color: rgb(242, 242, 242);\"><font color=\"#00000f\">Promoters of genes encoding certain CYPs respond to&nbsp;</font></span>{{c1::certain drugs}} and&nbsp;{{c1::pollutants}}.<div><br></div>",
+                                "Induction of CYP can lead to an increase in detoxifying activity or an increase in toxic metabolites, depending on what's being metabolised."
+                            ],
+                            "guid": "lM2~P1gmB?",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "An aryl hydrocarbons is a harmful&nbsp;{{c1::xenobiotic}} substance.<div><br></div>",
+                                "<img src=\"paste-acb9252602274175e7526d76871342d74cf4fea3.jpg\">"
+                            ],
+                            "guid": "y#Jvx5n[BE",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><span style=\"background-color: rgb(242, 242, 242);\"><font color=\"#00000f\">Most CYPs have activity against multiple substrates</font></span><br></div><div><br></div><div>co-administration of 2 substrates for one {{c1::CYP}} results in competition</div><div>Drug with lower {{c1::affinity}} is metabolized more slowly</div>",
+                                "Example, cyclosporin and grapefruit juice"
+                            ],
+                            "guid": "x06Oi@@Z&<",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Name an non comprtitive inhibitor of a CYP",
+                                "Ketoconazale"
+                            ],
+                            "guid": "DU7_Vu,9(R",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Phase 2 reactions.<div><div>Catalyzed by a diverse group of enzymes {{c1::</div><div>(transferases)</div><div></div>}}<div>Transfer of \"simple\" moieties (methyl-, acetyl-, sulfate, etc.) to a </div><div>{{c1::heteroatom}} (N, O or S) on the target drug</div><div><br></div><div>Enzymatic activation of these common intermediates to high-</div><div>energy species which then serve as co-substrates for the </div><div>transferases</div><div>Most, but not all, of these reaction products are extremely polar.<br></div><div><br></div><div>Increased water solubility of most conjugates makes them readily</div><div>excreted in the urine&nbsp;</div></div>",
+                                ""
+                            ],
+                            "guid": "z,u/Q=Rm.E",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>{{c1::Fulminant}} hepatic failure is the rapid development of severe acute liver injury with </div><div>impaired synthetic function and {{c1::encephalopathy}} in a person </div><div>who previously had a normal liver</div>",
+                                "<span style=\"background-color: rgb(242, 242, 242);\"><font color=\"#00000f\">Usually &lt; 8 weeks, sometimes , 1 week</font></span>"
+                            ],
+                            "guid": "GQTe)E^XH}",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "f518d81b-7dcf-11eb-ae27-af478fea30f9",
+                    "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "fead45c5b5734e158a2205de204355b7-ao-1-A.svg",
+                        "fead45c5b5734e158a2205de204355b7-ao-1-Q.svg",
+                        "fead45c5b5734e158a2205de204355b7-ao-2-A.svg",
+                        "fead45c5b5734e158a2205de204355b7-ao-2-Q.svg",
+                        "fead45c5b5734e158a2205de204355b7-ao-3-A.svg",
+                        "fead45c5b5734e158a2205de204355b7-ao-3-Q.svg",
+                        "fead45c5b5734e158a2205de204355b7-ao-O.svg",
+                        "paste-009cde11405094d359e27d4d06a4d4b280e92508.jpg",
+                        "paste-f695991f6891e67234af87f7cfdd3700c62a42cd.jpg",
+                        "tmpq8ycav9_.png"
+                    ],
+                    "mid": 1602236504918,
+                    "name": "02/22 Fulminant Liver Failure",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Fulminant Hepatic Failure: Causes</div><div><br></div><div>{{c1::paracetamol overdose}} (39 percent)</div><div><br></div><div>indeterminate (17 percent)</div><div><br></div><div>idiosyncratic (non-acetaminophen) drug reactions (13 </div><div>percent)</div><div><br></div><div>{{c1::viral hepatitis A or B}} (12 percent)</div><div><br></div><div>Rare Causes:</div><div>Autoimmune hepatitis</div><div>{{c1::Wilson's Disease}}: Overload of copper in the liver</div><div>{{c1::Budd Chiari}}: Acute obstruction of hepatic vein</div><div>Acute fatty liver of pregnancy</div>",
+                                "<img src=\"paste-009cde11405094d359e27d4d06a4d4b280e92508.jpg\">"
+                            ],
+                            "guid": "I=y;Y[2`%4",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Nimesulide}} caused an idiosyncratic drug reaction that led to fulminant liver failure, that led to it being pulled from use",
+                                ""
+                            ],
+                            "guid": "j)9z;>f-3@",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-f695991f6891e67234af87f7cfdd3700c62a42cd.jpg\">",
+                                ""
+                            ],
+                            "guid": "icEF_]!kTP",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "fead45c5b5734e158a2205de204355b7-ao-1",
+                                "",
+                                "<img src=\"tmpq8ycav9_.png\" />",
+                                "<img src=\"fead45c5b5734e158a2205de204355b7-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"fead45c5b5734e158a2205de204355b7-ao-1-A.svg\" />",
+                                "<img src=\"fead45c5b5734e158a2205de204355b7-ao-O.svg\" />"
+                            ],
+                            "guid": "JT)4/9@]cU",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "fead45c5b5734e158a2205de204355b7-ao-2",
+                                "",
+                                "<img src=\"tmpq8ycav9_.png\" />",
+                                "<img src=\"fead45c5b5734e158a2205de204355b7-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"fead45c5b5734e158a2205de204355b7-ao-2-A.svg\" />",
+                                "<img src=\"fead45c5b5734e158a2205de204355b7-ao-O.svg\" />"
+                            ],
+                            "guid": "c*OKed0BU,",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "fead45c5b5734e158a2205de204355b7-ao-3",
+                                "",
+                                "<img src=\"tmpq8ycav9_.png\" />",
+                                "<img src=\"fead45c5b5734e158a2205de204355b7-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"fead45c5b5734e158a2205de204355b7-ao-3-A.svg\" />",
+                                "<img src=\"fead45c5b5734e158a2205de204355b7-ao-O.svg\" />"
+                            ],
+                            "guid": "AHO_N.)G0&",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Hepatic Encephalopathy: Failure to&nbsp;{{c1::detoxify}} portal blood<div><br></div><div>{{c1::Ammonia}} in the blood is a good indicator of fulminant liver failure.<br></div><div><br></div><div>Clinical Faetures of encephalopathy are:</div><div>Confusion</div><div>Drosziness</div><div>{{c1::COnstructional Apraxia}}: inability to assemble, draw objects</div><div>{{c1::Fetor hepaticus}}: Bad breath</div><div><br></div><div><br></div>",
+                                "<div>Treatments include</div><div>Laxatives eg lactulose</div><div>•Non-absorbable antibiotics eg </div><div>Neomycin</div>"
+                            ],
+                            "guid": "ph4Ai>MdE|",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>{{c1::2}}: Gross disorientation, drowsiness, possibly asterixis,</div><div>inappropriate behavior</div><div><br></div><div>{{c1::1}}&nbsp;Changes in behavior with minimal change in level of </div><div>consciousness</div><div><br></div><div><div>{{c1::4}}Comatose, unresponsive to pain, decorticate or<br></div><div>decerebrate posturing</div></div><div><br></div><div>&nbsp;{{c1::3}}Marked confusion, incoherent speech, sleeping most of</div><div>the time but arousable to vocal stimuli</div><div><br></div><div>&nbsp;</div>",
+                                ""
+                            ],
+                            "guid": "v#xnzu?HOR",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Why does fluid oedema happen during fulminant liver failure?",
+                                "Osmotic changes in astrocytes (big differrence in osmotic pressure between brain and plasma)<div><br></div><div><span style=\"background-color: rgb(242, 242, 242);\"><font color=\"#00000f\">Fluid balance, elevate head, mannitol are treatments</font></span><br></div>"
+                            ],
+                            "guid": "vI!TW8djif",
+                            "note_model_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Liver produces clotting factors&nbsp;{{c1::2,7,9,10}}(4)<div>They are all&nbsp;{{c1::vitamin k}} depedant</div><div>In liver failure there is a decreased ability to synthesize clotting factors.</div><div>This can result in bleeding, especially in&nbsp; {{c1::<i>GI&nbsp;</i><span style=\"background-color: rgb(242, 242, 242);\"><font color=\"#00000f\">tract.</font></span>}}</div><div><br></div><div><br></div>",
+                                "<span style=\"background-color: rgb(242, 242, 242);\"><font color=\"#00000f\">Treatment: replace clotting factors</font></span>"
+                            ],
+                            "guid": "FyiHsm1{$8",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "f51f3c4a-7dcf-11eb-bb7f-af478fea30f9",
+                    "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "93ef347977834e4986944433867010cd-ao-1-A.svg",
+                        "93ef347977834e4986944433867010cd-ao-1-Q.svg",
+                        "93ef347977834e4986944433867010cd-ao-2-A.svg",
+                        "93ef347977834e4986944433867010cd-ao-2-Q.svg",
+                        "93ef347977834e4986944433867010cd-ao-O.svg",
+                        "paste-7a326143e7879159ca316b319ecc064d3c9af01f.jpg",
+                        "tmpjz94bgv9.png"
+                    ],
+                    "name": "03/02 Liver Review",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Paracetamol Toxicity:<div>{{c1::50%}} Accidental Overdose ,{{c1::50%}} suicide</div><div><br></div><div>Paracetamol toxicity is a common cause of&nbsp;{{c1::fulminant hepatic failure}}</div><div><br></div><div>Dose:&nbsp;</div><div> Toxicity unlikely &lt; {{c1::10g}} in adults&nbsp;</div><div> Toxicity almost universal &gt; {{c1::20g}} in adults&nbsp;</div><div> 1 Panadol tablet = 500mg paracetamol&nbsp;&nbsp;</div><div><br></div><div><br></div>",
+                                "<img src=\"paste-7a326143e7879159ca316b319ecc064d3c9af01f.jpg\"><div>this is the new and improved nomogram</div>"
+                            ],
+                            "guid": "C?.?=e.Lbx",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Clinical Features of Paracetamol Intoxication:<div><br></div><div>First 24 hours&nbsp;</div><div>&nbsp;{{c1::nausea}} and vomiting</div><div> Malaise&nbsp;</div><div> Labs results are {{c1::normal}}&nbsp;</div><div><br></div><div>24-72 hours&nbsp;</div><div> Elevated&nbsp;</div><div>&nbsp; &nbsp;-{{c1::aminotransferase}}: Due to degradation of hepatocytes</div><div>&nbsp; &nbsp;-{{c1::bilirubin}}: Due to degradation of hemoglobin</div><div>&nbsp; &nbsp;-{{c1::prothrombin time}}: Due to absence of clotting factors&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2,7,9,10</div><div> RUQ pain&nbsp;</div><div> {{c1::Renal}} failure<br></div><div><br></div><div>72-96 hours&nbsp;</div><div> {{c1::Jaundice}}: Due to build u of bilirubin&nbsp;</div><div> {{c1::Encephalopathy}}: Due to liver not working anymore</div><div> Worsening liver and renal function<br></div><div><br></div><div> &gt; 96 hours&nbsp;</div><div> Death&nbsp;</div><div> Liver transplant&nbsp;</div><div> Slow recovery<br></div>",
+                                "Serum Creatinine can be an indicator of renal failure"
+                            ],
+                            "guid": "J/u>UO1#su",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Treatment of paracetamol intoxication:</b><div><b><br></b></div><div>Gastrointestinal decontamination:&nbsp;</div><div>{{c1::Activated charcoal}} (adsorbing agent)<br></div><div>If &lt; {{c1::4}} hours since ingestion&nbsp;</div><div>Longer if delayed-release tabs used&nbsp;<b><br></b></div><div><br></div><div>Antidotes</div><div>Drug Name: {{c1::N-acetylcysteine}}&nbsp;</div><div> Precursor of {{c1::glutathione}}&nbsp;</div><div> Increases {{c1::glutathione}} stores&nbsp;</div><div> Neutralizes {{c1::NAPQI}}&nbsp;</div><div> Anti-{{c1::inflammatory}} &amp; anti-{{c1::oxidant}} properties&nbsp;</div><div> Highly efficacious<br></div><div><br></div>",
+                                ""
+                            ],
+                            "guid": "p/O^SW(Lq+",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Indications for NAC<div><br></div><div>-Serum paracetamol concentration drawn at 4 hours or more after a single acute ingestion\nis above the \"possible hepatic toxicity\" line of the Rumack-Matthew nomogram</div><div><br></div><div>-Serum paracetamol concentration is unavailable or will not return within {{c1::8}} hours of time of\ningestion and paracetamol ingestion suspected</div><div><br></div><div>-{{c1::Time}} of ingestion is unknown and serum paracetamol level is greater than {{c1::10}}\nmicrograms/ml</div><div><br></div><div>-There is evidence of ANY {{c1::hepatotoxicity}} with a history of paracetamol ingestion<br></div><div><br></div><div>-Patient reports or clinician suspects {{c1::repeated}} excessive paracetamol ingestions, patient\nhas risk factors for paracetamol -induced hepatotoxicity, and the serum paracetamol level\nis greater than 10 micrograms/mL</div>",
+                                "New nomogram, and you use treatment line now, which is 25% lower than possible hepatic toxicity line."
+                            ],
+                            "guid": "Q]Bj3/u]6d",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "N-acetyl-p-benzoquinoneimine (NAPQI)&nbsp;<div> Highly {{c1::reactive}} electrophile&nbsp;</div><div> Covalently binds {{c1::hepatocyte}} macromolecules. Covalent means bond is&nbsp;{{c1::Irreversible}}</div><div> Can cause {{c1::Oxidative}} injury&nbsp;</div><div> {{c1::Centrilobular}} necrosis&nbsp;</div><div> Secondary release of {{c1::cytokines}} and {{c1::ROS}}</div>",
+                                ""
+                            ],
+                            "guid": "A.ceg^=Wv/",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "93ef347977834e4986944433867010cd-ao-1",
+                                "",
+                                "<img src=\"tmpjz94bgv9.png\" />",
+                                "<img src=\"93ef347977834e4986944433867010cd-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"93ef347977834e4986944433867010cd-ao-1-A.svg\" />",
+                                "<img src=\"93ef347977834e4986944433867010cd-ao-O.svg\" />"
+                            ],
+                            "guid": "nX?KQ&=Eve",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "93ef347977834e4986944433867010cd-ao-2",
+                                "",
+                                "<img src=\"tmpjz94bgv9.png\" />",
+                                "<img src=\"93ef347977834e4986944433867010cd-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"93ef347977834e4986944433867010cd-ao-2-A.svg\" />",
+                                "<img src=\"93ef347977834e4986944433867010cd-ao-O.svg\" />"
+                            ],
+                            "guid": "eLufHI{w5i",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "MELD Score<div>MELD Score = (0.957 * ln({{c1::Serum Cr}}) + 0.378 * ln({{c1::Serum Bilirubin}}) + 1.120 *\nln({{c1::INR}}) + 0.643 ) * 10<br></div>",
+                                ""
+                            ],
+                            "guid": "1H1:ROq]2",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        }
+                    ]
                 }
             ],
             "crowdanki_uuid": "f5186336-7dcf-11eb-b673-af478fea30f9",
-            "deck_config_uuid": "f5186337-7dcf-11eb-af38-af478fea30f9",
+            "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
@@ -816,7 +816,7 @@
                     "__type__": "Deck",
                     "children": [],
                     "crowdanki_uuid": "f5204d62-7dcf-11eb-862f-af478fea30f9",
-                    "deck_config_uuid": "f5204d63-7dcf-11eb-8a03-af478fea30f9",
+                    "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
@@ -859,7 +859,7 @@
                         "tmpx4hx0lop.png"
                     ],
                     "mid": 1602236504914,
-                    "name": "Resp Physiology 07/02",
+                    "name": "02/07 Resp Physiology",
                     "notes": [
                         {
                             "__type__": "Note",
@@ -1401,7 +1401,7 @@
                 }
             ],
             "crowdanki_uuid": "f51fd813-7dcf-11eb-9d14-af478fea30f9",
-            "deck_config_uuid": "f51fd814-7dcf-11eb-8798-af478fea30f9",
+            "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
@@ -1409,352 +1409,411 @@
             "media_files": [],
             "name": "Respiratory Failure",
             "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "d852e654-872b-11eb-91b6-b10d551bd690",
+                    "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "68e23fff7d4c4da6b799813c15f4b1dd-ao-1-A.svg",
+                        "68e23fff7d4c4da6b799813c15f4b1dd-ao-1-Q.svg",
+                        "68e23fff7d4c4da6b799813c15f4b1dd-ao-O.svg",
+                        "paste-f1b64209b60f76c752b2b10deee3730753f245c2.jpg",
+                        "tmp2btjug68.png"
+                    ],
+                    "mid": 1602236504918,
+                    "name": "03/15 Shock Physiology",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Cardiac output = {{c1::HR}} X {{c1::SV}}<div><br></div><div><br></div>",
+                                "70 X 70 = 5 L/min is nromal I think"
+                            ],
+                            "guid": "rJ7srv~[+:",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "3 Determinants of Stroke Volume:<div>{{c1::Preload}}: Initial Stretching of myocytes prior to contraction</div><div>{{c1::Afterload}}: Force against which heart has to contract to eject blood</div><div>{{c1::Contractility}}</div>",
+                                ""
+                            ],
+                            "guid": "Avp$n{;mZu",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "68e23fff7d4c4da6b799813c15f4b1dd-ao-1",
+                                "",
+                                "<img src=\"tmp2btjug68.png\" />",
+                                "<img src=\"68e23fff7d4c4da6b799813c15f4b1dd-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"68e23fff7d4c4da6b799813c15f4b1dd-ao-1-A.svg\" />",
+                                "<img src=\"68e23fff7d4c4da6b799813c15f4b1dd-ao-O.svg\" />"
+                            ],
+                            "guid": "LDER+VppO/",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Sympathetic or Parasympathetic affect?<div><br></div><div>Vasoconstriction&nbsp;{{c1::sympathetic}}</div><div>Increased Heart Rate&nbsp;{{c1::sympathetic}}</div><div>Increased Contractility&nbsp;{{c1::sympathetic}}</div>",
+                                "Opposites are parasympathetic"
+                            ],
+                            "guid": "I:@._|)NL@",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Baroreceptors are connected to the {{c1::autonomic nervous system}} control centers in the {{c1::brain stem}}<br><br><br>When intravascular volume is high, baroreceptors are {{c1::stretched}}, therefore&nbsp;they cause:<br>Inhibition of the {{c1::sympathetic}} system<br>Activation of the {{c1::parasympathetic}} system<div><br></div><div>This causes</div><div>&nbsp;-vaso{{c1::dilation}}</div><div>&nbsp;-{{c1::decreased}} heart rate</div><div>&nbsp;-{{c1::decreased}} cardiac contractility</div>",
+                                "Look I could do another card but it is the exact opposite for hypovolemia"
+                            ],
+                            "guid": "L2Bu!bMYPT",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "RENIN-ANGIOTENSIN SYSTEM:<div><br></div><div>{{c1::Angiotensinogen}} converted by {{c1::Renin}} (made in {{c1::kidneys}}) to {{c1::Angiotensin 1}}, convertd by {{c1::ACE}} (found in {{c1::lungs}}) to {{c1::Angiotensin 2}}</div>",
+                                ""
+                            ],
+                            "guid": "cm2~]=OVov",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Stimuli for secretion of renin<div>–{{c1::Decreased}} pressure at the {{c1::afferent}} arteriole<br>- Sympathetic activation (beta1)<br><br>Both happen during {{c1::hypovolaemia}}<br></div>",
+                                ""
+                            ],
+                            "guid": "wrZ&~~zW`}",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Effects of angiotensin II<br><br>– Arteriolar {{c1::vasoconstriction}}<br>(hence ↑ {{c1::MAP}}) and decreased {{c1::GFR}}<br><br>– Stimulation of {{c1::aldosterone}} secretion<br>(hence ↑ {{c1::plasma volume}})<br><br>– Na+ {{c1::reabsorption}} by the {{c1::proximal tubule}}<br><br><br>– Thirst ({{c1::subfornical organ}})",
+                                ""
+                            ],
+                            "guid": "ioL!,q,i4#",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "When intravascular volume is {{c1::low}}, the renin-angiotensin (and aldosterone) system is activated.<br><br>This helps to:<br>1. {{c1::maintain blood pressure}}<br>2. {{c1::retain volume}}",
+                                ""
+                            ],
+                            "guid": "mUq|Qa!uvQ",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Antidiuretic hormone (ADH)<div>-also known as&nbsp;{{c1::vassopressin}}<br><br></div><div> Mainly regulates {{c1::osmolarity}}<br> Also released when loss of blood volume is {{c1::&gt;10%}}<br><br></div><div> Effects<br>– {{c1::Vasoconstriction}}<br>– {{c1::Reasorption}} of water from {{c1::distal tubule}} and {{c1::collecting duct}}</div>",
+                                ""
+                            ],
+                            "guid": "i{&jjY^Ok",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In hypovolemic patients a decrease in {{c1::cardiac preload}} causes a decrease in SV",
+                                ""
+                            ],
+                            "guid": "xWbcu+/WyT",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Hypovolemic patient<div>Compensatory mechanisms:</div><div>1.Activation of the {{c1::sympathetic nervous system}}<br>2.Activation of the {{c1::renin-angiotensin system}}<br>3.Release of {{c1::aldosterone}}<br>4.Release of {{c1::ADH}}<br></div><div><br></div><div><br></div><div>Is it a side effect of the Compensatory mechanisms?</div><div>Bradycardia{{c1::n}}</div><div>Peripheries are cold{{c1::y}}</div><div>Hypertension{{c1::n}}</div><div>Hypotension{{c1::y}}</div><div>High GFR{{c1::n}}</div><div>Low Urine Output{{c1::y}}</div><div><br></div><div>Why does the body have these compensatory mechanisms?</div><div>{{c1::To maintain organ perfusion}}<br></div><div><br></div><div>What happens if they don't work?</div><div>{{c1::shock}}<br></div>",
+                                ""
+                            ],
+                            "guid": "D5A&%Ncp=L",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>TYPES OF SHOCK:</div><div><br></div>Hypovolaemic shock: Due to&nbsp;{{c1::loss of blood volume}}<br>Cardiogenic shock: Due to {{c1::reduction in contractility of the heart}}<br>Vasogenic shock (e.g septic shock): {{c1::Due to Loss of the ability to maintain an adequate TPR}}<div>Obstructive shock (e.g. pulmonary embolism): due to&nbsp;{{c1::obstruction}}<br></div>",
+                                ""
+                            ],
+                            "guid": "z:O1zSJ?H~",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Cause of HYPOVOLAEMIC SHOCK:<div>{{c1::Inadequate fluid intake or excessive fluid loss}}<br></div><div><br></div><div>Specific causes:</div><div>GI losses: {{c1::Vomiting/diarrhoea}}<br><br> Renal losses: {{c1::Polyuria}} (e.g Hyperosmolarity in diabetes, DI)<br><br> Skin losses: burns<br><br> Redistribution: {{c1::‘leaky’ capillaries}} (e.g Pancreatitis)<br><br> Haemorrhage<br></div>",
+                                ""
+                            ],
+                            "guid": "JTZ<98xX%Q",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Causes of Hypovolaemic Haemorrhagic shock!<div>Trauma – penetrating or blunt<br><br></div><div> Vascular : {{c1::aneurysms, dissections, AVMs}} (3)<br>– E.g. Ruptured abdominal aortic {{c1::aneuyrsm}}<br><br></div><div> GI haemorrhage<br>– Oesphageal {{c1::varices}}<br>– Oesophageal or gastric {{c1::ulceration}}<br><br></div><div> Obstetric haemorrhage:<br>– Ruptured {{c1::ectopic pregnancy}}<br>– {{c1::Placenta praevia}}<br>– {{c1::Abruption}}<br></div>",
+                                "AVM=Atriovenous malformations<div>Placenta praevia= placenta attaches to lower part of the womb sometimes covering the cervix</div><div>Abruption=<span style=\"color: rgb(32, 33, 36);\">eparation of the placenta from the wall of the uterus during pregnancy</span></div>"
+                            ],
+                            "guid": "f.xw)T0?i~",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "How much O2 dissolved in blood?&nbsp;{{c1::3}}ml/L<div>How much O2 does fully saturated Hb carry?&nbsp;{{c1::1.39}} ml O2/g</div><div>Normal Hb content of blood?&nbsp;{{c1::15}} g/dl</div><div>Normal O2 content of blood?&nbsp;{{c1::21}} ml/dl</div><div><br></div><div>Oxygen delivery depends on:<br><br>{{c1::The amount of oxygen in the blood}}<br>{{c1::The amount of blood that is pumped}}<br></div><div><br></div>",
+                                "DO2 = CaO2 X C.O.<br><br>= 200 X 5 = 1L/min"
+                            ],
+                            "guid": "g}G]XzK(VM",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In a haemorrhage, why is it bad that:&nbsp;<div>blood is lost?&nbsp;{{c1::oxygen carrying capacity is reduced}}<div>Volume is lost?&nbsp;{{c1::cardiac output is reduced}}</div><div><br></div><div>What sort of iscahemia is it associated with?</div><div>Cardiac, Renal, Cerebral, GI<br><br></div><div>– Sepsis&nbsp;{{c1::G}}<br></div><div>– Acute tubular necrosis&nbsp;{{c1::R}}<br>– Infarction (MI){{c1::Card}}</div><div>– Stroke{{c1::Cer}}<br>– Arrhythmias{{c1::Card}}<br></div><div>– Angina{{c1::Card}}<br>– Renal failure{{c1::R}}<br>– Acute confusional state{{c1::Cer}}<br>–&nbsp;Gut infarction{{c1::G}}<br>– Cardiac failure{{c1::Card}}<br></div><div><br></div></div>",
+                                ""
+                            ],
+                            "guid": "sa$>_Wd99s",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Cardiac Ischaemia's telltale is&nbsp;{{c1::st depression}} on an ECG",
+                                "<img src=\"paste-f1b64209b60f76c752b2b10deee3730753f245c2.jpg\">"
+                            ],
+                            "guid": "N~JOHz4Y~d",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Lack of oxygen for aerobic metaolism forces the cell to generate energy &nbsp;by {{c1::anaerobic metabolism}}<div><br></div><div>Pyruvate + NADH » {{c1::Lactate}} + NAD+<br></div><div><br></div><div>{{c1::Lactate}} is useful as a sign of shock<br></div>",
+                                ""
+                            ],
+                            "guid": "CVDQ)]M362",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "So what to do to a patient in hypovolemic shock?<div>Restore {{c1::oxygen}} delivery by Give {{c1::Oxygen}} Give {{c1::Blood}}<br></div><div>Restore {{c1::circulating}} volume by&nbsp;Give {{c1::Fluids}}<br></div>",
+                                ""
+                            ],
+                            "guid": "mOd.;xPow>",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Fluid resuscitation</b><br></div><div><br></div>{{c1::Crystalloids}} and {{c1::colloids}}<br> Blood products<br>{{c1::– Whole blood<br>– Red cell concentrate<br>– Plasma<br>– Platelets}}(4)<br><div><br></div>",
+                                ""
+                            ],
+                            "guid": "i$-K@A5fAA",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "3 types of colloid?<div>{{c1::Salt, Gelatin, Starch}}<br></div>",
+                                ""
+                            ],
+                            "guid": "Hz^-3i70<i",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Causes of Cardiogenic shock<br><br>{{c1::– Myocardial infarction<br>– Myocarditis<br>– Severe valvular disease<br>– Severe arrythmias<br>– Pericardial effusions and tamponade}}<br>",
+                                ""
+                            ],
+                            "guid": "G+%Sg=Qlfj",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "When do you know pateint is improving?<div><br></div><div>Blood pressure increases</div><div>Heart rate increases</div><div>Renal output increases</div><div>GFR increases</div><div>Hb concentration increases</div><div>Cardiac Output increases</div><div><br></div><div>{{c1::all except for HR which decreases}}<br></div>",
+                                ""
+                            ],
+                            "guid": "JKrmbYsR?r",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "d853a92f-872b-11eb-ada1-b10d551bd690",
+                    "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-0da37d942a7b531613a7c9d19c5fafbe88f5380a.jpg",
+                        "paste-2b1a3acfe610b694c90eb001651a66df91d25e51.jpg",
+                        "paste-e2b0e5da612ba1a6d4987149e091596dfd0f6d2b.jpg",
+                        "paste-e544b1804ece925d531d1a6302bc8d082f53ec4b.jpg",
+                        "paste-ef1c2c2e9c12e7ffb1cc47f10d61511a7d39258d.jpg"
+                    ],
+                    "name": "03/16 Circulatory Shock",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Circulatory Shock<br><br>The state in which profound and widespread reduction in the delivery of {{c1::02}} and other {{c1::nutrients}} to {{c1::tissues}}, leads firstly to {{c1::reversible}} and, if {{c1::prolonged}}, leads to irreversible cellular injury.<div><br></div><div>Caused By</div><div>1. {{c1::reduced blood volume (hypovolaemic shock)}}<br>2. {{c1::loss of cardiac function (cardiogenic shock)}}<br>3. {{c1::loss of the ability to maintain an adequate total peripheral resistance (distributive shock)}}<br></div>",
+                                ""
+                            ],
+                            "guid": "c]wxFg3Xdz",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Decrease in blood volume following haemorrhage causes a fall in {{c1::MABP}}<div><br></div><div>{{c1::MABP}} = CO x TPR<br></div><div><br></div><div>A fall in {{c1::MABP}} following haemorrhage elicits homeostatic reflexes to minimise the fall in {{c1::MABP}}<br>• 3 responses<br><br></div><div>- Immediate:&nbsp;{{c1::Baroceptor reflex}}<br><br></div><div>- Intermediate:&nbsp;{{c1::Borrows fluid from the interstitial space}}<br><br></div><div>- Long-term:&nbsp;{{c1::Replaces fluid, plasma proteins and rbcs}}<br></div>",
+                                ""
+                            ],
+                            "guid": "bmfri*YH_|",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>SHORT TERM</div>- A haemorrhage causes a drop in arterial pressure<div>- BP drop detected by&nbsp;{{c1::reduced firing of baroceptors}}</div><div><br></div><div>Effect on HEART:</div><div>-{{c1::decreased}} parasympathetic cardiac activity<br></div><div>-{{c1::increased}} sympathetic cardiac activity<br></div><div>Change in both ps and s activity leads to&nbsp;{{c1::Increased firing of SA node to increase heart rate}}</div><div>Change in specifically sypathetic activity causes increased&nbsp;{{c1::cardiac muscle contractility}} which leads to an increase in {{c1::stroke volume}}.</div><div><br></div><div>Both Mechanisms contribute to increasing&nbsp;{{c1::Cardiac Output}}</div><div><br></div><div>Effect on VEINS:</div><div>-{{c1::increased}} sympathetic venous activity</div><div>Peripheral Veno{{c1::constriction}} which causes:</div><div>{{c1::Increased}} Venous Pressure<br></div><div>{{c1::Increased}} Venous return</div><div>{{c1::Increased}} EDV</div><div><br></div><div><br></div><div>Which leads to an increased&nbsp;{{c1::Stroke Volume}} and&nbsp;{{c1::Cardiac Output}}</div><div><br></div><div>Effects on Arteries:</div><div>Ateroconstriction ------- Increased TPR</div>",
+                                ""
+                            ],
+                            "guid": "dyB(8YvA+t",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><br></div><div><b>Intermediate</b></div><div><br></div>The reduction in {{c1::capillary hydrostatic}}&nbsp;pressure favours the movement of fluid from&nbsp;the {{c1::interstitial}} into the {{c1::vascular space}}<br><div><br></div><div>• As a result, {{c1::plasma volume}} is increased (back to normal in 12 to 24 hr)<br>• {{c1::MABP}} is restored towards normal (blood loss up to 1L - 20% of TBV)<div><br></div><div><br></div></div>",
+                                "<img src=\"paste-ef1c2c2e9c12e7ffb1cc47f10d61511a7d39258d.jpg\">"
+                            ],
+                            "guid": "cbP|wi:T`[",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Fluid replacement</b><div><b><br></b></div><div>Following haemorrhage, the hormone {{c1::aldosterone}} is released from the adrenal cortex<br><br></div><div>{{c1::Aldosterone}} stimulates the retention of {{c1::Na+ (and water)}} by the kidneys<br><br>Following haemorrhage, {{c1::thirst}} is stimulated. {{c1::Ingestion of water}} will replace the fluid lost during the haemorrhage<b><br></b></div><div><br></div><div><br>Following haemorrhage, the {{c1::bone marrow}} is stimulated to<br>produce {{c1::red blood}} cells<br><br>Replacement of {{c1::red blood}} cells lost during the haemorrhage may take {{c1::3-4 weeks}}<br><br>Blood losses up to {{c1::20% (1L)}} can be compensated for<br></div>",
+                                ""
+                            ],
+                            "guid": "D#GvUi![8$",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Hypovolaemic shock (blood loss)</b><br></div><div><br></div>Cardiovascular response to haemorrhage of up to 10% of total blood volume: {{c1::fully compensated}}<div>• CO is {{c1::maintained}}<br>• MABP is {{c1::maintained}}<br>• PP is {{c1::maintained}}<br></div><div><br></div><div>Cardiovascular response to haemorrhage between 10% and 20% of total blood volume: compensated shock<br></div><div>• CO {{c1::falls (reduced circulating BV)}}<br>• MABP is {{c1::maintained by increased TPR}}<br>• Pulse pressure (PP) is {{c1::reduced}}<br></div><div><br></div><div>{{c1::Cerebral (brain)}} and {{c1::coronary blood flow (heart)}}&nbsp;are 1initially protected from the fall in MAP (MAP&gt;{{c1::70mmHg}})<br></div><div><br></div><div>Cardiovascular response to haemorrhage between 20% and 30% of total blood volume<br></div><div>• CO {{c1::continues to fall}}<br>• MABP {{c1::falls}}<br>• PP is {{c1::not there}}<br></div><div><br></div><div>Cardiovascular response to haemorrhage between 30% and 40% of total blood volume<br></div><div><br></div><div>• CO continues to fall<br>• MABP extremely low<br>• At about {{c1::35%}} loss of BV, MAP plateaus<br>- hypoxia in {{c1::brain}}<br>- direct stimulation of {{c1::cardiovascular centres}}<br>- massive{{c1::sympathetic stimulation}}<br></div><div><br></div><div>Cardiovascular response to haemorrhage above 40% of total blood volume<br></div><div><br></div><div>{{c1::Complete collapse of CVS}}<br></div>",
+                                "<img src=\"paste-2b1a3acfe610b694c90eb001651a66df91d25e51.jpg\">"
+                            ],
+                            "guid": "N(ufZ|h@&Z",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A. Progressive shock: the vicious cycle<div><br></div><div>Once haemorrhage is severe enough (and no fluid replacement is performed)<br>- {{c1::coronary blood flow}} falls<br>- reduced {{c1::coronary blood flow}} reduces myocardial {{c1::contractility}}<br>- reduced {{c1::cardiac output}}<br>- reduced {{c1::MAP}} leads to a reduction in coronary blood flow VICIOUS CYCLE<br>• As the shock is becoming worse at this time, it is said to be progessive stage of shock<br></div><div><br></div>",
+                                "<img src=\"paste-0da37d942a7b531613a7c9d19c5fafbe88f5380a.jpg\">"
+                            ],
+                            "guid": "KaeW8}vX$.",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-e2b0e5da612ba1a6d4987149e091596dfd0f6d2b.jpg\"><div>If hypovolaemic shock remains untreated, {{c1::myocardial contractility}} falls (hypoxia)<br>• By {{c1::4}} hr, the Starling curve is<br>poor<br>• By {{c1::5}} hr, the Starling curve<br>cannot maintain life<br><div><br></div></div>",
+                                ""
+                            ],
+                            "guid": "Hx1cEi^-u5",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "B. <b>Irreversible shock:</b><div><br></div><div>If fluid replacement is not performed in severe haemorrhage, the progressive stage of shock will soon progress into irreversible shock<br><br></div><div>• When the patient enters irreversible shock, fluid administration or other therapy is {{c1::incapable}} of saving the patient<br>• Initially, fluid administration will {{c1::elevate}} cardiac output during the fluid administration and for a short period afterwards<br>• Unfortunately, {{c1::permanent}} damage to the {{c1::tissue of the heart (reduced contractility)}} and {{c1::brain (including the cardiovascular centre in the medulla)}}&nbsp;is likely to have occurred<br>• The patient can neither control {{c1::myocardial contractility}} (reduced CO) or {{c1::vascular tone(TPR)}} and consequently {{c1::MAP}} cannot be maintained<br></div>",
+                                "<img src=\"paste-e544b1804ece925d531d1a6302bc8d082f53ec4b.jpg\">"
+                            ],
+                            "guid": "uygLgUZUa@",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        }
+                    ]
+                }
+            ],
+            "crowdanki_uuid": "d852986e-872b-11eb-859a-b10d551bd690",
+            "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Shock",
+            "notes": []
         }
     ],
     "crowdanki_uuid": "f517a04a-7dcf-11eb-9bfa-af478fea30f9",
-    "deck_config_uuid": "f517c747-7dcf-11eb-8982-af478fea30f9",
+    "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
     "deck_configurations": [
-        {
-            "__type__": "DeckConfig",
-            "autoplay": true,
-            "crowdanki_uuid": "f517c747-7dcf-11eb-8982-af478fea30f9",
-            "dyn": false,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    1,
-                    0
-                ],
-                "order": 0,
-                "perDay": 100
-            },
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 200
-            },
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoplay": true,
-            "crowdanki_uuid": "f5186337-7dcf-11eb-af38-af478fea30f9",
-            "dyn": false,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    1,
-                    0
-                ],
-                "order": 0,
-                "perDay": 100
-            },
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 200
-            },
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoplay": true,
-            "crowdanki_uuid": "f518ff38-7dcf-11eb-8a27-af478fea30f9",
-            "dyn": false,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    1,
-                    0
-                ],
-                "order": 0,
-                "perDay": 100
-            },
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 200
-            },
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoplay": true,
-            "crowdanki_uuid": "f51b47b7-7dcf-11eb-86ea-af478fea30f9",
-            "dyn": false,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    1,
-                    0
-                ],
-                "order": 0,
-                "perDay": 100
-            },
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 200
-            },
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoplay": true,
-            "crowdanki_uuid": "f51d68bd-7dcf-11eb-abd4-af478fea30f9",
-            "dyn": false,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    1,
-                    0
-                ],
-                "order": 0,
-                "perDay": 100
-            },
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 200
-            },
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoplay": true,
-            "crowdanki_uuid": "f51f64b1-7dcf-11eb-821f-af478fea30f9",
-            "dyn": false,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    1,
-                    0
-                ],
-                "order": 0,
-                "perDay": 100
-            },
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 200
-            },
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoplay": true,
-            "crowdanki_uuid": "f51fd814-7dcf-11eb-8798-af478fea30f9",
-            "dyn": false,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    1,
-                    0
-                ],
-                "order": 0,
-                "perDay": 100
-            },
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 200
-            },
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoplay": true,
-            "crowdanki_uuid": "f5204d63-7dcf-11eb-8a03-af478fea30f9",
-            "dyn": false,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    1,
-                    0
-                ],
-                "order": 0,
-                "perDay": 100
-            },
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 200
-            },
-            "timer": 0
-        },
         {
             "__type__": "DeckConfig",
             "autoplay": true,
             "crowdanki_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
             "dyn": false,
+            "interdayLearningMix": 0,
             "lapse": {
                 "delays": [
                     10.0
@@ -1781,15 +1840,18 @@
                 "order": 0,
                 "perDay": 100
             },
+            "newMix": 0,
+            "newPerDayMinimum": 0,
             "replayq": true,
             "rev": {
                 "bury": false,
                 "ease4": 1.3,
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 200
+                "maxIvl": 5,
+                "perDay": 500
             },
+            "reviewOrder": 0,
             "timer": 0
         }
     ],
@@ -1800,58 +1862,6 @@
     "media_files": [],
     "name": "2.2::Organ Failure",
     "note_models": [
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
-            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "name": "Text",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "name": "Back Extra",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Cloze",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Cloze",
-                    "ord": 0,
-                    "qfmt": "{{cloze:Text}}"
-                }
-            ],
-            "type": 1
-        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
@@ -1903,6 +1913,58 @@
                 }
             ],
             "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
         },
         {
             "__type__": "NoteModel",
