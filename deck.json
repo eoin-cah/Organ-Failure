@@ -6,7 +6,33 @@
             "children": [
                 {
                     "__type__": "Deck",
-                    "children": [],
+                    "children": [
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "509268b5-948a-11eb-968f-ad9d49024ac7",
+                            "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "mid": 1602236504918,
+                            "name": "Wheatley Cirrhosis V2",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Parenchymal cells</b>&nbsp;<div>{{c1::Hepatocytes}}&nbsp;</div><div>-About {{c1::80}}% of liver cells are {{c1::hepatocytes}}, which carry many metabolic function&nbsp;</div><div><br></div><div><b>Non-parenchymal cells</b>&nbsp;</div><div>1. {{c1::Sinusoidal endothelial cells}} (LSECs)&nbsp;</div><div>2. {{c1::Biliary epithelial cells}} (cholagiocytes)&nbsp;</div><div>3. {{c1::Kupffer cells}} (resident macrophages with phagocytic activity)&nbsp;</div><div>4. {{c1::Hepatic stellate cells}} (HSC)</div>",
+                                        ""
+                                    ],
+                                    "guid": "nz+htkQVni",
+                                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                                    "tags": []
+                                }
+                            ]
+                        }
+                    ],
                     "crowdanki_uuid": "f51d68bc-7dcf-11eb-a420-af478fea30f9",
                     "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
                     "desc": "",
@@ -368,7 +394,74 @@
                 },
                 {
                     "__type__": "Deck",
-                    "children": [],
+                    "children": [
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "5094d874-948a-11eb-af5a-ad9d49024ac7",
+                            "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "paste-f5b716723258147649d59168864a34a019c66463.jpg"
+                            ],
+                            "name": "Hepatic Drug Rxns V2",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Drug absorption</b><br></div>What is the most common route of membrane passage for a drug?&nbsp;{{c1::Passive Diffusion through lipid membrane}}<div><br></div><div>Drugs must pass several cellular barriers<br>z {{c1::GIT}}(oral)<br>z {{c1::Renal tubule}}(to be excreted)<br>z {{c1::Blood-brain barrier}}(to act on CNS)<br>z {{c1::Placenta}}(to act on fetus)</div><div><br></div><div>What is required for active transport of drugs?&nbsp;{{c1::carrier proteins}}</div><div><br></div><div>Physicochemical factors of drug absorption<br>z {{c1::Molecular size}}<br>z {{c1::Solubility}} at site of absorption<br>z Degree of {{c1::ionization}}<br>z Relative {{c1::lipid solubility}} of unionized and ionized forms<br><div><br></div><div><br></div></div>",
+                                        ""
+                                    ],
+                                    "guid": "HtUohsq~eE",
+                                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Passive diffusion</b><br><br>{{c1::Lipid solubility}} is key<br><br><div>Rate of diffusion proportional to<br>-Magnitude of {{c1::concentration gradient}}<br>-Lipid:water partition, i.e. {{c1::lipid solubility}}<br><br></div><div>z {{c1::Non-polar or ionized}} molecules are essentially impermeable to the cell membrane<br>z Size of molecule also affects diffusion – {{c1::inversely}} proportional to size<br>z Caveat: Most drugs are small anyway</div>",
+                                        "<img src=\"paste-f5b716723258147649d59168864a34a019c66463.jpg\">"
+                                    ],
+                                    "guid": "LK~FK,$5C:",
+                                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Why do Lipophilic drugs need to be Biotransformed into less lipophilic compounds?<div>z {{c1::Decreases activity}}<br>z {{c1::Aids elimination in the kidney as lipophillic drugs areFiltered into urine but readily reabsorbed}}</div><div><br></div><div>What are the three types of metabolite a drug can be transformed into?&nbsp;{{c1::Inactive metabolite</div>z Active metabolite (parent drug is a pro-drug)<br><div>z Toxic metabolite}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "itHs_8eX!k",
+                                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Examples of metabolic activation of pro-drugs</b><br><br>z Codeine → Morphine by ({{c1::CYP2D6}})(enzyme)<br>z Azathioprine → {{c1::mercaptopurine}} (non-enzymatic)<br>z {{c1::Enalapril}} → enalprilat<br>z Prednisone → {{c1::prednisolone}}<div><br></div><div><b>Examples of toxic drug metabolites</b><br>z Paracetamol → {{c1::NAPBQI}} (Hepatotoxin)<br></div>",
+                                        ""
+                                    ],
+                                    "guid": "kUs?y?)@75",
+                                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Main sites of drug metabolism?<div>{{c1::liver and epithelial cells of small intestine}}(2)<br></div><div><br></div><div>Any other sites? If so where?&nbsp;{{c1::Kidney, Lung, Skin}}</div><div><br></div><div>What route of drug administration does first pass metabolism apply to? {{c1::Oral}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "iQ[`.)L41+",
+                                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                                    "tags": []
+                                }
+                            ]
+                        }
+                    ],
                     "crowdanki_uuid": "f51b206c-7dcf-11eb-b174-af478fea30f9",
                     "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
                     "desc": "",
@@ -527,7 +620,88 @@
                 },
                 {
                     "__type__": "Deck",
-                    "children": [],
+                    "children": [
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "50960fa4-948a-11eb-8f36-ad9d49024ac7",
+                            "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "paste-060abd8147c59ed98c7047524baaa0c5a17939ee.jpg",
+                                "paste-648a240ca6328ebefdaf6129eae93da45bb4ba93.jpg",
+                                "paste-a43707bd6aeab5421e7551a2f26dba25e1ad6440.jpg",
+                                "paste-c5b396d31b64284b4032bcee1b3a837a123e76a7.jpg",
+                                "paste-e938214f601ffcc585fd660de01ea9de09e0a28e.jpg"
+                            ],
+                            "name": "Fulminant Liver Failure V2",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Fulminant Hepatic Failure:<br><br><div>-The {{c1::rapid}} development of severe acute liver injury with impaired {{c1::synthetic}} function and {{c1::encephalopathy}} in a person who previously had a normal liver<br><br></div><div>-Duration of illness usually &lt; {{c1::8}} weeks, sometimes , 1 week<br><br></div><div>-Final common pathway for a number of diseases that cause<br>severe liver injury</div><div><br></div><div>Is cirrhosis or fulminant liver failure more common?&nbsp;{{c1::cirrhosis}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "w(me:pz`IB",
+                                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "-{{c1::paracetamol overdose}} (39 percent)<br>-indeterminate (17 percent)<br>-{{c1::idiosyncratic (non-acetaminophen) drug reactions}} (13<br>percent)<br>-{{c1::viral hepatitis A or B}} (12 percent)<div><br></div><div>Rare causes:<br>Autoimmune hepatitis,&nbsp;</div><div>Wilsons disease:{{c1::overload of copper in liver}}</div><div>Budd Chiari:{{c1::acute obstruction of hepatic vein}}</div><div>Acute fatty liver of pregnancy</div>",
+                                        ""
+                                    ],
+                                    "guid": "O=p7-52q1F",
+                                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<img src=\"paste-a43707bd6aeab5421e7551a2f26dba25e1ad6440.jpg\">{{c1::g}}<div>So this is sort of just here&nbsp;</div>",
+                                        ""
+                                    ],
+                                    "guid": "Nl]_9Q6/t=",
+                                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<img src=\"paste-e938214f601ffcc585fd660de01ea9de09e0a28e.jpg\"><div>What part of liver is better perfused?&nbsp;{{c1::Whiter areas}}</div><div><img src=\"paste-c5b396d31b64284b4032bcee1b3a837a123e76a7.jpg\"><br></div><div>Is left or right the side with liver damage?{{c1::left}}</div><div>In the part which is damaged, what cells are damaged?{{c1::hepatocytes}}</div><div><br></div>",
+                                        ""
+                                    ],
+                                    "guid": "C:owcD#sJV",
+                                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Clinical Problems with Fuliminant liver Failure:</b><div><b><br></b></div><div><font color=\"#ff020e\">Hepatic Encephalopathy</font></div><div>Pathogenesis uncertain<br>• Failure to {{c1::detoxify}} portal blood<br>•{{c1::•Ammonia}} measurements is a good marker for hepatic encephalopathy<br><br></div><div>Clinical Features<br>•Confusion<br>•Drowsiness<br>•Constructional apraxia:{{c1::inability to draw, build or assemble objects}}<br>•Fetor hepaticus:{{c1::musty breath}}<br><br></div><div>Treatment<br>•Laxatives eg lactulose, Why?&nbsp;{{c1::If you keep everything moving, toxins are less likely to be absorbed}}<br>•Non-absorbable antibiotics eg {{c1::Neomycin}}<br></div><div><br></div><div>What grade of Hepatic encaphalopthy is each effect associated with?</div><div><br></div><div>incoherent speech,{{c1::3}}<br></div>Gross disorientation,&nbsp;{{c1::2}}<div>drowsiness,&nbsp;{{c1::2}}</div><div>inappropriate behavior{{c1::2}}<br>Marked confusion{{c1::3}}</div><div>Comatose,&nbsp;{{1::4}}<div>sleeping most of the time but arousable to vocal stimuli{{c1::3}}<div>Changes in behavior with minimal change in level of consciousness{{c1::1}}<br></div><div>unresponsive to pain,&nbsp;{{c1::4}}</div><div>decorticate or decerebrate posturing{{c1::4}}</div></div></div><div>possibly asterixis,{{c1::2}}<br></div><div><br></div><div>What is asterixis?{{c1::tremor of hand when wrist extended}}</div><div>What is decorticate or decerebrate posturing?{{c1::<span style=\"color: rgb(32, 33, 36);\">where arms and legs are straight and rigid, toes are pointed downward, and head is arched backward.</span>}}</div><div><br></div><div>What problem with the brain can hepatic encephalopathy lead to ?&nbsp;{{c1::Cerebral oedema}}</div><div><br></div><div>Why?{{c1::•Osmotic changes in astrocytes}}</div><div><br></div><div>How is it treated?</div><div>•{{c1::Fluid}} balance, {{c1::elevate}} head, {{c1::mannitol}}(drug)<br></div><div><br></div><div><font color=\"#aa0000\">Acute Renal Failure</font></div><div>Complicates &gt; {{c1::30}}% cases of fulminant hepatic failure<br>Similar to {{c1::hepatorenal}} syndrome&nbsp;</div><div><br></div><div>Altered {{c1::systemic}} and {{c1::renal}} blood flow<br>Avid {{c1::sodium}} retention<br></div><div><br></div><div>Treatment: {{c1::renal replacement (Haemodialysis)}}<br></div><div>What does this generally mean for the patient?&nbsp;{{c1::he gonna die}}</div><div><br></div><div><font color=\"#aa0000\">Infections</font></div><div>Why?&nbsp;{{c1::Liver produces complement proteins and other factors important for immunity}}<br><br></div><div>Respiratory, Urine, Blood<br>{{c1::Difficult}} to diagnose<br>Pathogenesis is {{c1::multi}}factorial<br>Altered {{c1::leukocyte}} function<br>Deranged {{c1::complement}} function<br>Are the infections Bacterial or Fungal?&nbsp;{{c1::both}}<br>Treatment with {{c1::broad-spectrum}} antibiotics pending microbiological identification and sensitivity testing<br></div><div><br></div><div><font color=\"#aa0000\">Coagulopathy:&nbsp;</font>{{c1::Decreased ability to synthesize clotting factors}}&nbsp;</div><div>&nbsp;Assessed by elevation of {{c1::prothrombin time}} – a test of vitamin K-dependent clotting factor production</div><div>Name the vit k dependant clotting factors{{c1::2,7,9,10}}<br>Can result in bleeding, especially from {{c1::GI tract}}<br>Treatment: replace {{c1::clotting factors}}<br></div><div><br></div><div><img src=\"paste-648a240ca6328ebefdaf6129eae93da45bb4ba93.jpg\"><br></div><div>What is this?{{c1::Esophageal Varices}}</div><div><img src=\"paste-060abd8147c59ed98c7047524baaa0c5a17939ee.jpg\"><br></div><div>What's wrong?{{c1::ascites}}(not pregnancy)</div><div><br></div><div>What can these two complications be caused by?{{c1::portal hypertension}}</div><div><br></div><div><br></div>",
+                                        ""
+                                    ],
+                                    "guid": "B>c_/ocvl=",
+                                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Fulminant Hepatic Failure: Definitive treatment<br><br>z Overall survival ~ {{c1::40}}%<br>z With liver transplant, survival {{c1::80-90}}% reported<br>z Selection of patients for transplantation is key<div><br></div><div>MELD Score = (0.957 * ln(Serum {{c1::Cr}}) + 0.378 * ln(Serum {{c1::Bilirubin}}) + 1.120 * ln({{c1::INR}}) + 0.643 ) * 10<br></div>",
+                                        ""
+                                    ],
+                                    "guid": "oJ)T-,_uMB",
+                                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                                    "tags": []
+                                }
+                            ]
+                        }
+                    ],
                     "crowdanki_uuid": "f518d81b-7dcf-11eb-ae27-af478fea30f9",
                     "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
                     "desc": "",
@@ -1199,7 +1373,7 @@
                         "tmpgnl834z5.png"
                     ],
                     "mid": 1602236504918,
-                    "name": "Resp. Failure 09/02",
+                    "name": "02/09 Resp. Failure",
                     "notes": [
                         {
                             "__type__": "Note",
@@ -1693,12 +1867,20 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [
+                        "1ed697fc721446cd891144cf6ffbaad9-oa-1-A.svg",
+                        "1ed697fc721446cd891144cf6ffbaad9-oa-1-Q.svg",
+                        "1ed697fc721446cd891144cf6ffbaad9-oa-O.svg",
                         "paste-0da37d942a7b531613a7c9d19c5fafbe88f5380a.jpg",
                         "paste-2b1a3acfe610b694c90eb001651a66df91d25e51.jpg",
+                        "paste-c25a03989ffbf8d8e67b6c761099cb72902034fb.jpg",
+                        "paste-c40cd0839b0f98318f1e50815d4828d427d50923.jpg",
+                        "paste-e1563d06f53bee429298ad576ad09403ceb12acc.jpg",
                         "paste-e2b0e5da612ba1a6d4987149e091596dfd0f6d2b.jpg",
                         "paste-e544b1804ece925d531d1a6302bc8d082f53ec4b.jpg",
-                        "paste-ef1c2c2e9c12e7ffb1cc47f10d61511a7d39258d.jpg"
+                        "paste-ef1c2c2e9c12e7ffb1cc47f10d61511a7d39258d.jpg",
+                        "tmpp8l3nrg5.png"
                     ],
+                    "mid": 1602236504918,
                     "name": "03/16 Circulatory Shock",
                     "notes": [
                         {
@@ -1788,6 +1970,900 @@
                                 "<img src=\"paste-e544b1804ece925d531d1a6302bc8d082f53ec4b.jpg\">"
                             ],
                             "guid": "uygLgUZUa@",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Classification&nbsp;of forms of shock:</b><div><b><br></b></div><div>Pick the most common type of shock,</div><div>Cardiogenic</div><div>Hypovolemic</div><div>Extracardial obstructive</div><div><br></div><div>{{c1::Hypovolemic}}<br></div><div><br></div><div><br></div><div>Severe fluid depletion can lead to shock, name three ways this can happen in the body?&nbsp;{{c1::vomiting- diarrhoea- burns- dehydration}}(4)</div><div><br></div><div>Myocardial Infarction:{{c1::ischemia of the heart muscle, damaging it}}</div><div>Dilated Cardiomyopathy:{{c1::loss of cardiac function at cellular level}}</div><div>What type of shpck are these associated with?&nbsp;{{c1::Myopathic}}</div><div><br></div><div>Name 2 Cardiac mechanical problems that can cause shock,</div><div>{{c1::Aortic stenosis}}{{c1::Mitral valve regurgitation}}<br></div><div><br></div><div>What type of shock are the following classidfied as?</div><div>Myopathic shock{{c1::Cardiogenic}}</div><div>Haemorrhage{{c1::Hypovolemic}}</div><div>Pericardial Tamponade{{c1::Extracardiac obstructive}}</div><div>Coarctation of the aorta{{c1::Extracardiac obstructive}}</div><div>Arrythmic{{c1::Cardiogenic}}</div><div>Fluid depletion{{c1::Hypovolemic}}</div><div><br></div><div>What is pericardial Tamponade?&nbsp;{{c1::Build up of fluid in pericardium}}</div><div><div>What is coarctation of the aorta?&nbsp;{{c1::narrowing of aorta leading to the inability of the heart to pump into it}}</div></div>",
+                                ""
+                            ],
+                            "guid": "Qxkh?5z^;4",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is the most common artery affected by an Myocardial infarction?",
+                                "Left anterior descending artery"
+                            ],
+                            "guid": "Bm)c;1426S",
+                            "note_model_uuid": "39db5048-81a3-11eb-b5a8-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "• MI directly leads to a fall in {{c1::contractility}} of the heart<br>As a result<br><div>• {{c1::Cardiac output}} falls<br>• {{c1::MAP}} cannot be maintained<br>• Patient goes into circulatory shock</div>",
+                                "<img src=\"paste-c25a03989ffbf8d8e67b6c761099cb72902034fb.jpg\">"
+                            ],
+                            "guid": "hY0DLcK~Ww",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Pericardial Tamponade</b><div>The normal pericardium is composed of 2 layers<br>- inner layer ({{c1::visceral}} layer)<br>-outer layer ({{c1::parietal}} layer)<br><br></div><div>• The 2 layers are separated by a pericardial fluid but what is the normal volume for this?&nbsp;{{c1::&lt;50ml}}</div><div><br>• The normal pericardium is relatively {{c1::stiff}} and {{c1::non-distensible}}&nbsp;<br><br></div><div>• The normal pericardium is able to {{c1::stretch}} slowly to accommodate a {{c1::chronic}} dilation of the heart<b><br></b></div><div><br></div><div>An increase in intra-pericardial volume will:<br>- elevate {{c1::intra-pericadial pressure}}<br><br>-reduce {{c1::cardiac filling (reduced ventricular end- diastolic volume)}}<br></div><div><br></div><div>Give 2 ways acute cardiac tamponade could come about,</div><div>{{c1::- trauma</div>- stab wounds<br>- rupture of the heart<br>- haemorrhage following cardiac<br><div>surgery}} (4)<br></div><div><br></div><div>Why is it that the adverse effects in acute tamponade can be felt with 150-200ml of fluid in pericardial space but in chronic tamponade it can be up to 1500-2000ml?&nbsp;{{c1::in chronic tamponade, pericardium can be stretched}}</div><div><br></div><div>Normal Heart</div><div>Pericardial pressure ~ {{c1::4}}mmHg<br>RVEDP ~ {{c1::4}}mmHg<br>LVEDP ~ {{c1::12}}mmHg<br></div><div><br></div><div>Pericardial Tamponade</div><div>Pericardial pressure ~ {{c1::18}}mmHg<br>RVEDP ~ {{c1::18}}mmHg<br>LVEDP ~ {{c1::18}}mmHg<br></div><div><br></div><div>Pericardial pressure is {{c1::immutable (unable to be changed)}}</div><div>Therefore RV and LV must compete with each other for {{c1::volume}} for their individual {{c1::SV}}<br></div><div><br></div><div>This fight between the LV and the RV for volume means that neither can function properly and {{c1::CO}} cannot be supported<br><br></div><div>{{c1::MAP}} falls and shock follows<br></div><div><br></div><div><br></div>",
+                                "<img src=\"paste-e1563d06f53bee429298ad576ad09403ceb12acc.jpg\">"
+                            ],
+                            "guid": "v-2*6pX%?S",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Distributive shock is caused by&nbsp;{{c1::loss of control of TPR}}<br><br><div>• Distributive shock is the most common cause of {{c1::death}} in ICUs in the USA and is most commonly caused by {{c1::sepsis}}<br><br></div><div>• Distributive shock has a different and more {{c1::complex}}<br>pathogenesis to hypovolaemic and cardiogenic shock<br><br></div><div>• {{c1::Septic}} shock is characterised by {{c1::low systemic<br>vascular resistance (TPR)}}&nbsp;and elevated {{c1::CO}}!</div>",
+                                ""
+                            ],
+                            "guid": "F:7&szk/(5",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Pathogenesis of Septic Shock:Pt 1</b><div>Bacteria and other infectious organisms enter the site of infection</div><div><br></div><div>They release toxins such as&nbsp;{{c1::endotoxins/lps}}: Bacterial wall components of gram-{{c1::negative}} bacteria</div><div><br></div><div>These trigger the mediators of the inflammatory response, name two mediators&nbsp;{{c1::● Tumour necrosis factor (TNF)</div>● Platelet activating factor (PAF)<br>● Cytokines<br>● Myocardial depressant substance<br><div>(MDS)}} (4)</div><div><br></div><div>What two effects do the mediators have on the blood vessels&nbsp;{{c1::● Vasodilation</div>● Vasoconstriction?<br><div>● Maldistributiing}}</div><div><br></div><div>What effect do the mediators have on the heart muscle?&nbsp;{{c1::Reduced contractility}}</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>",
+                                "MDS causes reduced contractility of the heart"
+                            ],
+                            "guid": "rzf4]*3g>1",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>PATHOGENESIS OF HUMAN SEPTIC SHOCK: Pt 2</b><div><b><br></b></div><div>Reduced contractility directly causes&nbsp;{{c1::reduced CO}}</div><div><br></div><div>Vasodilation directly causes&nbsp;{{c1::Decreased TPR}}</div><div><br></div><div>Maldistribution directly leads to&nbsp;{{c1::distribution of blood to organs}}</div><div><br></div><div><br></div><div>All eventually lead to severe {{c1::hypotension}} or&nbsp;{{c1::multiple organ system failure}}</div><div><br></div><div>and all this leads to death</div>",
+                                "<img src=\"paste-c40cd0839b0f98318f1e50815d4828d427d50923.jpg\">"
+                            ],
+                            "guid": "yDh489wvJ7",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "• Shock is usually an emergency<br>• Rapid evaluation of the {{c1::cardiovascular}} status of the patient is required<br>• A {{c1::Swan-Ganz}} catheter is placed in the {{c1::pulmonary}} artery to measure<br>{{c1::cardiac output}} by the {{c1::thermodilution}} technique",
+                                ""
+                            ],
+                            "guid": "Ln{wBODCDL",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "1ed697fc721446cd891144cf6ffbaad9-oa-1",
+                                "",
+                                "<img src=\"tmpp8l3nrg5.png\" />",
+                                "<img src=\"1ed697fc721446cd891144cf6ffbaad9-oa-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"1ed697fc721446cd891144cf6ffbaad9-oa-1-A.svg\" />",
+                                "<img src=\"1ed697fc721446cd891144cf6ffbaad9-oa-O.svg\" />"
+                            ],
+                            "guid": "C=,[B.#dR$",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "509aa091-948a-11eb-b99f-ad9d49024ac7",
+                    "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-10f71872b9ed0ed756478184fd6724aa0bdf0b6c.jpg",
+                        "paste-13b8c01c58ab177c49a7822a41d395fcd0614260.jpg",
+                        "paste-7ed77b3575ab109d0ea281e63c0ee0b9fd9fa322.jpg",
+                        "paste-80e25492a66d6cbed8dbc4400b4c8c398a6740d9.jpg",
+                        "paste-99780ac493f69da5b7e7faa3a137c706ff71ec48.jpg",
+                        "paste-b35b78b13ba4b6d8387cbce26daeede0a1745b7a.jpg",
+                        "paste-bc2cbe486187facfdfabbf48e6b62e14c632fd46.jpg",
+                        "paste-d2b2d64ffa5df3bd68529afed1e0c331268207cf.jpg",
+                        "paste-d9032c42b27f2e30f42906aa001ec00e4b3c20a9.jpg",
+                        "paste-db9122866e19f8444c2aa98b3e788f6b173b4dec.jpg",
+                        "paste-e892334854a87d3d1125b490175295813f5472f2.jpg",
+                        "paste-f4044ba781010d033ca4a234028cc6b3f3cdfbd2.jpg"
+                    ],
+                    "name": "03/20 Hypertension Wheatley",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Blood Movement Recap:</b><div>• Blood enters the aorta from the\nleft ventricle at high velocity:\nup to {{c1::1.5 –2.0}} m/s ({{c1::600}} ml/s)\n- mean velocity: {{c1::0.20}} m/s&nbsp;</div><div><br></div><div>• About {{c1::2}}/3 of the stroke\nvolume is ejected during the first\n{{c1::1}}/3 of systole&nbsp;</div><div><br></div><div>• The {{c1::aorta}} stretches during\nsystole to accommodate 70-80%\nof stroke volume&nbsp;</div><div><br></div><div>• The other 20-30% of SV flows\ninto the {{c1::peripheral vessels}}<b><br></b></div><div><br></div><div>• Peak in aortic pressure (systolic\npressure) occurs {{c1::later}} than peak\naortic blood flow\n- this is due to the elastic stretching of\nthe aorta&nbsp;</div><div><br></div><div>• Following closure of the {{c1::aortic}} valve,\na short back-flow occurs\nWhich is detectable on the pressure\ntrace as an incisura known as the {{c1::dicrotic notch}}</div><div><br></div><div>• Blood flows from the arteries,\nthrough the arterioles (resistances)\nthroughout diastole, <font color=\"#aa0000\">reaching the\nminimum pressure (diastolic\npressure) just before the next cardiac\ncycle&nbsp;</font></div><div><br></div><div>• Diastolic pressure never falls to 0\nmmHg due to {{c1::TPR}}<br></div>",
+                                "<img src=\"paste-10f71872b9ed0ed756478184fd6724aa0bdf0b6c.jpg\">"
+                            ],
+                            "guid": "K-|~fN6ES|",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "MAP = {{c1::diastolic pressure}} + 1/3 ({{c1::systolic pressure –\ndiastolic pressure}})",
+                                "<img src=\"paste-7ed77b3575ab109d0ea281e63c0ee0b9fd9fa322.jpg\">"
+                            ],
+                            "guid": "lQ_z}-7fDj",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The maximum to which arterial pressure rises is called {{c1::systolic pressure}}. normal range?&nbsp;{{c1::110-129}} mmHg<div><br></div><div>the\nminimum to which it falls is called {{c1::diastolic pressure}}. normal range?&nbsp;{{c1::70-84}} mmHg</div><div><br></div><div>What state is an adult in if their bp is normal?&nbsp;{{c1::normotensive state}}</div>",
+                                ""
+                            ],
+                            "guid": "n-_{`W%m[y",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Blood pressure&nbsp;{{c1::dips}} during the night<div>What does it mean if this doesn't happen?{{c1::usually hypertension}}</div><div><br></div><div>Systolic pressure {{c1::rises}} with\nage due to reducing {{c1::compliance}}</div><div><br></div><div>• What happens to diastolic pressure with age?&nbsp;{{c1::increases until 50 and then falls}}</div><div><br></div><div>• Mean arterial pressure\nincreases moderately with age\ndue to a rise in {{c1::TPR}}<br></div>",
+                                ""
+                            ],
+                            "guid": "II1pwFR1XW",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "• Clinical hypertension: {{c1::chronic, usually progressive,\nraised arterial pressure}}<div><br></div><div>Most physicians diagnose hypertension if repeated\nmeasurements of resting pressure:<br></div><div>exceed {{c1::140/90}} mmHg in a patient under 50 years old&nbsp;</div><div>exceed {{c1::160/95}} mmHg in a patient over 50 years old</div><div><br></div><div>High normal blood pressure (130-139/85-89mmHg) is also\nnot good – why? {{c1::it doubles the 10-year risk of cardiovascular\ndisease}}<br></div><div><br></div><div>Primary Hypertension: {{c1::Has no obvious organic cause}}</div><div>{{c1::90}}% of cases</div><div><br></div><div>Secondary Hypertension:&nbsp;{{c1::has an identifiable pathological cause}}</div><div>{{c1::10}}% of all cases<br></div><div><br></div><div>What is the most common cause of secondary hypertension?<div>{{c1:: Pre-eclamptic toxaemia}}</div></div>",
+                                ""
+                            ],
+                            "guid": "vb(==QR4Z{",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Pre-eclamptic toxaemia:</b><div>&nbsp;-{{c1::7-10}}% of pregnancies</div><div>&nbsp;</div><div>- Remits on delivery</div><div><br></div><div>&nbsp;- Disruption of blood flow to placenta causes ischaemia</div><div><br></div><div>&nbsp;- Placenta releases unknown agents that cause {{c1::vasoconstriction}} and\nretention of {{c1::Na+}} by the kidneys leading to hypertension</div><div><br></div><div>&nbsp;- Rapidly progressive, severe hypertension can lead to {{c1::cerebral pathology}}\nand {{c1::seizures (eclampsia)}} if untreated<b><br></b></div><div><br></div>",
+                                ""
+                            ],
+                            "guid": "J{8&u82<{0",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Uncommon Causes of Secondary Hypertension:<div><br></div><div>A {{c1::phaeochromocytoma}} is a catecholamine-secreting\ntumour that raises pressure by a-adrenoceptor activation</div><div><br></div><div>In {{c1::hyperaldosteronism (Conn’s syndrome)}}, the\nhypertension is caused by excessive salt and water retention\ndue to excessive aldosterone secretion&nbsp;</div><div><br></div><div>{{c1::Renal artery stenosis}} causes hypertension by activating\nthe renin-angiotensin-aldosterone system<br></div>",
+                                ""
+                            ],
+                            "guid": "B<H(nl){pS",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Hypertension in Hyperaldosteronism (Conn's Syndrome):</b><div><br></div><div>Obviously more aldosterone secretion, but what is the direct effect of this?&nbsp;{{c1::excessive salt and water\nretention leading to increased fluid volume}}</div><div><br></div><div>Increased extracellular fluid volume eventually leads&nbsp; to&nbsp;{{c1::increased arterial blood pressure}}</div><div><br></div><div>In Normal High Salt intake.</div><div><br></div><div>-Salt taken in&nbsp;</div><div>-Fluid retention</div><div>-Increased MAP</div><div>-Increased pressure in glomeruli&nbsp;</div><div>-Pressure diuresis</div><div>-Piss away excess fluid</div><div><br></div><div>Why can't you do that with Hyperaldosteronism?</div><div>{{c1::fluid retention is stable and constant, you can't piss it away quick enough}}<br></div><div><br></div><div>What is hypertension maintained by in hyperaldosteronism?</div><div>{{c1::Increase in TPR from certain organs auto-regulating blood flow to them.}}<br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>",
+                                "<img src=\"paste-99780ac493f69da5b7e7faa3a137c706ff71ec48.jpg\"><div><img src=\"paste-db9122866e19f8444c2aa98b3e788f6b173b4dec.jpg\"><br></div>"
+                            ],
+                            "guid": "o??#}!_<EV",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>RENAL ARTERY STENOSIS:</b><div><br></div><div>Blood flow is reduced in a renal artery</div><div><br></div><div>• Reduced renal blood flow is detected by\n{{c1::juxaglomerular}} cells and this triggers the&nbsp;{{c1::renin-angiotensin}} system.</div><div><br></div><div>Hypertension is caused by:</div><div>1. The vasoconstrictive effects of&nbsp;{{c1::angiotensin 2}}</div><div>2. The fluid retention effects of&nbsp;secretion of {{c1::aldosterone}} by {{c1::adrenal cortex\ntubular epithelial}} cells</div><div><br></div><div>In a normal kidney, pressure diuresis would mean that you piss away excess fluid, why can't it happen here?&nbsp;{{c1::R-A system always on, couldn't piss fast enough}}</div><div><br></div><div>How do you look for a renal artery stenosis:</div><div>&nbsp;{{c1::look for turbulent abdominal blood flow on an ultrasound}}</div><div><br></div><div>Experimental model of systemic hypertension in\nrodents\n• {{c1::Two-kidney, one-clip hypertension}}<br></div><div><b><br></b></div>",
+                                "<img src=\"paste-b35b78b13ba4b6d8387cbce26daeede0a1745b7a.jpg\">"
+                            ],
+                            "guid": "EQ&j51cR#;",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Essential or primary hypertension is hypertension without\nobvious organic cause, and can take two courses:<div><br></div><div>&nbsp;- Benign essential hypertension&nbsp;</div><div>§ The commonest form, is slowly progressive,\nalmost {{c1::symptomless}}&nbsp;</div><div>§ Generally comes to light through a <font color=\"#aa0000\">routine\ncheck-up</font></div><div><br></div><div>&nbsp;- The rarer malignant hypertension is rapidly\nprogressive and quickly induces:&nbsp;</div><div>§ {{c1::cardiac}} failure and oedema,</div><div>§ renal damage</div><div>§ cerebral damage with {{c1::papilloedema}} and\n{{c1::retinopathy}}</div>",
+                                ""
+                            ],
+                            "guid": "T^_LgPd52",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>DURING EXERCISE IN\nYOUNG</b><div>&nbsp;• {{c1::Increased}} HR</div><div>&nbsp;• {{c1::Increased}} SV&nbsp;</div><div>• {{c1::Increased}} CO&nbsp;</div><div>• {{c1::Reduced}} TPR&nbsp;</div><div><br></div><div><b><br></b></div><div><b>DURING EXERCISE IN\nELDERLY</b><br></div><div>• {{c1::Less increased}} SV&nbsp;</div><div>* {{c1::less increased}} HR&nbsp;</div><div>* {{c1::Less increased}} CO&nbsp;</div><div>• {{c1::Less reduced}}TPR&nbsp;</div><div><br></div><div>Who's bp rises more during excercise?</div><div>{{c1::elderly}}<br></div><div>Why?</div><div>{{c1::difference between TPR is bigger than any other measurement}}<br></div><div><br></div><div><br></div><div><br></div>",
+                                "<img src=\"paste-13b8c01c58ab177c49a7822a41d395fcd0614260.jpg\">"
+                            ],
+                            "guid": "M#?.`7H_:v",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Neurogenic theory: enhanced adrenergic activity (essential hypertension)</b><div><br></div><div>• Younger:\n- tachycardia (increased HR), increased stroke volume,\nincreased CO ({{c1::b1}}-receptor mediated)&nbsp;</div><div><br></div><div>• Older:\n- {{c1::a}}-adrenoceptor mediated peripheral vasoconstriction\n- down-regulation of {{c1::b2}}-adrenoceptor mediated\nvasodilation</div>",
+                                ""
+                            ],
+                            "guid": "bw0#OL0fhr",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Peripheral vasoconstriction&nbsp; (essential hypertension)</b><div><br></div><div>• {{c1::a}}-Adrenoceptor mediated peripheral vasoconstriction may\ninitially be reversed by vasodilators&nbsp;</div><div><br></div><div>• Persistent {{c1::a}}-adrenoceptor mediated peripheral\nvasoconstriction causes {{c1::hypertrophy}} of the walls of small\narteries/arterioles, {{c1::narrowing}} of the vessels and elevated\nresistance which cannot be {{c1::reversed}} by vasodilators (TPR\nremains elevated)</div><div>&nbsp;</div><div>• The elevated blood pressure can reduce the number of\nsmall arteries/arterioles in a process called rarefaction\n(further increase in TPR)</div><div><br></div><div>Occurs in the kidneys.</div><div><br></div><div><br></div>",
+                                ""
+                            ],
+                            "guid": "j.L^@fN#g)",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-d2b2d64ffa5df3bd68529afed1e0c331268207cf.jpg\"><div>This is a normal renal output graph</div><div>What would an essentially hypertensive renal output look like</div><div>{{c1::<img src=\"paste-d9032c42b27f2e30f42906aa001ec00e4b3c20a9.jpg\">}}<br></div><div>What causes this shift?</div><div>(i) increased {{c1::sympathetic nerve}}\nactivity,&nbsp;</div><div>(ii) elevated levels of {{c1::AngII}}&nbsp;</div><div>(iii) elevated levels of\n{{c1::aldosterone}}<br></div><div>(iv) Structural changes such as&nbsp;{{c1::rarefaction}}</div><div><br></div><div>Why is it called essential hypertension?{{c1::because hypertension is now required for normal renal function}}</div><div><br></div><div><br></div>",
+                                ""
+                            ],
+                            "guid": "kp%Ere{)Q2",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-f4044ba781010d033ca4a234028cc6b3f3cdfbd2.jpg\"><div>{{c1::g}}<br></div>",
+                                ""
+                            ],
+                            "guid": "eo_;Vb#f;j",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Hypertension itself is virtually symptomless<div><br></div><div>&nbsp;• Contrary to popular belief, it rarely presents with nose bleeds\nor headaches!</div><div><br></div><div>&nbsp;• If not treated, hypertension damages the heart, brain and\nkidneys, leading to:</div><div>§ cardiac hypertrophy:{{c1::<span style=\"color: rgb(32, 33, 36);\">abnormal enlargement, or thickening, of the heart muscle</span>}}</div><div>§ hypertensive heart failure&nbsp;</div><div>§ atheromatous coronary artery disease ; {{c1::b<span style=\"color: rgb(32, 33, 36);\">uild-up of fatty deposits (</span><b>atheroma</b><span style=\"color: rgb(32, 33, 36);\">) on the walls of the&nbsp;</span><b>arteries</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;around the&nbsp;</span><b>heart</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;(</span><b>coronary arteries</b><span style=\"color: rgb(32, 33, 36);\">)</span>}}</div><div>§ cerebrovascular accidents :{{c1::(strokes)}}</div><div>§ hypertensive retinopathy :{{c1::<b>retinal</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;vascular damage caused by&nbsp;</span><b>hypertension</b>}}</div><div>§ chronic renal failure</div>",
+                                ""
+                            ],
+                            "guid": "t&x-JeG3g#",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Ventricular hypertrophy&nbsp;<div>Cardiac hypertrophy occurs in response to increased {{c1::afterload}} (increased arterial\npressure - hypertension)&nbsp;</div><div>• The heart has to perform more work to eject blood against the increase {{c1::afterload&nbsp;}}</div><div>• The walls of the heart grow thicker (hypertrophy)&nbsp;</div><div>• Specifically concentric hypertrophy:&nbsp;{{c1::The wall grows thicker without an increase in chamber size}}&nbsp;</div><div>• The ventricular wall becomes {{c1::stiffer}} (loss of distensibility)&nbsp;</div><div>• Ventricular {{c1::relaxation}} becomes impaired&nbsp;</div><div>• {{c1::Diastolic filling}} of the ventricle is reduced&nbsp;</div><div>• Why doesn't this happento endurance athletes? {{c1::In endurance athletes the cardiac hypertrophy is accompanied by an increased\nchamber size}}</div><div><br></div><div>Chronic elevation of arterial pressure causes left ventricular\nhypertrophy (wall grows thicker)&nbsp;</div><div><br></div><div><br></div><div>-{{c1::AngII}} and {{c1::Endothelin}} trigger a kinase pathway called MAPkinase</div><div>-{{c1::nuclear transcription}} factors are activated&nbsp;</div><div>-hypertrophy genes are activated and the wall grows thicker&nbsp;</div><div><br></div><div>• The hypertrophy helps the heart deal with the persistent\nhigh afterload (hypertension), at least for a while&nbsp;</div><div><br></div><div>• The high cardiac work performed by the hypertrophic heart,\nmakes it susceptible to {{c1::ischaemia}} and {{c1::heart failure}} (see later)<br></div><div><br></div>",
+                                ""
+                            ],
+                            "guid": "A4ZQrS*xL<",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>ECG and LVH</b></div><div><br></div>In LVH the left ventricle enlarges.<div><br></div><div>So the leads oriented to\nthe left ventricle ({{c1::V5, V6, aVL}}(3)) will \"see\" more\nelectrical activity moving towards them.&nbsp;</div><div><br></div><div>The\nleads oriented away from the left ventricle {{c1::(V1, V2)}}(2)&nbsp;will \"see\" more activity moving away from them.&nbsp;</div><div><br></div><div>Leads {{c1::V5, V6 and aVL}}(3) will have tall R\nwaves</div><div><br></div><div>Leads {{c1::V1 and V2}}(2) will have deep S\nwaves.&nbsp;<br></div><div><br></div><div>What is the voltage criteria for LVH?</div><div>{{c1::The voltage criteria for LVH are satisfied if the\nsum of the amplitude of the deepest S wave in\nV1 or V2, and the amplitude of the tallest R\nwave in V5 or V6, is equal to or greater than 35\nmm (3.5 mV). The voltage criteria are also\nsatisfied if the amplitude of the R wave in lead\naVL is equal to or greater than 12 mm (1.2mV)}}<br></div>",
+                                "<img src=\"paste-bc2cbe486187facfdfabbf48e6b62e14c632fd46.jpg\"><div><img src=\"paste-80e25492a66d6cbed8dbc4400b4c8c398a6740d9.jpg\"><br><div><br></div></div>"
+                            ],
+                            "guid": "yl74w{Y_mU",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "• The myocardium is composed of {{c1::cardiac myoctyes}} (cardiac muscle\ncells) and {{c1::extracellular matrix&nbsp;}}<div><br></div><div>• When the myocardium undergoes hypertrophy, the {{c1::myocyte}}\nincreases in size - more by increase diameter than length&nbsp;</div><div><br></div><div>• During development of hypertrophy the number and diameter of\n{{c1::capillaries}} remains unchanged&nbsp;</div><div><br></div><div>• The distance between {{c1::capillaries}} increases&nbsp;</div><div><br></div><div>• The ratio of {{c1::capillary}} surface area to {{c1::myocyte}} volume decreases&nbsp;</div><div><br></div><div>• Less O2 for {{c1::myocyte}} metabolism</div>",
+                                "<img src=\"paste-e892334854a87d3d1125b490175295813f5472f2.jpg\">"
+                            ],
+                            "guid": "j8j1r`KDrd",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Course of hypertension and therapeutic strategies&nbsp;<div>• Untreated the outlook for hypertensives is grave, with&nbsp;</div><div>§ ~50% of patients eventually developing {{c1::heart}} failure&nbsp;</div><div>§ ~25% of patients eventually developing {{c1::renal}} failure&nbsp;</div><div>§ ~25% eventually developing {{c1::cerebral}} complications\n({{c1::eg, retinopathy, strokes}})&nbsp;</div><div><br></div><div>• It is important, therefore, to treat hypertension at the\nsymptomless stage</div><div><div><br></div><div>• The aim of the therapy for hypertension:&nbsp;</div><div>- is to reduce systolic pressure to {{c1::135-145}} mmHg&nbsp;</div><div>and\ndiastolic pressure to {{c1::85}} mmHg.</div><div>&nbsp;- this greatly reduces the mortality and morbidity<br></div><div><br></div><div><br></div><div><b>There are four main therapeutic avenues: Match 'em Up</b><br></div><div>1.Reduction of TPR (MAP = CO x TPR)&nbsp;</div><div><br></div><div>2. Reduction of the extracellular fluid volume (which is\nelevated in hypertension) and hence blood pressure&nbsp;</div><div><br></div><div>3.• Inhibition angiotensin-converting enzyme to reduce\nangiotensin II and aldosterone&nbsp;</div><div><br></div><div>4.Reduction of cardiac output and hence blood pressure\n(MAP = CO x TPR)<br></div></div><div><br></div><div>a. Diuretic Drugs{{c1::2}}</div><div>b.ACE-inhibitors{{c1::3}}</div><div>c. Calcium channel blockers and a1-adrenoceptor blockers{{c1::1}}</div><div>d. Beta-blockers{{c1::4}}</div><div><br></div><div>Give examples for all except Diretic drugs</div><div><br></div>",
+                                "calcium-channel\nblockers (nifedipine) and a1-adrenoreceptor blockers\n(prazosin)<div>Captopril blocks the angiotensin-converting enzyme\n(ACE-inhibitor<br></div><div>b-adrenoceptor blockers such as propranolol and\natenolol<br></div>"
+                            ],
+                            "guid": "evf?H9ZTE$",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "509b3c67-948a-11eb-a32d-ad9d49024ac7",
+                    "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "46713953a417486ab8fd4576308ce77b-ao-1-A.svg",
+                        "46713953a417486ab8fd4576308ce77b-ao-1-Q.svg",
+                        "46713953a417486ab8fd4576308ce77b-ao-2-A.svg",
+                        "46713953a417486ab8fd4576308ce77b-ao-2-Q.svg",
+                        "46713953a417486ab8fd4576308ce77b-ao-3-A.svg",
+                        "46713953a417486ab8fd4576308ce77b-ao-3-Q.svg",
+                        "46713953a417486ab8fd4576308ce77b-ao-4-A.svg",
+                        "46713953a417486ab8fd4576308ce77b-ao-4-Q.svg",
+                        "46713953a417486ab8fd4576308ce77b-ao-O.svg",
+                        "Capture-c884a8eda8726d474d25e3e28e62e6fa36459e5c.PNG",
+                        "paste-07b0a4730feb34e56e8168913f204337ad4a1c7f.jpg",
+                        "paste-0944a80f8314e8b01fbc554bf4ce0f179c8d5142.jpg",
+                        "paste-09b6800b625d62b9cbb2c6e0a1eac4700f8108d6.jpg",
+                        "paste-1d1b517c5e61be2b642c049b21fec4c0258f097d.jpg",
+                        "paste-23962758720bdc19b3b061913160d4ce61bcdbdd.jpg",
+                        "paste-3f683e5d147e2af7f424928a6b7cc448516f5a55.jpg",
+                        "paste-4ba7226b35b8030aa0d00e9c00042210e62bd388.jpg",
+                        "paste-66f4f32c5ef01b3afd36a18e6e215ae668cc7a87.jpg",
+                        "paste-690f2724fcaed5729972a4280298aef78acc02f6.jpg",
+                        "paste-81987b05c30f4cc08bdf69841246277403f4ccbe.jpg",
+                        "paste-ac57fc0e5fad0fb54f7b8ef058ad0b9562e763ca.jpg",
+                        "paste-b6b3861de302e34f6ffd5b7b3f4f3e03ef17c828.jpg",
+                        "paste-b9186c84dbfe829f07e5c4191a161932efac3058.jpg",
+                        "paste-c78389efbe6a256f30786e5aa552c97d479374d4.jpg",
+                        "paste-df31eab4ff2b98a632de5e3ba63f5842e332d37f.jpg"
+                    ],
+                    "name": "03/23 Wheatley Myocardial Infarction",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "46713953a417486ab8fd4576308ce77b-ao-1",
+                                "",
+                                "<img src=\"Capture-c884a8eda8726d474d25e3e28e62e6fa36459e5c.PNG\" />",
+                                "<img src=\"46713953a417486ab8fd4576308ce77b-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"46713953a417486ab8fd4576308ce77b-ao-1-A.svg\" />",
+                                "<img src=\"46713953a417486ab8fd4576308ce77b-ao-O.svg\" />"
+                            ],
+                            "guid": "BNPz$U_mK6",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "46713953a417486ab8fd4576308ce77b-ao-2",
+                                "",
+                                "<img src=\"Capture-c884a8eda8726d474d25e3e28e62e6fa36459e5c.PNG\" />",
+                                "<img src=\"46713953a417486ab8fd4576308ce77b-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"46713953a417486ab8fd4576308ce77b-ao-2-A.svg\" />",
+                                "<img src=\"46713953a417486ab8fd4576308ce77b-ao-O.svg\" />"
+                            ],
+                            "guid": "M^!%0RbWhZ",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "46713953a417486ab8fd4576308ce77b-ao-3",
+                                "",
+                                "<img src=\"Capture-c884a8eda8726d474d25e3e28e62e6fa36459e5c.PNG\" />",
+                                "<img src=\"46713953a417486ab8fd4576308ce77b-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"46713953a417486ab8fd4576308ce77b-ao-3-A.svg\" />",
+                                "<img src=\"46713953a417486ab8fd4576308ce77b-ao-O.svg\" />"
+                            ],
+                            "guid": "ip7Mp&(FRz",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "46713953a417486ab8fd4576308ce77b-ao-4",
+                                "",
+                                "<img src=\"Capture-c884a8eda8726d474d25e3e28e62e6fa36459e5c.PNG\" />",
+                                "<img src=\"46713953a417486ab8fd4576308ce77b-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"46713953a417486ab8fd4576308ce77b-ao-4-A.svg\" />",
+                                "<img src=\"46713953a417486ab8fd4576308ce77b-ao-O.svg\" />"
+                            ],
+                            "guid": "f9fRmV&J=~",
+                            "note_model_uuid": "f5199df9-7dcf-11eb-9a20-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Right coronary artery supplies&nbsp;<div>– the {{c1::right}} ventricle&nbsp;</div><div>– parts of the {{c1::septum}}&nbsp;</div><div>– the {{c1::posterior}} wall of the {{c1::left}}\nventricle&nbsp;</div><div><br></div><div>• Left coronary artery supplies&nbsp;</div><div>– the rest of the heart&nbsp;</div><div>– its major branch the {{c1::left\nanterior descending (LAD)}}\ncoronary artery which supplies\npart of the septum</div>",
+                                "<img src=\"paste-07b0a4730feb34e56e8168913f204337ad4a1c7f.jpg\">"
+                            ],
+                            "guid": "f(/&JX-H2<",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Variations in coronary blood flow\nduring the cardiac cycle:</b><div><div><br></div><div>In the left ventricl</div><div>During systole:</div><div>– {{c1::intramural}} myocardial\npressure rises</div><div>– this compresses the\n{{c1::coronary blood vessels}}</div><div>– compression is primarily\nin the {{c1::sub-endocardium}}</div><div><br></div><div><br></div><div>What does this mean for blood supply to the left ventricel during systole? {{c1::There is complete interruption\nof blood flow into the left\nventricle during early systole}}<br></div><div><br></div><div>So at what stage of the cardiac cycle does the left ventricle recieve most of it's blood supply?&nbsp;{{c1::Diastole}}</div><div><br></div><div>Does this happen in the right ventricle?{{c1::no}} Why?{{c1::intramural pressure isn't as high}}</div><div><br></div><div><br></div><div><br></div><div>How does coronary venous blood get back into the heart?{{c1::Collects in coronary sinus and pumped into right atrium during sytole}}</div></div><div><br></div><div><div><b>Blood supply to the ventricular muscle</b><br></div><div><br></div>Nutrient blood flow reaches the myocardium via vessels that penetrate the wall of the ventricle<div><br></div><div>The vessels begin at the&nbsp;{{c1::epi}}cardium and end at the&nbsp;{{c1::endo}}cardium</div><div><br></div><div>So basing off what you know, what region of the heart is most vulnerable to decreased blood flow and ischaemia?&nbsp;{{c1::subendocardial regions of the left ventricle}}</div></div>",
+                                ""
+                            ],
+                            "guid": "fzZ267a6:L",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>First cloze will be referred to as X</div><div><br></div>{{c1::Adenosine}} is a molecule thought to be a likely candidate of coronary blood flow regulation<br><div><br></div><div>X is produced from the breakdown of&nbsp;{{c1::ATP}} in myocardial cells during:</div><div>{{c1::during heavy exercise\n• hypoxia\n• ischaemia}}(3)<br></div><div><br></div><div>What does it cause? {{c1::Arterial vasodilation of the coronary vessels}}</div><div><br></div><div>What role does it play in an MI?&nbsp;{{c1::It causes pain}}</div>",
+                                ""
+                            ],
+                            "guid": "q+&DH~YMPU",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Coronary Artery Stenosis:</b><div>Coronary stenosis :{{c1::narrowing of coronary vessels}}</div><div>&nbsp;– reduces coronary perfusion pressure in the {{c1::distal}}\nsegment of the diseased artery</div><div>&nbsp;– induces {{c1::ischaemia}}<b><br></b><div><b><br></b></div><div>Usually caused by an&nbsp;</div><div>Atheroma:{{c1::Patchy, cholesterol-rich deposit in the\nwall of large arteries\nthat forms a plaque that\nnarrows the artery}}</div><div><br></div><div>When one ruptures it causes&nbsp;{{c1::platelet\naggregation and thrombosis (blood\nclot)}} that leads to tissue&nbsp;{{c1::ischaemia}}</div><div><br></div><div>In coronary arteries this can lead to&nbsp;{{c1::MI}}</div><div><br></div><div>Give the main predisposing factors for Atheroma:&nbsp;{{c1::-high plasma low-density lipoprotein\n(LDL)&nbsp;</div><div>-smoking&nbsp;</div><div>-hypertension&nbsp;</div><div>-diabetes&nbsp;</div><div>-obesity}}(5)</div><div><br></div><div>When the stenosis is more than\n{{c1::70}}%\n– there is a dramatic increase in\nvascular resistance and fall in\nblood flow<br></div></div><div><br></div><div>What law explains why less severe stenosis has little effect ont he heart?{{c1::Poiseuille’s Law}}</div><div><br></div><div><br></div>",
+                                "<img src=\"paste-df31eab4ff2b98a632de5e3ba63f5842e332d37f.jpg\"><div><img src=\"paste-b9186c84dbfe829f07e5c4191a161932efac3058.jpg\"><br><div><br></div></div>"
+                            ],
+                            "guid": "vZIoN?N#7-",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Myocardial Infarction:</b><div><b><br></b></div><div><font color=\"#aa0000\">If a coronary artery is blocked, it causes ischaemia in a dowstream area</font></div><div>This area is called a&nbsp;{{c1::myocardial infarction}} or ischaemic area</div><div><img src=\"paste-ac57fc0e5fad0fb54f7b8ef058ad0b9562e763ca.jpg\"><br></div><div><br></div><div>• If ischaemic tissue can be {{c1::reperfused}}\nwith blood the tissue will recover,&nbsp;</div><div>If not? {{c1::the cells will die by necrosis}}<br></div>",
+                                ""
+                            ],
+                            "guid": "tHd_P:LC-(",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Myocardial Infarction by Ischaemia:</b><div><b><br></b></div><div>Ischemic area is initially small and only in {{c1::endo}}cardium</div><div><br></div><div>Ischaemic area loses&nbsp;{{c1::contractility}}</div><div><br></div><div>Ventricle cannot expel as much blood as usual so&nbsp;{{c1::EDV}} increases</div><div><br></div><div>This leads to&nbsp;{{c1::higher}} blood pressure in heart</div><div><br></div><div>And&nbsp;{{c1::lower}} MAP</div><div><br></div><div>So intramural pressure is&nbsp;{{c1::increased}}</div><div><br></div><div>What results from this?&nbsp;{{c1::even less blood to coronary arteries so even more tissue becomes ischaemic and continues in viscous circle}}</div><div><br></div><div>What would classify as a major Myocardial infarction?&nbsp;{{c1::40% or more of left\nventricular mass is ischaemic}}</div>",
+                                "<img src=\"paste-09b6800b625d62b9cbb2c6e0a1eac4700f8108d6.jpg\"><div><img src=\"paste-1d1b517c5e61be2b642c049b21fec4c0258f097d.jpg\"><br></div>"
+                            ],
+                            "guid": "PhMsx;4;s+",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Reasons For Ischaemic Contractile Failure:<div><br></div><div>1. Reduction in ATP and CP formation, why?&nbsp;{{c1::can only do anaerobic resp in ischemic cells}} why is this bad?{{c1::energy is needed for contractility}}</div><div><br></div><div>2. Build-up of lactate, why?{{c1::again,anaerobic resp}} and why is this bad?&nbsp;{{c1::. Lactate make the cell\nacidic which reduces\nactin:myosin crossbridge\ncycling (reduced\ncontractility)}}</div><div><br></div><div>3. Opening of ATP-sensitive {{c1::K+}} channels</div>",
+                                "<img src=\"paste-81987b05c30f4cc08bdf69841246277403f4ccbe.jpg\">"
+                            ],
+                            "guid": "o{JvEL;3qz",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Effect of high extracellular potassium\non the cardiac action potential:</b><div><b><br></b></div><div>Extracellular potassium is due to {{c1::the opening of ATP linked channels}}</div><div><br></div><div>The normal potassium concentration in extracellular fluid is {{c1::3.5-5.5}}\nmM&nbsp;</div><div><br></div><div>• A concentration of {{c1::7.5}} mM will arrest the heart in diastole<br></div><div><br></div><div>The {{c1::resting membrane potential}} for the surrounding cells\nbecomes more positive<br></div><div><br></div><div><font color=\"#aa0000\">Fast Na+ channels are voltage sensitive</font></div><div><br></div><div>&nbsp;• Following depolarisation, they are “inexcitable” until the cell is repolarised</div><div><br></div><div>&nbsp;• If the resting membrane potential is more positive than normal i.e. cell isn't fully repolarised, what happens?&nbsp;{{c1::only a portion\nof the channels will change from the “inexcitable” to the “excitable” stat}}</div><div><br></div><div>&nbsp;• During the next depolarisation, fewer fast channels will be opened</div><div><br></div><div>&nbsp;• The {{c1::slope}} and {{c1::amplitude}} of the upstroke of the AP are reduced<br></div><div><br></div><div>Also K+ channels are always open so&nbsp;{{c1::the plateau}} phase stops and thus AP becomes {{c1::shorter}}</div><div><br></div><div>Ventricle drops to a lower starling curve</div>",
+                                "<img src=\"paste-3f683e5d147e2af7f424928a6b7cc448516f5a55.jpg\"><div><img src=\"paste-b6b3861de302e34f6ffd5b7b3f4f3e03ef17c828.jpg\"><br><div><br></div></div>"
+                            ],
+                            "guid": "Tc_)W=Z,D",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-4ba7226b35b8030aa0d00e9c00042210e62bd388.jpg\"><div>At b&nbsp;</div><div>CO down to&nbsp;{{c1::2}}&nbsp;l/min&nbsp;</div><div>• {{c1::EDV}} increased&nbsp;</div><div>• RAP up to {{c1::4}} mmHg</div><div><br></div><div>At C</div><div>{{c1::Increased}} contractility&nbsp;</div><div>• Higher Starling curve&nbsp;</div><div>• RAP {{c1::5}}mmHg&nbsp;</div><div>• CO {{c1::4.2}} l/min<br><div>How?&nbsp;{{c1::Increased adrenergic activity with vasoconstriction\nleading to increase TPR}}</div><div>Long or Short term solution?{{c1::short}}</div><div><br></div><div>At D</div><div>Measurements at C maintained by activation of&nbsp;{{c1::the reninangiotensin-aldosterone}} system</div><div><br></div><div>Which increases&nbsp;{{c1::plasma }} volume and thus&nbsp;{{c1::cardiac output}}<br><div><br></div></div></div><div>However also causes rise in&nbsp;{{c1::EDV}}</div><div><br></div><div>What systems is blood flow reduced to during cardiac failure?&nbsp;{{c1::renal, GIT and skin}}(3)</div>",
+                                "<img src=\"paste-0944a80f8314e8b01fbc554bf4ce0f179c8d5142.jpg\">"
+                            ],
+                            "guid": "Nj%f;dV.a[",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>ECGs and MI's</b></div><div><br></div>Following a myocardial\ninfarction (heart attack) the\n{{c1::ST}} segment is elevated<div><br></div><div>Normal tissue&nbsp;</div><div>• All tissue depolarizes and repolarizes\ntogether&nbsp;</div><div>• No abnormal currents flow\nNormal tissue&nbsp;</div><div><br></div><div>Ischaemic tissue&nbsp;</div><div>• During diastole is ischaemic tissue more, positively, negatively or charged the same as normal tissue?{{c1::positively}}</div><div><br></div><div>• During mid- to late systole,ischaemic tissue more, positively, negatively or charged the same as normal tissue?&nbsp;{{c1::negatively}}&nbsp;</div><div><br></div><div>• When different areas are tissue in the\nheart demonstrate a charge difference, an\n{{c1::abnormal}} current will flow</div><div>&nbsp;• This is called {{c1::Current of injury}}<br></div><div><br></div><div>•<b> During diastole&nbsp;</b></div><div>• the ischaemic tissue is more {{c1::positive}} than\nthe normal areas&nbsp;</div><div>• a current of injury flows from the\n{{c1::ischaemic}} to the {{c1::normal}} tissue, away the\ndetecting electrode&nbsp;</div><div>• the major ECG change is depression of\nthe {{c1::baseline (T-Q segment)}}<br></div><div><br></div><div><b>During midsystole</b>&nbsp;</div><div>• the normal tissue is\nmore {{c1::positive}} than the\nischaemic areas&nbsp;</div><div>• a current of injury\nflows from the {{c1::normal}}\nto the {{c1::ischaemic}}\ntissue, towards the\ndetecting electrode&nbsp;</div><div>• the major ECG\nchange is elevation of\nthe {{c1::S-T segment}}<br></div><div><br></div><div><br></div><div><br></div><div>During mid-systole&nbsp;</div><div>&nbsp;• If the ischaemic area is {{c1::subendocardial}}, the current of injury\nis away from the detecting\nelectrode&nbsp;</div><div>• the major ECG change is\ndepression of the S-T segment<br></div><div><br></div><div><br></div><div><br></div>",
+                                "<img src=\"paste-c78389efbe6a256f30786e5aa552c97d479374d4.jpg\"><div><img src=\"paste-66f4f32c5ef01b3afd36a18e6e215ae668cc7a87.jpg\"><br><div><br><div><br></div></div></div>"
+                            ],
+                            "guid": "uWx(_w6-]4",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ST segment elevation: current of injury from\nnormal to ischaemic tissue {{c1::towards}} the\ndetecting electrode<div><br></div><div>ST segment depression: current of injury\nfrom normal to ischaemic tissue {{c1::away}}\nfrom the detecting electrode</div><div><br></div><div>Which leads show&nbsp;</div><div>(i) ST segment elevation?&nbsp;{{c1::3,2,aVF}}</div><div>(ii) ST segment depression?&nbsp;{{c1::aVL,1}}</div><div>(iii) No change?{{c1::aVR}}</div>",
+                                "<img src=\"paste-690f2724fcaed5729972a4280298aef78acc02f6.jpg\"><div><img src=\"paste-23962758720bdc19b3b061913160d4ce61bcdbdd.jpg\"><br><div><br></div></div>"
+                            ],
+                            "guid": "Iu$mj~H3?0",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "509bb14d-948a-11eb-95ae-ad9d49024ac7",
+                    "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-0b21dbd8919d442ec9f24ec545fc46d180ebf680.jpg",
+                        "paste-0c00e026c788ad3a9835e3bd7ab48928ea184cf6.jpg",
+                        "paste-11bddd0e8b299b1e442113e2475206172f683842.jpg",
+                        "paste-285dab82fd5d547918e55f7d64d240ad330dcc45.jpg",
+                        "paste-332a2876049288abd1b05b59ac2c373472fc44c2.jpg",
+                        "paste-561000a423d378d1ac9ebfafe419d30341753022.jpg",
+                        "paste-89c50ef62335a3a0a0d48fdbae029307aa2a807b.jpg",
+                        "paste-a6b6deccfd728bbf06bb1d225c98e83f4fe42e90.jpg",
+                        "paste-cbdb9f89cf5d3cc1d0e0d413cfd3bf116c1b6ac0.jpg",
+                        "paste-f2a4b1d218aff38c510ebc6b1a64836ca1568175.jpg",
+                        "paste-f47df082d42aa65a7f66279423395258ba596362.jpg"
+                    ],
+                    "name": "03/24 Pat Nash",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Heart Failure is the inability of the heart to:<div>-{{c1::to pump blood at a sufficient cardiac output}}</div><div>-{{c1::to maintain adequate perfusion of other organs}}</div><div><br></div><div>Cardiomyopathy:{{c1::Any pathological process affecting the\nmyocardium which results in a disturbance\nin myocardial function}}<br></div><div><br></div><div>Heart Failure can be:</div><div>-Sytolic dysfunction which indicates&nbsp;{{c1::Reduced Contractility}}&nbsp;</div><div>-Diastolic dysfunction which indicates&nbsp;{{c1::Impaired Relaxation &amp; Increased Stiffness}} (2)</div><div><br></div><div><br></div>",
+                                "Heart Failure is the result<div>Cardiomyopathy is the process</div>"
+                            ],
+                            "guid": "M#93v*eekD",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Ejection Fraction:{{c1::% emptying of the left ventricle}}<div><br></div><div>A measure of&nbsp;{{c1::systolic}} function</div><div><br></div><div>What is a normal ejection fraction?{{c1::55-60}}%</div><div><br></div><div>What is typically used to measure it?&nbsp;{{c1::Echocardiogram or MRI}}</div><div><br></div><div>What are the two types of heart failure with regards to EF?</div><div>-{{c1::Heart Failure with reduced Ejection Fraction (HFrEF)}}<br></div><div>-{{c1::Heart Failure with preserved Ejection Fraction (HFpEF)}}<br></div><div><br></div><div>Assuming you know both, what type of heart failure are these effects assocaited with</div><div><br></div><div>Reduced Stroke volume at rest and with exercise\n– Reduced “forward pressure”&nbsp;{{c1::both}}</div><div>• Increased intracardiac pressure\n– Increased “back pressure”{{c1::both}}<br></div>",
+                                "Heart Failure with preserved Ejection Fraction (HFpEF) is same as diastolic dysfunction<div><br></div><div>eart Failure with reduced Ejection Fraction (HFrEF) is same as systolic dysfunction<br></div>"
+                            ],
+                            "guid": "NClWEpDFH&",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Determinants of Stroke Volume\n{{c1::1. Preload\n2. Afterload\n3. Contractility}} (3)<div><br></div><div><br></div>",
+                                ""
+                            ],
+                            "guid": "eRPf4m`yqJ",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "&nbsp;True or false<div>Higher Preload=higher CO{{c1::t}}</div><div>Higher Afterload= higher CO{{c::f}}</div><div>Higher Contractility(HR)=Higher CO{{c1::braitheann sé}}</div>",
+                                "<img src=\"paste-11bddd0e8b299b1e442113e2475206172f683842.jpg\"><div><img src=\"paste-0c00e026c788ad3a9835e3bd7ab48928ea184cf6.jpg\"><br></div><div><img src=\"paste-cbdb9f89cf5d3cc1d0e0d413cfd3bf116c1b6ac0.jpg\"><br></div>"
+                            ],
+                            "guid": "b`F8~>otrP",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Reduced stroke volume and cardiac output causes<div>{{c1::• Reduced “forward-pressure”&nbsp;}}</div><div>{{c1::• Reduced organ perfusion&nbsp;}}</div><div><br></div><div>Elevated filling pressures causes</div><div>{{c1::• Increased “back-pressure”&nbsp;}}</div><div>{{c1::• Fluid retention – effect on the oncotic pressure}}</div>",
+                                ""
+                            ],
+                            "guid": "OA`Y>&]ve|",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Neuro-hormonal Response to HF:</b><div><b>Compensatory Systems</b></div><div>1.What branch of the nervous system is triggered?{{c1::Sympathetic}}</div><div><br></div><div>It is activated by,</div><div>-Stimulation of&nbsp;{{c1::baroreceptors}}</div><div>-Renal&nbsp;{{c1::hypoperfusion}}</div><div><br></div><div>What are its three efects to counter heart failure</div><div>Increased {{c1::heart rate}}<br></div><div>Increased&nbsp;{{c1::Contractility}}</div><div>{{c1::Vasoconstriction}}<br></div><div><br></div><div>2.What hormonal system is triggered?&nbsp;{{c1::RAAS}}</div><div><br></div><div>It is activated by ,</div><div>-Stimulation of&nbsp;{{c1::beta adrenergic receptors}}</div><div>-Renal&nbsp;{{c1::hypoperfusion}}</div><div><br></div><div>What are its three efects to counter heart failure?<br></div><div>{{c1::vasoconstriction}}<br></div><div>Increased {{c1::glomerular filtration}}<br></div><div>{{c1::Sodium retention causing fluid retention}}<br></div><div><br></div><div><br></div>",
+                                "Increased adrenaline and noradrenaline?"
+                            ],
+                            "guid": "kOV8#0nBJ(",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Adverse Affects of Compensatory Mechanisms:</b><div><b><br></b></div><div>1. Increase Heart Rate\n– {{c1::increases myocardial work&nbsp;}}</div><div>2. Increased contractility\n– {{c1::increases myocardial work}}&nbsp;</div><div>3. Vasoconstriction\n– {{c1::increases afterload\n– increases myocardial work&nbsp;}}</div><div>4. Fluid retention\n– {{c1::volume overload}}<b><br></b></div><div><br></div><div>Eventually leads to adverse <font color=\"#aa0000\">Left Ventricular Remodelling</font> as demonstrated by {{c1::Laplace's}} Law</div><div>-LV&nbsp;{{c1::dilation}}</div><div>-Increased&nbsp;{{c1::intramural}} pressure</div><div>-LV becomes more&nbsp;{{c1::spherical}} (shape)</div><div><br></div><div><font color=\"#aa0000\">Heart Progressively Gets Bigger</font></div><div><br></div>",
+                                ""
+                            ],
+                            "guid": "i?$Pyd&.Yp",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Symptoms Of Heart Failure:</b><div><b><br></b></div><div>The symptoms are due to one of two reasons</div><div><br></div><div>{{c1::Reduced Stroke Volume/CO}}<br></div><div>Cool peripheries</div><div>Hypotension</div><div>Decreased renal perfusion&nbsp;</div><div>&nbsp; &nbsp;– Renal dysfunction&nbsp;</div><div>&nbsp; &nbsp;– Activation of RAAS&nbsp;</div><div>&nbsp; &nbsp;– Activation of sympathetic system&nbsp;</div><div>Fatigue<br></div><div><br></div><div>{{c1::Fluid overload/Increased filling pressures}}<br></div><div>Pulmonary venous congestion<br></div><div>&nbsp; &nbsp; -{{c1::Dyspnoea\n– Orthopnoea\n– PND\n– Pleural effusions}}(4)</div><div>Right heart dysfunction<br></div><div>&nbsp; &nbsp; -{{c1::Ankle oedema\n– Elevated JVP\n– Ascities}}(3)</div><div>Oedema</div><div>Ascites</div>",
+                                ""
+                            ],
+                            "guid": "s8HHOeq5(L",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-a6b6deccfd728bbf06bb1d225c98e83f4fe42e90.jpg\"><div>\"I'm not going to go into this\"</div>",
+                                ""
+                            ],
+                            "guid": "MI$WaK{N}@",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Acute Heart failure can arise from a&nbsp;{{c1::myocardial infarction}}&nbsp;<div>can lead to pulmonary&nbsp;{{c1::oedema}} and&nbsp;{{c1::cardiogenic}} shock</div><div><br></div><div><font color=\"#aa0000\">Chronic heart failure</font></div><div><font color=\"#aa0000\">&nbsp;– Chronic LV systolic or diastolic dysfunction</font><br></div>",
+                                ""
+                            ],
+                            "guid": "yw-wS,RNz$",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Causes of Heart&nbsp;Failure with reduced EF (HFrEF)</b><div><b>Systolic Dysfunction or Dilated Cardiomyopathy</b></div><div><b><br></b></div><div>1. {{c1::Ischaemic}} cardiomyopathy&nbsp;</div><div>2. {{c1::Non-ischaemic Dilated}} Cardiomyopathy&nbsp;</div><div>3. Hypertension&nbsp;<b><br></b></div><div>4. {{c1::Valvular}} Heart disease<br></div><div>5. Tachycardia<br></div><div><br></div><div><b>Causes of&nbsp;HFpEF</b></div><div>1. {{c1::Restrictive}} Cardiomyopathy<b><br></b></div><div>2. {{c1::Hypertrophic}} Cardiomyopathy<br></div><div><br></div>",
+                                ""
+                            ],
+                            "guid": "Mgj_zB6=)/",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-0b21dbd8919d442ec9f24ec545fc46d180ebf680.jpg\"><div><img src=\"paste-285dab82fd5d547918e55f7d64d240ad330dcc45.jpg\"><br></div><div><img src=\"paste-f47df082d42aa65a7f66279423395258ba596362.jpg\"><br></div><div><img src=\"paste-561000a423d378d1ac9ebfafe419d30341753022.jpg\"><br></div><div><img src=\"paste-89c50ef62335a3a0a0d48fdbae029307aa2a807b.jpg\"><br></div><div><img src=\"paste-f2a4b1d218aff38c510ebc6b1a64836ca1568175.jpg\"><br></div><div><img src=\"paste-332a2876049288abd1b05b59ac2c373472fc44c2.jpg\"><br></div><div><br></div><div><br></div>",
+                                ""
+                            ],
+                            "guid": "Emh}6M#_(b",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "509c771d-948a-11eb-9f7d-ad9d49024ac7",
+                    "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-074bffd25ba2972a82a08c6665917d538c68c406.jpg",
+                        "paste-0c22672988cf92e16c0de1d10e931a5c73a7168a.jpg",
+                        "paste-1ed95f3270dd13629507dd9ade61e4bc990672c6.jpg",
+                        "paste-224b1f68801638b9141653a0a6b829e9f6ad81b3.jpg",
+                        "paste-264e08996d1aa111c2a3187270f516fc5312d3d2.jpg",
+                        "paste-4d15aa78ce860cc1e6904af0bc3d2b64718b786b.jpg",
+                        "paste-5053b0a5650fac6961d49449fdf7f9696a6cb6d4.jpg",
+                        "paste-bacd61f207122a5a082cc6a1731ca5afa7329cb6.jpg",
+                        "paste-dcc6b8826668a2ce46f06e200a5a350c4185043c.jpg",
+                        "paste-eac8a1d34bf20775445480a03ed6d09aa918d785.jpg",
+                        "paste-fa9524ad5844e3b7cc6ca35cafd51bd53ba7de60.jpg"
+                    ],
+                    "name": "03/26 Whaeatley Chronic Heart Failure",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-0c22672988cf92e16c0de1d10e931a5c73a7168a.jpg\"><div>In mild cardiac failure, {{c1::stroke volume}}\nmay be almost normal due to a\ncompensatory increase in {{c1::enddiastolic volume}}<br></div><div><br></div><div>Explain Compensated Heart Failure:{{c1::At rest stroke volume is normal, decompensated would be when stroke volume is below normal}}</div>",
+                                ""
+                            ],
+                            "guid": "D9`U4G[)wW",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Why isn't stroke volume or cardiac output always a good indicator of heart failure?&nbsp;{{c1::in compensated heart failure they can be almost normal}}<div><br></div><div>What is a more useful indicator&nbsp;{{c1::ejection fraction}}</div><div>What is its formula:{{c1::Ejection fraction (%) = SV/EDV}}</div><div>What is the normal measure of this indicator in the body? {{c1::55-70}}%</div>",
+                                ""
+                            ],
+                            "guid": "h}U%niCOvt",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Excercise In a Normal Heart:</b><div><br></div><div>- {{c1::increased}} O2 consumption in exercising muscle</div><div>&nbsp;• release of metabolic {{c1::vasodilators}}</div><div>&nbsp;• reduced resistance in feed blood vessels</div><div>&nbsp;• increased {{c1::muscle}} blood flow</div><div>&nbsp;• reduced {{c1::TPR}}</div><div>&nbsp;• increased central venous pressure, Why?&nbsp;{{c1::Less TPR means more blood goes into the venous system faster= more venous blood}}</div><div>&nbsp;• {{c1::increased}} venous return</div><div>&nbsp;• {{c1::increased}} ventricular EDV</div><div><b>&nbsp;</b>• {{c1::increase}} SV</div><div><br></div><div>Sympathetic Nervous system is also activated, explain how.{{1::adrenaline release, acts on cardiac b1 adrenoceptors}}</div><div><br></div><div>{{c1::Increases}} EF form c.60% to&nbsp;{{c1::80}}%</div><div><br></div><div><b>Excercise in Cardiac Failure:</b></div><div><b><br></b></div><div>• {{c1::increased}} ventricular EDV<br></div><div>• {{c1::increase}} SV<br></div><div><br></div><div>Is this the same as in Normal heart?</div><div>{{c1::yes}}<br></div><div><br></div><div>{{c1::decreases}} EF form c.60% to&nbsp;{{c1::45}}%<br></div><div><br></div><div>Why?{{c1::EDV needs to increase a lot more than in normal heart to achive same stroke volume}}</div><div><br></div><div>Is there sympathetic activity in excercise with heart failure?&nbsp;{{c1::no}} why?{{c1::Down-regulation of b1-\nadrenoceptors in the\nmyocardial cells occurs}}</div><div><br></div><div><br></div>",
+                                "<img src=\"paste-074bffd25ba2972a82a08c6665917d538c68c406.jpg\"><div><img src=\"paste-4d15aa78ce860cc1e6904af0bc3d2b64718b786b.jpg\"><br></div><div><img src=\"paste-1ed95f3270dd13629507dd9ade61e4bc990672c6.jpg\"><br></div><div><br></div>"
+                            ],
+                            "guid": "pJr)^vXk<V",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>&nbsp;Healthy during\nexercise</b><div>• CO: rises {{c1::300}}%<div>&nbsp;• SV: rises ({{c1::80}} to {{c1::100}} mL)</div><div>&nbsp;• EF: rises ({{c1::66}}% to ~{{c1::80}}%)</div><div>&nbsp;• EDV rises a little</div><div>&nbsp;• ESV: {{c1::falls}} why?&nbsp;{{c1::higher contractility, more ejected}}</div><div>&nbsp;• HR: rises ({{c1::70}} to {{c1::180}}\nbeats/min)<br></div></div><div><br></div><div><b>Cardiac Failure\nat rest</b><br></div><div>• CO: {{c1::normal&nbsp;}}</div><div>• SV: {{c1::normal}}&nbsp;</div><div>• EF: {{c1::a little low (~60%)}}&nbsp;</div><div>• EDV: {{c1::high}} why?{{c1::reduced contractility}}</div><div>• ESV: {{c1::a little high&nbsp;}}</div><div>• HR: {{c1::normal}}<b><br></b></div><div><br></div><div><b>Cardiac Failure\nduring exercise</b><br></div><div>• CO: only rises to ~11\nL/min ({{c1::200%}})&nbsp;</div><div>• SV: rises from {{c1::80}} to {{c1::94}}\nmL {{c1::(low)}}</div><div>• EF: falls from&nbsp;{{c1::60}}% to\n~{{c1::45}}%&nbsp;</div><div>• EDV doubles, what does this lead to?&nbsp;{{c1::dilation of the ventricle}}</div><div>Heart rate doesn't increase as much, why?&nbsp;{{c1::Down-regulation of b1-\nadrenoceptors in the SA node\noccurs}}</div><div><b><br></b></div><div><b>What are two things a patient will complain about during excercise?&nbsp;</b>{{c1::fatigue}} and&nbsp;{{c1::breathlessness}}</div>",
+                                "<img src=\"paste-fa9524ad5844e3b7cc6ca35cafd51bd53ba7de60.jpg\">"
+                            ],
+                            "guid": "n>ik@2BIL:",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Why do cardiac failure patients complain of breathlessness?</b><div><b><br></b></div><div>As you know, there is a higher EDV in these patients, so it makes sense that ventricular pressure is higher.&nbsp;</div><div><br></div><div>How might this have an effect on pulmonary circulation?</div><div><br></div><div>{{c1::• Decreased LAP-LVP pressure\ngradient so more volume being kept in LA, so LA pressure increases, increasing pulmonary vein and capillary pressure which leads to pulmonary congestion}}<br><div><b><br></b></div><div><b><br></b></div></div>",
+                                ""
+                            ],
+                            "guid": "D`<Jx1MY2F",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Compensatory Mechanisms of the heart: (V12 or something)</b><div><b><br></b></div><div>1. Increased adrenergic activity with vasoconstriction leading to increase {{c1::TPR}}<b><br></b></div><div><br></div><div>We know that vasocontriction happens in arteries to mantiain MAP</div><div>But do the veins undergo constriction?&nbsp;{{c1::yes}} Why?&nbsp;{{c1::increases venous return, so increased EDV, so increased SV}}</div><div><br></div><div>What are the vasoconstrictive effects achived by?</div><div>{{c1::- increased SNA (sympathetic nerve stimulation) - elevated plasma angiotensin-II - elevated plasma endothelin-1}}<br></div><div><br></div><div><br></div><div>2.&nbsp;Increased extracellular fluid volume we've gone through this</div><div><br></div><div><br></div><div>3. Unequal Distribution of blood to organs</div><div><br></div><div>Normal CO&nbsp;{{c1::5.8}}l/min</div><div>Congestive Cardiac Failure CO&nbsp;{{c1::4.4}}l/min</div><div><br></div><div>• In cardiac failure, the limited cardiac output is preferentially distributed to:</div><div>&nbsp;{{c1::- heart (coronary blood flow)</div><div>&nbsp;- brain (cerebral blood flow)</div><div>&nbsp;- skeletal muscle}} (3)<br></div><div><br></div><div>• Blood flow to the following organs is reduced:</div><div>&nbsp;{{c1::- kidney (renal blood flow)</div><div>&nbsp;- skin (cutaneous blood flow)</div><div>&nbsp;- gut (splanchnic blood flow)}}(3)</div><div><br></div><div>What is the fun colour related effect of this?{{c1::Since blood flow to the skin is reduced, cyanosis occurs in the peripheries, they turn blue}}</div>",
+                                "<img src=\"paste-5053b0a5650fac6961d49449fdf7f9696a6cb6d4.jpg\">"
+                            ],
+                            "guid": "m~Zr{R5>?F",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is the fun fluid related problem that happens with heart failure?{{c1::oedema}}<div><br></div><div>And specifically what happens in:</div><div>Right heart failure - {{c1::oedema in the periphery}}<br><div>Left heart failure – {{c1::oedema in the lungs}}<br></div><div><br></div></div>",
+                                ""
+                            ],
+                            "guid": "d!HZZN=%o7",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Left Heart Failure:</b><div><font color=\"#aa0000\">• Increased EDV&nbsp;</font></div><div><font color=\"#aa0000\">• Increased EDP&nbsp;</font></div><div><font color=\"#aa0000\">• Decreased LAP-LVP pressure\ngradient&nbsp;</font></div><div><font color=\"#aa0000\">• Increased LA volume/LAP&nbsp;</font></div><div><font color=\"#aa0000\">• Increased pulmonary venous\npressure&nbsp;</font></div><div><font color=\"#aa0000\">• Increased pulmonary capillary\npressure</font><br></div><div>This was established in another flashcard</div><div><br></div><div>How would this cause pulmonary oedema?{{c1::Increased capillary and venous pressure pushes fluid into the interstitial space}}</div><div><br></div><div>What effect does pulmonary oedema have on the patient?&nbsp;{{c1::gas exchange is reduced so patient has dyspnoea and orthopnea}}</div><div><br></div><div>Is Oxygen or CO2 more effected{{c1::oxygen 44 times less good at diffusing}}</div>",
+                                ""
+                            ],
+                            "guid": "q38]:.iou_",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Right heart failure&nbsp;<div><font color=\"#aa0000\">• Increased EDV&nbsp;</font></div><div><font color=\"#aa0000\">• Increased EDP&nbsp;</font></div><div><font color=\"#aa0000\">• Decreased RAP-RVP\npressure gradient&nbsp;</font></div><div><font color=\"#aa0000\">• Increased RA volume/RAP&nbsp;</font></div><div><font color=\"#aa0000\">• Increased systemic venous\npressure&nbsp;</font></div><div><font color=\"#aa0000\">• Increased systemic capillary\npressure</font></div><div>Same as left ventricle, but what happens in the right?</div><div>{{c1::Ultrafiltration rate exceeds\nreabsorption + lymph flow, oedema in periphery}}<br></div><div>How can you tell that a certain case of oedema is due to right heart failure&nbsp;{{c1::pitting}}</div>",
+                                "<img src=\"paste-eac8a1d34bf20775445480a03ed6d09aa918d785.jpg\">"
+                            ],
+                            "guid": "nS<gyS1eS7",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Jugular venous pulse</b><div>&nbsp;• <font color=\"#aa0000\">There are no valves between\nthe venae cavae and the right\natrium</font></div><div><br></div><div>What happens when right atrial pressure changes?&nbsp;{{c1::you can see it in the large veins, like the jugular vein}}</div><div><br></div><div>When would right atrial pressure rise episodically?{{c1::holding breath, lifting weight, holding a note}}</div><div><br></div><div>When would right atrial pressure stay risen?&nbsp;{{c1::Right heart failure}}</div>",
+                                "Jugular venous pulse is easily seen in the these\npatients when they are supine (lying down)<div><img src=\"paste-dcc6b8826668a2ce46f06e200a5a350c4185043c.jpg\"><br></div><div><img src=\"paste-bacd61f207122a5a082cc6a1731ca5afa7329cb6.jpg\"><br></div><div><br></div>"
+                            ],
+                            "guid": "As|_RE:nEH",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is Law of Laplace:{{c1::pressure=2 x tension x wall thickness&nbsp; / radius}}<div><br></div><div>So will a dilated ventricle be more or less effective&nbsp;{{c1::less}}</div><div><br></div><div>Why? 1.{{c1::A dilated ventricle genrally acts higher up on a starling curve, meaning that the filling plateau is soon reachesd}}</div><div><br></div><div>2.{{c1::If muscle is overstretched cross bridges go to shit}}</div><div>&nbsp;</div>",
+                                "<img src=\"paste-264e08996d1aa111c2a3187270f516fc5312d3d2.jpg\"><div><img src=\"paste-224b1f68801638b9141653a0a6b829e9f6ad81b3.jpg\"><br></div>"
+                            ],
+                            "guid": "Ok$=c<OnXP",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Problems faced by the failing heart (systolic failure):</b><div><b><br></b></div><div>Dilation of the ventricle causes:</div><div>-{{c1::Contraction}} of heart muscle is less efficient</div><div>-{{c1::Reduced}} active tension</div><div>-Valves may become leaky, why? {{c1::Chambers dilate but valves stay same size}}</div><div><br></div><div>Reduced Contractility</div><div><br></div><div>High Cardiac workload due to high&nbsp;{{c1::afterload}}</div>",
+                                ""
+                            ],
+                            "guid": "jl`cdnPl|*",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Afterload:</b>{{c1::- is the stress developed in the ventricular wall during ejection}}<div><br></div><div>• Increased afterload&nbsp;</div><div>{{c1::-increase}} is cardiac work&nbsp;</div><div>{{c1::-decrease}} in SV<br></div><div><br></div><div><br></div><div>In failing heart</div><div>• As {{c1::MAP}} must be maintained, the afterload on the failing heart is\nhigh&nbsp;</div><div>• The failing ventricle, in which contractility is reduced, has to\nexpend more energy (perform more work) on ejecting the same\nSV as the normal ventricle</div><div><br></div><div>How might this progress negatively?{{c1::Increased work exposes the ventricle to:\n-a mismatch between O2 consumption and O2 delivery\n-the risk of becoming ischaemic}}<br><div><b><br></b></div><div><b><br></b></div></div>",
+                                ""
+                            ],
+                            "guid": "t4@=g|Z+H5",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Principles of treatment of cardiac failure (systolic\nfailure)</b><br></div>The aims of treatment from a physiological point of view\nare:&nbsp;<div>1. to reduce {{c1::cardiac work}}</div><div>2. to reduce the {{c1::excessive plasma volume and cardiac\ndilation&nbsp;}}</div><div>3. to improve {{c1::myocardial contractility}}</div>",
+                                ""
+                            ],
+                            "guid": "C%r~FTVG2L",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Reduce cardiac work&nbsp;<div>• Cardiac work at rest can be reduce by&nbsp;</div><div><br></div><div>- <font color=\"#aa0000\">reducing arterial pressure (afterload)</font>&nbsp;</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - peripheral vasodilator: {{c1::a1-adrenoceptor blockade, Ca2+ antagonism&nbsp;}}</div><div>&nbsp;</div><div>- <font color=\"#aa0000\">reducing filling pressure (preload)</font></div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - peripheral venodilator: {{c1::nitroprusside}}</div><div><br></div><div>How would using a venodilator reduce filling pressure?{{c1::blood returns slower as less pressure}}</div><div><br></div><div><br></div><div>Reduce blood pressure&nbsp;</div><div>• {{c1::a1-adreno}}ceptor blocker&nbsp;</div><div>• {{c1::ACE inhibitor}} (interrupt Ang II production)&nbsp;</div><div>• {{c1::β-adrenoceptor}} blocker (reduce HR and contractility)<br></div>",
+                                ""
+                            ],
+                            "guid": "F@E[Hb@iQD",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "How would you reduced ventricular dilation?<div>{{c1::Reduction of plasma volume reduces ventricular filling}}<br></div><div><br></div><div>What drugs would ya use?{{c1::diuretic drugs\n(thiazides, frusamide) and ACE inhibitors}}</div><div><br></div>",
+                                ""
+                            ],
+                            "guid": "d)/B0[%.yg",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Do all cardiac failure patients recieve drugs to increase contractility?&nbsp;{{c1::no,Now restricted to patients waiting for heart transplantation}}<div><br></div><div>What drugs would you use</div><div>{{c1::A positive inotropic agent such as digoxin improves\nmyocardial contractility\n- increased intracellular concentration of Ca2+ ions}}<br></div>",
+                                ""
+                            ],
+                            "guid": "nVPlFmk3CS",
                             "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
                             "tags": []
                         }
@@ -2085,6 +3161,76 @@
                     "name": "IO Card",
                     "ord": 0,
                     "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "39db5048-81a3-11eb-b5a8-af478fea30f9",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic (and reversed card)",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
                 }
             ],
             "type": 0
