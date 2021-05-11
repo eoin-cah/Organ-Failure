@@ -6,6 +6,282 @@
             "children": [
                 {
                     "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "15a5a3d6-b241-11eb-bcf1-c0b5d703b09e",
+                    "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-1edce8b853d217109561236d453a6b3478d9fb0b.jpg",
+                        "paste-54d95d3715a057f6c57a438ab44fabed2e51ef3b.jpg",
+                        "paste-67ac5c63c02dbd7e9a79d52e4ab42e0ff5863075.jpg",
+                        "paste-7ad153db0b8813783a89b8e46de55aff4e6d373d.jpg",
+                        "paste-869b3a4d7c7f8c27248ebcec788feb9e319626c5.jpg",
+                        "paste-9eea54e916205f76d35caee8c9418b3ffd4d8974.jpg",
+                        "paste-abf78e988bd36443be053c7d20fccfddf67288ed.jpg",
+                        "paste-d7b988eac104c1f570b1c416fd5d97e1b68ef1e5.jpg",
+                        "paste-e9f863fa5b741a24b107aa426e25a75ee8897044.jpg"
+                    ],
+                    "name": "03/14 Scully",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What five parameters are needed for a person to be considered comatose?<div>{{c1::state of unconsciousness&nbsp;</div><div>• a person cannot be awakened</div><div>&nbsp;• fails to respond normally to painful stimuli,\nlight, or sound&nbsp;</div><div>• lacks a normal wake-sleep cycle&nbsp;</div><div>• and does not initiate voluntary actions}}<br></div><div><br></div><div>Some patients that cannot interact with their surroundings, will have normal sleep wake cycles shown on EEG's are they comatose?</div><div>{{c1::no}}<br></div>",
+                                ""
+                            ],
+                            "guid": "L*.Br~in0[",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Causes of Coma:</b><div><img src=\"paste-d7b988eac104c1f570b1c416fd5d97e1b68ef1e5.jpg\"><b><br></b></div><div>Discuss slide with Joe{{c1::g}}</div><div><b><br></b></div>",
+                                ""
+                            ],
+                            "guid": "Cfw&Mn5AcL",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Insulin and Coma</b><div><b><br></b></div><div><font color=\"#aa0000\"><b>HYPOGLYCEMIA IS VERY IMPORTANT CAUSE OF COMA</b></font></div><div><font color=\"#aa0000\"><b><br></b></font></div><div>T/F</div><div>Insulin is widely available in healthcare settings?{{c1::t}}</div><div>1ml of insulin from the vials in a healthcare setting contains 10U of insulin{{c1::f 100U}}</div><div>A substantial dose of insulin for a patient is wieght in kg/5{{c1::f /10}}</div><div><br></div><div>How might a patient presenting at the hospital with acute hyperglycemia end up in hypoglycemic shock/coma?</div><div>{{c1::Insulin comes in 1ml vials, but the actual doses are about 100U in 1ml, so you need a special syringe that only picks up 0.1ml and doctors make the mistake of using a normal syringe more often than you'd imagine}}<br></div><div><br></div>",
+                                ""
+                            ],
+                            "guid": "JV&_8E9>iZ",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Give the 5 characteristics of a coma:<div>{{c1::state of unconsciousness<br>• a person cannot be awakened<br>• fails to respond normally to painful stimuli,<br>light, or sound<br>• lacks a normal wake-sleep cycle<br>• and does not initiate voluntary actions}}<br></div>",
+                                ""
+                            ],
+                            "guid": "F2s}32~^d_",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>COMA:</b><div><b><br></b></div><div>What is the most important thing to maintain while the patient is in a coma?{{c1::the airway}}</div><div><br></div><div>What does this ensure?{{c1::adequate oxygenation, ventilation and perfusion of the systemic circulation}}</div><div><br></div><div>The brain is incredibly at risk while patient is in a coma, what conditions would further damage the brain while patient is in a coma?{{c1::hypoxia, hypotension}}</div><div><br></div><div>AEIOU TIPS (ways a patient may end up in a coma</div><div><br></div><div>A=&nbsp;{{c1::alcohol/acidosis}} it causes hyperglycemic coma</div><div><br></div><div>E={{c1::epilepsy}}, electrolyte abnormality and&nbsp;{{c1::endocrine problems}}</div><div><br></div><div>I=Insulin (hypoglycemic shock)</div><div>Give an example of how this might happen:{{c1::If a diabetic individual, took insulin, but didn't eat directly after}}</div><div>How would you treat this?&nbsp;{{c1::IV dextrose}}</div><div><br></div><div>O=&nbsp;{{c1::overdose}}(drugs)</div><div><br></div><div>U=Uremia:{{c1::urine retention}} and other renal problems</div><div>How can renal condition lead to coma? {{c1::causes liver failure and that causes encephalopathy}}</div><div><br></div><div>T=&nbsp;{{c1::trauma}}(the one you're thinking of) and temperature abnormalities</div><div><br></div><div>I= Infection, Parenchymal Infection:{{c1::encephalitis}}, Meningeal Infection:{{c1::meningitis}}</div><div><br></div><div>P= Psychogenic coma</div><div><br></div><div>S= Stroke/ Space occupying lesion</div>",
+                                ""
+                            ],
+                            "guid": "L+Psq~cE{X",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is iatrogenic harm?{{c1::harm by healthcare providers}}<div><br></div><div>What substance is the leading cause of iatrogenic harm?{{c1::insulin}}</div><div><br></div><div>Why?{{c1::drawn up in 1ml syringes, but come in bottles of 1ml=100u, which is ten times the normal dose}}</div><div><br></div><div>What is the dosage for this substance?{{c1::body weight in kg/10}}</div>",
+                                ""
+                            ],
+                            "guid": "g7sg)?=dFP",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>CEREBRAL BLOOD SUPPLY:</b><div><b><br></b></div><div>The brain accounts for {{c1::2}}% of body weight yet requires {{c1::20}}% of resting oxygen consumption.</div><div><br></div><div>02 requirement of the brain is 3-3.5ml/100gm/min in adults</div><div>What is it in children?{{c1::5ml/100gm/min}}</div><div><br></div><div>What is the bllod supply to the brain?</div><div>{{c1::55}}ml/100gm/min<br></div><div><br></div><div>What is the range in ml/100gm/min of blood supply needed for normal brain function?{{c1::40-60}}</div><div><br></div><div>How much blood supply goes to the cortical grey matter{{c1::75-80}}ml/100gm/min</div><div><br></div><div>How much goes to the subcortical white matter&nbsp;{{c1::20}}ml/100gm/min</div><div><br></div><div>{{c1::60}}% of cerebral blood flow is needed for the brain to function<br></div><div>{{c1::40}}% is needed for the actual integrity of the brain to be kept<br></div><div><br></div><div>What is the anterior 2/3 of the cerebral cortex supplied by?</div><div>{{c1::the 2 branches of the internal carotid artery, the middle cerebral artery and the anterior cerebral artery}}<br></div><div><br></div><div>What is the posterior 1/3 of the cerebral cortex supplied by?</div><div>{{c1::vertebral artery-basilar artery-posterior cerebral artery}}<br></div><div><br></div><div>What is it all connected by?{{c1::the circle of willis}}</div><div><br></div><div><br></div><div><br></div><div><br></div>",
+                                "<img src=\"paste-e9f863fa5b741a24b107aa426e25a75ee8897044.jpg\">"
+                            ],
+                            "guid": "ONg.~lK50n",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-1edce8b853d217109561236d453a6b3478d9fb0b.jpg\"><div><br></div><div>How does the brain autoregulate if MAP increases?{{c1::vasoconstriction}}</div><div><br></div><div>How does the brain autoregulate if MAP decreases?{{c1::vasodilation}}</div><div><br></div><div>What would cause these autoregulatory systems to become severely impaired?&nbsp;{{c1::traumatic brain injury}}</div><div><br></div><div>NOT SURE ABOUT SLIDE 12</div>",
+                                ""
+                            ],
+                            "guid": "AmxJN#SL+D",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Traumatic Brain Injury.<div><br></div><div>What is a closed head injury?{{c1::where skull is still intact, assault, fall, concussion etc.}}</div><div><br></div><div>What is a coup closed head injury?{{c1::initial impact of forced on the brain}}</div><div><br></div><div>What is a contr coup closed head injury?{{c1::the impact of the brain on the skull after the momentum of the initial impact throws the brain into the skull}}</div><div><br></div><div>What is a penetrating head injury?{{c1::what it says on the fucking tin}}</div>",
+                                "<img src=\"paste-7ad153db0b8813783a89b8e46de55aff4e6d373d.jpg\">"
+                            ],
+                            "guid": "uBw~z;PrMt",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-869b3a4d7c7f8c27248ebcec788feb9e319626c5.jpg\"><div><img src=\"paste-9eea54e916205f76d35caee8c9418b3ffd4d8974.jpg\"><br></div><div>Which is the damaged brain?{{c1::2}}</div><div>What is wrong{{c1::oedema}}</div><div><br></div><div>Why does it occur?{{c1::brain has swollen or new mass has entered cranial cavity squeezing CSF out of ventricles}}</div><div>When does it occur?{{c1::48-72 hours post injury}}</div><div><br></div><div>What is normal ICP{{c1::&lt;10mmHg}}</div><div><br></div><div>The Monro-Kellie doctrine describes what happens when a a certain component of the intracranial space changes volume,</div><div>describe the monro-kellie doctrine:{{c1::<img src=\"paste-67ac5c63c02dbd7e9a79d52e4ab42e0ff5863075.jpg\">}}</div><div><br></div><div>What are the first things to be displaced in the IC space?</div><div>{{c1::venous blood and CSF}}<br></div><div><br></div><div>What happens when pressures exceed roughly 20mmHg{{c1::brain herniation}}</div>",
+                                "<img src=\"paste-abf78e988bd36443be053c7d20fccfddf67288ed.jpg\">"
+                            ],
+                            "guid": "Ji5Tt`I|]F",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>BRAIN HERNIATION</b><div><b><br></b></div><div>Where does the brain herniate through?{{c1::foramen magnum}}</div><div>What structure does this impede?&nbsp;{{c1::th ebrainstem}}</div><div>What effects migh this have?{{c1::Effect breathing and respiration}}</div><div><br></div><div>What effect does ICP have on pupils?{{c1::Initiallydilatedpupil whichwon'treacttolightnormally</div>ifdon'trecognizeitandcan'tmanageto<br><div>treatitthatwillbereplicatedtothe}}</div><div><br></div><div>What is cushing's triad and what is it a sign of?</div>",
+                                "<img src=\"paste-54d95d3715a057f6c57a438ab44fabed2e51ef3b.jpg\">"
+                            ],
+                            "guid": "H]LrS}{<>j",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "15a97230-b241-11eb-8f91-c0b5d703b09e",
+                    "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-121b6da7a9ee2c0ccfd8d775d9a1d8a61fc348eb.jpg",
+                        "paste-12fe1e62421794c387eec53a07afe11bb88defb5.jpg",
+                        "paste-17891ad3b9422058d59b70c5265c9a822c3efb87.jpg",
+                        "paste-37e5d56bdfd735d716dbd287b3d9d5e44ca80a1a.jpg",
+                        "paste-43ed4390d4a8f1faad8bf175e54c2e9dcd7681be.jpg",
+                        "paste-5370b0b54281b815a1baabcd7eea173503711dad.jpg",
+                        "paste-5eecc8e1917aaab71a7f34fd8a26f362c010d37a.jpg",
+                        "paste-7ef6a05f75376de3c47de2724fe8899a1e70abf0.jpg",
+                        "paste-a974f124e94b9ab1791c546915355dca670a604e.jpg",
+                        "paste-ced1d591ceaa23c4393f5931ca6b17fa0f14493c.jpg",
+                        "paste-d0170acf036c0566f3e99a7e6a2109f0d3d77330.jpg",
+                        "paste-d681f319222fadbe07bbec4a4ef697a36df1502a.jpg",
+                        "paste-fa5e0428ab76d6a3db1920ed2fb5c082c73f6d7e.jpg"
+                    ],
+                    "name": "04/13 Karen Doyle Injury",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is the difference between traumatic and acquired brain injury?<div>{{c1::Traumatic=external force, acquired=soemthing from within}}<br></div><div><br></div><div>Say whether each one is traumatic or acquired and what percentage of brain injuries does it cause</div><div><br></div><div>STROKE{{c1::acquired, 39%}}<br></div><div>ASSAULT{{c1::Traumatic 5%}}</div><div>ROAD TRAFFIC ACCiDENTS{{c1::TRAUMATIC 14%}}</div><div>FALLS{{c1::TRAUMATIC 14%}}</div><div>TUMOUR {{c1::CQUIRED 7%}}</div>",
+                                ""
+                            ],
+                            "guid": "BDp|BB)ZQ?",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What three pressures make up intracranial pressure?{{c1::presuure exerted by Brain,\nblood, CSF}}<div><br></div><div>What is the normal range for Intracranial pressure?{{c1::5-15\nmmHg (&lt;10 typical)}}</div><div><br></div><div>Give three places used to directly measure ICP</div><div>{{c1::Intracranialventricularly, subarachnoid space, subdural space}}<br></div><div><br></div><div>Are any used regularly?</div><div>{{c1::No}}<br></div><div>Why?</div><div>{{c1::Incredibly invasive, have to drill through skull or insert catheter}}<br></div><div><br></div><div>How might one inderectly measure ICP?</div><div>{{c1::Measuring CSF pressure through use of a lumbar puncture}}<br></div>",
+                                "65-195 mmCSF or 5-15 mmHg<div><img src=\"paste-43ed4390d4a8f1faad8bf175e54c2e9dcd7681be.jpg\"><br></div>"
+                            ],
+                            "guid": "m_@zk{4Spg",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::140 - 150}} ml of CSF in Brain:<div>Ventricles {{c1::~25}}ml</div><div>Spinal\ncord central canal {{c1::~30}}ml</div><div>Majority of CSF volume in {{c1::sub-arachnoid space}}</div><div><br></div><div>Rate of production of CSF is&nbsp;{{c1::550}} ml/ day</div><div><br></div><div>{{c1::50-70}}% produced by the choroid plexus</div><div><br></div><div>The remainder is produced by&nbsp; {{c1::blood\nvessel to interstitial space\ntransfer}}</div><div><br></div><div>What is this mechanism regulated by?</div><div>{{c1::Astrocytes}}<br></div><div><br></div><div>What is the special function of this?</div><div>{{c1::Can deliver nutrients and blood to specific parts of the brain as they are activated }}<br></div>",
+                                "<img src=\"paste-5eecc8e1917aaab71a7f34fd8a26f362c010d37a.jpg\">"
+                            ],
+                            "guid": "hU1!aM?HsQ",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Haemorrhage}}, {{c1::tumours}},\n{{c1::oedema}} can increase\nintracranial pressure<div><br></div><div>Increased intracranial\npressure can cause\n{{c1::herniation}}<br></div>",
+                                "<img src=\"paste-37e5d56bdfd735d716dbd287b3d9d5e44ca80a1a.jpg\">"
+                            ],
+                            "guid": "DC}4SyKM@4",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Autoregulation</b><div><b><br></b></div><div>Compensatory mechanisms are used to maintain\n{{c1::ICP,}}, {{c1::CSF}} and {{c1::Cerebral Blood Flow}}<b><br></b></div><div><br></div><div>ICP can be maintained in the event of\n<font color=\"#aa0000\">moderate changes</font> in intracranial volume\nthrough autoregulatory mechanisms<br></div><div><br></div><div>What happens if changes are serious?</div><div>{{c1::it all goes to shit}}<br></div>",
+                                "<img src=\"paste-12fe1e62421794c387eec53a07afe11bb88defb5.jpg\">"
+                            ],
+                            "guid": "0]4S^-+:G",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Monro Kellie Doctrine:&nbsp;</b>{{c1::the sum of volumes of brain, CSF, and intracranial blood is constant.}}<div><br></div><div>In a normal person intrcranial cavity is:</div><div>{{c1::10}}% CSF<br></div><div>{{c1::80}}% Brain<br></div><div>{{c1::10}}% Blood<br></div><div><br></div><div>Compensatory Mechanisms for Increased volume</div><div><br></div><div>1st mechanism:</div><div>Increased resorption of CSF relative to synthesis<br></div><div>CSF levels can change by up to {{c1::120}} ml<br></div><div><br></div><div>2nd Mechanism:</div><div>Blood volume {{c1::de}}creased</div><div>{{c1::Venous}} blood reduced before {{c1::arterial}} blood\nsupply is compromised<br></div><div><br></div><div>What is it called when those two mechanisms have been exhausted?</div><div>{{c1::decompensation point}}<br></div><div><br></div><div>And what happens to the intracranial cavity at this point?</div><div>{{c1::large increase in ICP, loss of cerebral perfusion pressure, reduced cerebral blood flow, risk of ischaemia and oedema and herniation}}<br></div>",
+                                "<img src=\"paste-ced1d591ceaa23c4393f5931ca6b17fa0f14493c.jpg\"><div><img src=\"paste-fa5e0428ab76d6a3db1920ed2fb5c082c73f6d7e.jpg\"><br></div><div>Cerebral Perfusion Pressure = Mean arterial BP – ICP<br></div>"
+                            ],
+                            "guid": "tZg%+&B9)A",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>AT WHAT CEREBRAL BLOOD FLOW DO THESE THINGS HAPPEN</div><img src=\"paste-17891ad3b9422058d59b70c5265c9a822c3efb87.jpg\">{{c1::50}}ml/100g/min<div><br></div><div><img src=\"paste-121b6da7a9ee2c0ccfd8d775d9a1d8a61fc348eb.jpg\">{{c1::35}}ml/100g/min<br></div><br><div><br></div><div><img src=\"paste-5370b0b54281b815a1baabcd7eea173503711dad.jpg\">{{c1::25}}ml/100g/min<br></div><br><div><br></div><div><img src=\"paste-d0170acf036c0566f3e99a7e6a2109f0d3d77330.jpg\">{{c1::17}}ml/100g/min<br></div><br><div><br></div><div><img src=\"paste-a974f124e94b9ab1791c546915355dca670a604e.jpg\">{{c1::11}}ml/100g/min<br></div><div><br></div><div><br></div><div>Brain receives {{c1::15 - 20}}% of cardiac output at\nrest<br></div><div><br></div>{{c1::54}}ml/ 100g/ min at rest for whole brain<div>- 69ml/ 100g/ min: {{c1::grey}} matter&nbsp;</div><div>- 28ml/ 100g/ min: {{c1::white}} matter</div><div>How?&nbsp;{{c1::blood can selectively go to parts of the brain}}</div><div><br></div><div><font color=\"#aa0000\">Degree of damage correlates with ATP deficit</font><br></div><div><font color=\"#aa0000\"><br></font></div><div>&gt;30 ml/ 100 g/ min is needed for Normal {{c1::electrical neuronal activity}}<font color=\"#aa0000\"><br></font></div><div><br></div><div>&lt;20 ml/100 g/ min\n• {{c1::Electrical activity}} lost&nbsp;</div><div><br></div><div>&lt;15 ml/ 100 g/ min\n• Ionic gradients decay<br></div><div>Why?&nbsp;{{c1::depolarisation and raise intracellular sodium and calcium}}</div>",
+                                ""
+                            ],
+                            "guid": "k1{bY?0D.x",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Infarct:&nbsp;{{c1::cell deathdue to lack of O2 and nutrients delivered there}}<div><br></div><div>Different types of cascades causing infarct, but what actvates this in a brain injury?&nbsp;{{c1::calcium influx}}</div><div><br></div><div>Say waht each mechanism does to the cell</div><div>Neurotransmitter release{{c1::excess activation of ischaemic area}}<br>! Proteases{{c1::degrade cell membrane}}<br>! Phospholipases{{c1::degrade cell membrane}}<br>! Endonucleases{{c1::degrades DNA and RNA}}<br>! Kinases{{c1::phosphorylates proteins and can lead to opening of ion channels}}<br>! NO synthase{{c1::causes synthesis of free radicals}}<br></div><div><br></div><div>What are the two ways that cells die?{{c1::<img src=\"paste-7ef6a05f75376de3c47de2724fe8899a1e70abf0.jpg\">}}</div><div><br></div><div>In the ischaemic core, what mechainism of cell death is most orevalent?{{c1::necrosis}}</div><div><br></div><div>What else might an infarct cause?&nbsp;{{c1::oedema</div><div>}}</div>",
+                                ""
+                            ],
+                            "guid": "GN!(c:;V~0",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Cytotoxic oedema:&nbsp;{{c1::cellular oedema, can lead to rupture of cells}}<div><div>Vasogenic Oedema:{{c1::fluid located extracellularly, fluid from interstitial spaces and source of liquid is vasculature}}</div></div><div><br></div><div>Cranial Oedema Raises ICP which leads to<br></div><div>Further {{c1::compression}} of brain tissue and cerebral blood vessels<br></div>",
+                                "<img src=\"paste-d681f319222fadbe07bbec4a4ef697a36df1502a.jpg\">"
+                            ],
+                            "guid": "jSUkkl2~5C",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Spread of damage to penumbra</b><div>Activation of intracellular cascades leading to programmed cell death<br>Neighbouring cells affected, domino-like effect<br>Damaged region spreads over up to 72 hours<br>Widespread apoptosis in the penumbra<b><br></b></div><div><br></div><div>Penumbra: {{c1::Potentially salvageable<br></div>brain tissue}}",
+                                ""
+                            ],
+                            "guid": "v;=,./c:dZ",
+                            "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                            "tags": []
+                        }
+                    ]
+                }
+            ],
+            "crowdanki_uuid": "15a50813-b241-11eb-b524-c0b5d703b09e",
+            "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Brain Stuff",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
                     "children": [
                         {
                             "__type__": "Deck",
@@ -16,7 +292,17 @@
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
-                            "media_files": [],
+                            "media_files": [
+                                "paste-3d0251d71c041978f74f78e78c6e199c71b4b0a3.jpg",
+                                "paste-876721a51877672fb8d7b967429e8756cb67a095.jpg",
+                                "paste-a958322e0c15ea3516f227b7ee990436abbcfe05.jpg",
+                                "paste-ae118c9499b61266183cd627e31cc05836c3e4d7.jpg",
+                                "paste-b2803f831bfdd5511ac2331474842e1d3f72702b.jpg",
+                                "paste-b3e49142da78acea0520dd3b8f7a960c43458215.jpg",
+                                "paste-b46f683fa63cf03d5e7e0f20d2a999c784ecd9b8.jpg",
+                                "paste-cb450000a03bf974dd43c79b706fea6fbefed109.jpg",
+                                "paste-d7e76a77727cc4a4e7f33c517c425f1ca12085f2.jpg"
+                            ],
                             "mid": 1602236504918,
                             "name": "Wheatley Cirrhosis V2",
                             "notes": [
@@ -27,6 +313,146 @@
                                         ""
                                     ],
                                     "guid": "nz+htkQVni",
+                                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>LSECs or Liver Sinusoid Endothelial Cells</b><div><br></div><div>LSECs are unique {{c1::endothelial}} cells<br></div><div><br></div><div>LSECs are <font color=\"#aa0000\">small</font> cells, with a diameter of around {{c1::6.5}} μm<br></div><div><br></div><div>LSECs are the only mammalian endothelial cells that combine non-diaphragmed {{c1::fenestrae}} with the lack of a {{c1::basement membrane}}. The {{c1::fenestrae}} are clustered together in sieve plates<br></div><div><br></div><div>What does this allow?&nbsp;{{c1::free movement of large weight substances in and out of the sinusoids}}</div><div><br></div><div>There is high activity of receptor mediated endocytosis in LSECs, what function of LSECs does this allow?&nbsp;{{c1::a high-rate, high-capacity system to clear colloids and soluble waste macromolecules from the circulation i.e. detoxify the blood}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "eRzAi>^_eH",
+                                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "LIVER HISTOLOGY FOR BACKGROUND<div><img src=\"paste-a958322e0c15ea3516f227b7ee990436abbcfe05.jpg\"><br></div><div>Central Vein joins IVC</div><div>{{c1::g}}<br></div>",
+                                        ""
+                                    ],
+                                    "guid": "rlw_/jF9z~",
+                                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Biliary epithelial cells or Cholangiocytes:</b><div><b><br></b></div><div>-{{c1::cuboidal}}(SHAPE) epithelium in the small interlobular bile ducts<b><br></b></div><div><br></div><div>- {{c1::columnar}} and {{c1::mucus}} secreting in larger bile ducts<br></div><div><br></div><div>- What do these cells release to aid in the secretion of bile?&nbsp;{{c1::bicarbonate and water}}&nbsp;</div><div><font color=\"#aa0000\"><br></font></div><div><font color=\"#aa0000\">• Several hormones and locally acting mediators are known to contribute to biliary epithelial cell fluid/electrolyte secretion&nbsp;</font><br></div><div>Such as:{{c1::(secretin)}}<br></div>",
+                                        ""
+                                    ],
+                                    "guid": "u=:+I0FC)g",
+                                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Kupffer Cells</b><div><b><br></b></div><div><font color=\"#aa0000\"><b>LIVER MACROPHAGES</b></font><b><br></b></div><div><font color=\"#aa0000\"><b><br></b></font></div><div>Represent about {{c1::35}}% of the non-parenchymal liver cells<font color=\"#aa0000\"><b><br></b></font></div><div><br></div><div>KCs reside within the lumen of the liver {{c1::sinusoids}}, adherent to the endothelial cells that compose the blood vessel walls.<br></div><div><br></div><div>KCs remove dying RBCs from circulation.<br></div><div>What is the Hb from those RBCs split into?</div><div>{{c1::globin and heme}}<br></div><div>What happens to each component?</div><div>-{{c1::Globin is recycled}}</div><div>-{{c1::heme is broken into iron and bilirubin, iron is recycled, bilirubin is reconjugated with glucoronic acid in hepatocytes and secreted into bile}}</div><div><br></div><div>What make KCs so important compared to other macrophages?</div><div>{{c1::Bodies line of defence against toxins we ingest, big role in systemic defence}}<br></div><div><br></div><div>What percentage of macrophages are KCs?</div><div>{{c1::80-90%}}<br></div><div><br></div>",
+                                        ""
+                                    ],
+                                    "guid": "J6zp8x$*j`",
+                                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Hepatic stellate cells (HSC) or ITO cells.</b><div><b><br></b></div><div><b><font color=\"#aa0000\">Fat storing Cells</font></b></div><div><b><font color=\"#aa0000\"><br></font></b></div><div><u>Quiescent phenotype</u><br>• {{c1::Small}} cell body with cellular extending processes<br>• Storage site for {{c1::vitamin A}} (lipid droplets)<br>• {{c1::Low}} level production of extracellular matrix proteins<b><font color=\"#aa0000\"><br></font></b></div><div>• Lack of {{c1::alpha-smooth muscle actin stress fibres}}<br></div><div><br></div><div><u>Activated state (myofibroblast)</u><br>• Cells have a {{c1::large flat}} appearance<br>• Storage of {{c1::vitamin A}} reduced<br>• Production of extracellular matrix proteins {{c1::in}}creased<br>• Express {{c1::alpha-smooth muscle actin stress fibres}} and become contractile<br>• HSC contract in vitro in response to vasoconstrictors<br></div><div><br></div><div>What would be bad about the activated HSCs?</div><div>{{c1::no longer store vit A, which causes its own problems, but mainly all these things cause it to wrap around sinusoids and contrict, which reduces blood flow to it and blocks the movement of stuff in and out}}<br></div><div><br></div><div><br></div>",
+                                        ""
+                                    ],
+                                    "guid": "q5ZS$`xnam",
+                                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Liver cirrhosis:</b>{{c1::Cirrhosis is characterised by, hepatocyte loss, the<br>accumulation of extracellular matrix proteins, tissue<br>contraction and derangement of blood flow}}<div><b><br></b></div><div><b><br></b></div>",
+                                        ""
+                                    ],
+                                    "guid": "CExbmj5XnX",
+                                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Alcohols Role in Liver Cirrhosis</b><div><b><br></b></div><div>What part of the liver does alcohol directly effect?&nbsp;{{c1::hepatocytes}}</div><div>What effect does it have on it?{{c1::causes a change in metabolism which causes ROS production rather then oxidative phosphorylation}}</div><div><br></div><div>What is alcohols effect on the intestines?</div><div>{{c1::Increases permeability to LPS(endotoxins, part of gram-bac cell wall) }}<br></div><div><br></div><div>Explain how this effects liver cells</div><div>Hepatocytes:&nbsp;{{c1::LPS binds to TLR4 on heatocytes stimulating ROS production}}</div><div>Kupffer Cells:{{c1::It activates them}}</div><div>HSCs:{{c1::TGF-beta released by KCs activates the HSCs}}</div><div><br></div><div>How does all this lead to</div><div>Hepatic injury or death:{{c1::ROS production, speaks for itself. Damaged hepatocytes stop oxidative phosphorylation, so no energy. Cytokine activation (TNFa, IL-1,8) cause inflammation etc..}}</div><div>Distortion of hepatic blood flow:{{c1::Activated HSCs promotes endothelin-1 and wraps itself around sinusoids and constricts}}</div><div><br></div>",
+                                        "<img src=\"paste-b2803f831bfdd5511ac2331474842e1d3f72702b.jpg\">"
+                                    ],
+                                    "guid": "Q8IUl-4xwI",
+                                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<img src=\"paste-d7e76a77727cc4a4e7f33c517c425f1ca12085f2.jpg\"><div>What is it called when a lobule becomes completely encased by fibrous tissue?{{c1::nodule}}</div>",
+                                        ""
+                                    ],
+                                    "guid": "cp|-exWfgH",
+                                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "• As a result of the liver injury:&nbsp;<div>- {{c1::blood flow}} within the liver is disrupted&nbsp;</div><div>- portal and hepatic venules are found within the {{c1::fibrous septa}}</div><div>- constriction or distortion of portal venules and hepatic\nvenules lead to increased {{c1::vascular resistance}}</div><div>- <b><font color=\"#aa0000\">portal vascular resistance increases&nbsp;</font></b></div><div><br></div><div>• The increased portal vascular resistance leads to a rise in\nportal pressure which is termed portal hypertension&nbsp;</div><div>- normal portal pressure: {{c1::5-10}} mmHg&nbsp;</div><div>- portal hypertension: {{c1::12}} mmHg or higher</div>",
+                                        ""
+                                    ],
+                                    "guid": "qVx@^@A=S/",
+                                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "{{c1::70-80}}% of blood to liver is through portal vein<div>{{c1::20-30}}% of blood to liver is through hepatic artery</div><div><br></div><div>What happens if portal resistance becomes too high due to cirrhosis?</div><div>{{c1::Blood flow through embryonic vessels that has since closed as resistance is less}}<br></div>",
+                                        "<img src=\"paste-3d0251d71c041978f74f78e78c6e199c71b4b0a3.jpg\">"
+                                    ],
+                                    "guid": "t/+.PPYe7U",
+                                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<div><b>Systemic circulation in portal hypertension</b><br></div><div><br></div>In portal hypertension, systemic haemodynamics are in an\nhyperdynamic state characterised by:<div>{{c1::<div>&nbsp;- elevation in cardiac output (CO)</div><div>&nbsp;- reduction in total peripheral resistance (TPR)</div><div>- reduction in mean arterial pressure</div>}}(3)<br></div>",
+                                        ""
+                                    ],
+                                    "guid": "mBK=$-g]=c",
+                                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<img src=\"paste-cb450000a03bf974dd43c79b706fea6fbefed109.jpg\"><div>What is portal systemic shunting&nbsp;{{c1::portal blood bypassing the liver}}</div><div>Why?&nbsp;{{c1::blood looks for another less resistant path}}</div><div><br></div><div><img src=\"paste-ae118c9499b61266183cd627e31cc05836c3e4d7.jpg\"><br></div><div>What is the endogenous vasodilator?&nbsp;{{c1::glucagon}}</div><div>Why is there an increase in it? {{c1::made by pancreas and secreted into portal circulation but usually de-activated by liver}}</div><div><br></div><div><img src=\"paste-b3e49142da78acea0520dd3b8f7a960c43458215.jpg\"><br></div><div>{{c1::de}}creased TPR&nbsp;<br></div><div>{{c1::de}}creased MAP<br></div><div><br></div><div>This causes an&nbsp;{{c1::in}}crease in plasma volume, how?</div><div>{{c1::reduced renal artery pressure activates baroceptors, which activate RAAS}}<br></div><div><br></div><div>{{c1::in}}creased Cardiac Output<br></div><div>And what organs' regional blood flow gets increased?&nbsp;{{c1::I'm sure there's a few right answers, but I'm looking for&nbsp; GIT organs}}</div><div><br></div><div>So it causes increased portal pressure and the whole thing becomes a vicsous cycle</div>",
+                                        "<img src=\"paste-876721a51877672fb8d7b967429e8756cb67a095.jpg\">"
+                                    ],
+                                    "guid": "tCJ,~[SD#s",
+                                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Oesophageal varices</b><br>• Portal hypertension leads to the development of varices<div>Define Varices:&nbsp;{{c1::dilation of pre-existing blood vessels}}<br><br><div>• These collateral blood vessels are responsible for the shunting of blood from the {{c1::portal vein}} to the {{c1::systemic circulation}}<br><br></div><div>• These thin-walled varices may rupture due to<br>{{c1::- with increased venous pressure<br>- torn by bulky food passing through the oesophagus}}(2)<br><br></div><div>• Bleeding from the varices will follow<br>- steady regular bleeding may cause {{c1::anaemia}}<br>- in severe cases, acute {{c1::haemorrhage}} may occur</div><div><br></div><div><b>Measurement of variceal pressure</b><br><br></div><div>• Variceal pressure can be measured during endoscopy in 2 ways:<br><br></div><div>- <font color=\"#aa0000\">direct puncture</font>:<br><br>- only performed during sclerotherapy</div><div>Define Scleropathy:{{c1::(varix destruction by<br>injection of chemical)}}<br><br></div><div>- <font color=\"#aa0000\">endoscopic balloon</font>:<br><br>- air-filled balloon inserted into the oesophagus with the<br>endoscope placed beside the varix<br>- balloon is inflated until it compresses the varix<br>- at point of varix collapse:<br>balloon pressure variceal pressure<br><br>• Using these techniques:<br>- variceal pressures varying between {{c1::14}} mmHg and {{c1::25}}mmHg have been measured<br>- variceal pressure is a reflection of {{c1::portal venous pressure}}<br></div></div>",
+                                        "<img src=\"paste-b46f683fa63cf03d5e7e0f20d2a999c784ecd9b8.jpg\">"
+                                    ],
+                                    "guid": "PhI3.qM5$+",
+                                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Treatment of the haemodynamic changes found in portal hypertension:</b><div><b><br></b></div><div>1. Destruction of varices<b><br></b></div><div>- Sclerotherapy: {{c1::varix destruction by injection of chemical into its lumen (done during endoscopy)}}</div><div><br>- Banding: {{c1::a rubber band is placed around a length of a varix during endoscopy}}</div><div><br></div><div>2. Drug therapy<br>• Pharmacological reduction of portal hypertension has largely concentrated on attempts to diminish portal vein inflow from the GI tract by administration of vasoconstrictor drugs<br></div><div><br></div><div>But how can vasoconstriction cause a reduction of portal vein pressure?{{c1::splanchnic vasoconstriction, reduce the amoun tof blood flowing into GIT and you reduce amount of blood flow in portal system}}</div><div><br></div><div>What happens to the hepatic artery?{{c1::Blood flow increases}}</div><div>Why?&nbsp;{{c1::Who Knows}}</div><div><br></div><div><br></div><div>What type of drug would you give?{{c1::beta blocker}}</div><div>Why?{{c1::In cirrhosis theres a lot of adrenaline banging about the place and its causing beta2adrenoceptor vasodialtion, so blocking them stops that, and also allows the alpha-1 mediated vasoconstriction to run unopposed}}</div><div><br></div><div>3. Surgery<br>Transjugular intrahepatic portasystemic stent shunt (TIPS):<br></div><div><br></div><div>4. Transplant</div>",
+                                        ""
+                                    ],
+                                    "guid": "r@-c:b!wI5",
                                     "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
                                     "tags": []
                                 }
@@ -982,6 +1408,208 @@
             "media_files": [],
             "name": "Liver Failure",
             "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "15b55087-b241-11eb-a064-c0b5d703b09e",
+            "deck_config_uuid": "f5213817-7dcf-11eb-8bb1-af478fea30f9",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-02595f30284ef26b4ad81d50038c8fab955edc40.jpg",
+                "paste-190301b947d6965a9bae52b21c843b45af4b4451.jpg",
+                "paste-1a7b5da71feb3a43bbf339a54dabc0f180fbf625.jpg",
+                "paste-220a4098821b15f2c36f06b32c2816b67988bd8b.jpg",
+                "paste-2f1a798ae2afa28653f695bc933e75b19d1a13a9.jpg",
+                "paste-35c515c2e7e3a97514f7922ea1ad1748ced76f86.jpg",
+                "paste-7197a3125530c1de3389891697b07eb073de4562.jpg",
+                "paste-88e461323938829e66db3a974db7fb84357aa165.jpg",
+                "paste-89cbfd61826680edb53821531a53c9f9f2aa90a0.jpg",
+                "paste-94ba98b7e80aa29206483208eba3cf02b39f90ea.jpg",
+                "paste-b4e907cb15ceba9abf0dfa597e07282723fdf737.jpg",
+                "paste-b993d5af2be17ed840b925ddc2fc1e5a324c791b.jpg",
+                "paste-e4962aa0edee07a69c57f56f81fa59a289bff193.jpg",
+                "paste-f0561ca339d9a597c0e92f468c1b6aff8bcd6051.jpg",
+                "paste-f24e3aff3220fa001df181de959df24ed64c338c.jpg"
+            ],
+            "mid": 1602236504918,
+            "name": "Renal Failure",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>The Kidney</b><div><br></div><div><b><br></b></div><div>What does the cortex contain?</div><div>contains {{c1::85}}% of the nephrons;&nbsp;</div><div>{{c1::glomerulus}}, Bowman’s capsule, and the<br>{{c1::proximal}} and {{c1::distal}} tubules of<br>the juxtamedullary nephrons<br></div><div><br></div><div>What does the medulla contain?</div><div>contains {{c1::15}}% of the nephrons;&nbsp;</div><div>pyramids, renal columns, {{c1::Henle’s loop}}, vase recta, and {{c1::collecting}} ducts of the juxtamedullary nephrons<br></div><div><br></div><div>What part of the kidney is most susceptible to iscahemia?</div><div>{{c1::medulla}}<br></div><div><br></div><div>What is the part of the nephron that is most susceptible to injury?</div><div>{{c1::tubules}}<br></div><div>Why?</div><div>{{c1::Mostly in the medulla, which is part of kidney that gets least blood supply}}<br></div>",
+                        ""
+                    ],
+                    "guid": "tG=`!Cq/7$",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Acute Kidney Injury:</b><div><b><br></b></div><div>What is it characterised by?</div><div>{{c1::rapid decline</div>in GFR with retention of nitrogenous<br><div>waste products and creatinine}}<br></div><div><br></div><div>What are the three categories of AKI?</div><div>{{c1::Pre-renal, intrinsic, post renal}}<br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "fz2#R5ynx^",
+                    "note_model_uuid": "15b5ec73-b241-11eb-bc8c-c0b5d703b09e",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Pre-Renal Injury</b><div><b><br></b></div><div><font color=\"#aa0000\">Caused by transient hypoperfusion</font></div><div><font color=\"#aa0000\"><br></font></div><div>Give four possible causes of this hypoperfusion<font color=\"#aa0000\"><br></font></div><div>{{c1::Volume depletion (blood loss, vomiting etc.....)</div>– Heart Failure (obviously)<br>– Liver failure (due to toxins not being cleared and that leading to inappropriate vasoconstriction in the kidney)<br><div>– Sepsis}}<br></div><div><br></div><div>Due to the hypoperfusion the activation {{c1::of noradrenaline}}, AngII, {{c1::endothelin}} and ADH happens, why?</div><div>{{c1::reduce renal blood</div><div>flow and preserve salt and water kidney is practically shut down to help in keeping bp consistent to the brain}}<br></div><div><br></div><div>What are some symptoms of pre-renal AKI?</div><div>{{c1::Dry mouth</div>• Dizziness<br>• Low blood pressure (hypotension)<br>• Rapid heart rate<br>• Slack skin<br>• Thirst<br>• Weight loss<br>• Urine output is usually low in people with prerenal AKI.<br>The patient also may have symptoms/signs of heart or<br><div>liver disease.}}3/8<br></div>",
+                        ""
+                    ],
+                    "guid": "Bd}}(D#9_T",
+                    "note_model_uuid": "15b5ec73-b241-11eb-bc8c-c0b5d703b09e",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Intrinsic Renal Disease</b><div><b><br></b></div><div><b>Caused by an injury to the kidney itself</b></div><div><b><br></b></div><div>What are the 4 Intrinsic renal diseases?</div><div>{{c1::-Glomerulonephritis<br>• Acute Interstitial Nephritis<br>• Atheroembolic Disease<br>• Acute Tubular Necrosis}}<br></div>",
+                        ""
+                    ],
+                    "guid": "N%z=gMOR9P",
+                    "note_model_uuid": "15b5ec73-b241-11eb-bc8c-c0b5d703b09e",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Glomerulonephritis</b><div><b><br></b></div><div>Involves {{c1::inflammation}} and {{c1::damage}} to the glomerular membrane and {{c1::vasculitis}} of the grlomerular blood vessels</div><div><img src=\"paste-89cbfd61826680edb53821531a53c9f9f2aa90a0.jpg\"><br></div><div><img src=\"paste-220a4098821b15f2c36f06b32c2816b67988bd8b.jpg\"><br></div><div>Which one is the bad glomerulus, and what makes it that?</div><div>{{c1::2,The crescent of bad fibrous tissue and immune cells}}</div><div><br></div><div><img src=\"paste-88e461323938829e66db3a974db7fb84357aa165.jpg\"><br></div><div>This bad cell has vasculitis and a haemorrhage has occured&nbsp;</div><div>What is the condition that most commonly causes this type of glomerulonephritis?{{c1::ANCA vasculitis}}</div>",
+                        ""
+                    ],
+                    "guid": "Q@+BX=)@md",
+                    "note_model_uuid": "15b5ec73-b241-11eb-bc8c-c0b5d703b09e",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Interstitial Nephritis</b><div><b><br></b></div><div>Caused by&nbsp;{{c1::allergic reaction}}</div><div><br></div><div>Characterised by :<br>{{c1::– Fever<br>– Rash<br>– Eosinophilluria<br>– Leucosuria}}(4)<br></div><div><br></div><div>Usualyy drug related, but which two classes of drug mostly?</div><div>{{c1::Antibiotics</div><div>PPI,s (but usually chronic use)}}<br></div><div><br></div><div>How would you treat interstitial nephritis?</div><div>{{c1::Withdraw the drugs and see if they get better, if not, do a kidney biopsy and if there is inflammation of the interstitium, give some corticosteroids}}<br></div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "A6%ZmB0%vF",
+                    "note_model_uuid": "15b5ec73-b241-11eb-bc8c-c0b5d703b09e",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Atheroembolic Disease</b><div><b><br></b></div><div>Associated with&nbsp;Underlying atherosclerotic Disease such as&nbsp;{{c1::Peripheral Vascular Disease and Coronary Artery Disease}}(2)</div><div><br></div><div>Signs of Atheroemolic disease</div><div><br></div><div>Cholestrol Emboli&nbsp;</div><div><img src=\"paste-b4e907cb15ceba9abf0dfa597e07282723fdf737.jpg\"><br></div><div><br></div><div>Livedo Reticularis:{{c1::<span style=\"color: rgb(32, 33, 36);\">netlike pattern of reddish-blue skin discoloration</span></div><div><img src=\"paste-190301b947d6965a9bae52b21c843b45af4b4451.jpg\">}}</div><div>{{c1::eosinophil}}uria<br></div><div><br></div><div><br></div><div><br></div>",
+                        "<img src=\"paste-e4962aa0edee07a69c57f56f81fa59a289bff193.jpg\">"
+                    ],
+                    "guid": "p/z87IR=0p",
+                    "note_model_uuid": "15b5ec73-b241-11eb-bc8c-c0b5d703b09e",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Acute Tubular Necrosis</b><div><br></div><div>Kind of what it says on the tin</div><div><br></div><div>Causes:{{c1::medullary ischemia due to poor supply and perfusiion}}</div><div><br></div><div>{{c1::Tubular damage}}<br></div><div><br></div><div>Tubular Obstruction secondary to sloughing of tubular cells and debris.<br></div><div>Which causes what?</div><div>{{c1::back pressure and renal failure}}<br></div><div><br></div><div>Causes:<br>• 48% {{c1::Sepsis}}<br>• 32% {{c1::Hemodynamic (excluding sepsis)}}<br>• 20% Toxic:<br>– ACE inhibitor why?{{c1::compromises blood flow}}<br>– {{c1::NSAID}}<br>– Contrast Dye<br>– Antibiotics ({{c1::gentamicin, amphotericin}})<br>– Pigment Nephropathy (rhabdomyolysis, mainly a muscle injury, how does it affect the tubules?&nbsp;{{c1::damaged muscle cells release myoglobin which are toxic to tubules}}</div><div>– DIC:{{c1::disseminated intravascular coagulation (basically too much clotting}}<br></div><div><br></div><div><br></div>",
+                        "<img src=\"paste-2f1a798ae2afa28653f695bc933e75b19d1a13a9.jpg\"><div><img src=\"paste-02595f30284ef26b4ad81d50038c8fab955edc40.jpg\"><br></div>"
+                    ],
+                    "guid": "y4#U|0Wy>B",
+                    "note_model_uuid": "15b5ec73-b241-11eb-bc8c-c0b5d703b09e",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Post-renal Injury</b><div><b><br></b></div><div>Anything that obstructs the&nbsp;{{c1::outflow}}</div><div><br></div><div>It usually causes hydronephrosis, which is&nbsp;{{c1::swelling of the kidney due to a build up of urine}}</div><div><br></div><div>Causes</div><div>• BPH:{{c1::Benign prostatic hypertrophy}}<br>• Urinary Retention due to {{c1::(Drugs or Neurological Condition)}}<br>• Pelvic malignancy<br>• Nephrolithiasis (rarely):{{c1::a kidney stone in either ureter}}<br>• Retroperitoneal Fibrosis:{{c1::ureters get blocked due to the fibrosis in the retroperitineal space}}<br>• Urethral {{c1::stricture}}<br></div><div><br></div><div><br></div>",
+                        "<img src=\"paste-b993d5af2be17ed840b925ddc2fc1e5a324c791b.jpg\"><div><img src=\"paste-94ba98b7e80aa29206483208eba3cf02b39f90ea.jpg\"><br></div><div><img src=\"paste-1a7b5da71feb3a43bbf339a54dabc0f180fbf625.jpg\"><br></div><div><img src=\"paste-7197a3125530c1de3389891697b07eb073de4562.jpg\"><br></div>"
+                    ],
+                    "guid": "w&ui~wFwfp",
+                    "note_model_uuid": "15b5ec73-b241-11eb-bc8c-c0b5d703b09e",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fun Graphs<div><img src=\"paste-35c515c2e7e3a97514f7922ea1ad1748ced76f86.jpg\"><br></div><div><img src=\"paste-f0561ca339d9a597c0e92f468c1b6aff8bcd6051.jpg\"><br></div><div><br></div><div><img src=\"paste-f24e3aff3220fa001df181de959df24ed64c338c.jpg\"><br></div>",
+                        "",
+                        ""
+                    ],
+                    "guid": "PF5[nqZ#]t",
+                    "note_model_uuid": "136833ad-948a-11eb-b54e-ad9d49024ac7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Diagnosing AKI:</b><div><b><br></b></div><div>The first and most important step?{{c1::history}}</div><div><br></div><div>Examination:</div><div>Pulse, why&nbsp;{{c1::low volume ?}}</div><div>Blood pressure – L &amp; S, postural hypotension={{c1::volume depletion}}<br>Neck veins – full when recumbent? If it is what does it mean?&nbsp;{{c1::volume overload}}<br>Rash – drugs, vasculitis, what does it indicate?&nbsp;{{c1::interstitial nephritis}}<br></div><div><br></div><div>Urine microscopy and serum chemistry</div><div><br></div><div>When would you use a chest xray</div><div><br></div><div>When would you use an ultrasound?&nbsp;{{c1::if you suspect obstruction}}</div><div><br></div><div>When would you use a biopsy?&nbsp;{{c1::when you suspect glomerulopathy, glomerulonephritis}}</div><div><br></div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "?BkL^|=r{",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Diagnosis for AKI</b><div><b><br></b></div><div>Usually asymptomatic.</div><div><br></div><div>Decline in urine output, 50% being oliguric</div><div>What is oliguria?{{c1::(oliguria = &lt; 400 mL X 24hrs),worse outcomes than non-oliguric}}</div><div><br></div><div>Elevated levels of&nbsp;{{c1::urea and creatinine}} in blood tests</div><div><br></div><div>Signs of volume overload</div><div><br></div><div>Metabolic acidosis, why?{{c1::serum bicarbonate levels go down as tubules cannot reabsorb it, this decreases pH considerably}}</div><div><br></div><div>Hyperkalemia, why?{{c1::high potassium levels}}</div><div><br></div><div><br></div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "l^CIx:0T28",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Diagnosis for Pre-renal Injury</b><div><b><br></b></div><div>History of volume&nbsp;{{c1::loss}}</div><div><br></div><div>Elevated&nbsp;{{c1::urea}} and&nbsp;{{c1::creatinine}} levels with&nbsp;{{c1::urea}} being disproportionally elevated</div><div>What two non-AKI causes does this have?{{c1::too much protein, a git bleed, due to reabsorbing the blood}}</div><div><br></div><div>{{c1::low}} urine sodium&nbsp;{{c1::&lt;20mEq/l}} why?&nbsp;{{c1::kidney retains Na+ when volume is depleted}}<br></div><div><br></div><div>{{c1::Normal}} urine osmolality={{c1::&gt;500mosm/kg}}</div><div><br></div><div>{{c1::normal}} Urine Sediment<br></div>",
+                        ""
+                    ],
+                    "guid": "M?ZB{,l8my",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Intrinsic Renal Disease Diagnosis</b><div><b><br></b></div><div>History of {{c1::volume loss/hypotension}}<b><br></b></div><div><br></div><div>Elevated {{c1::urea}} and {{c1::creatinine}}, but <font color=\"#aa0000\">balance maintained</font><br></div><div><font color=\"#aa0000\"><br></font></div><div>Casts:<font color=\"#aa0000\"><br></font></div><div><br></div><div>Muddy Brown:{{c1::tubule epithelium, Acute tubular necrosis}}</div><div><br></div><div>White:{{c1::WBCs, Interstitial nephritis}}</div><div><br></div><div>Red:{{c1::RBCs, Glomerulonephritis}}</div><div><br>{{c1::High}} Urine sodium&nbsp;{{c1::&gt;40mEq/l, due to loss of tubule fxn which can't reabsorb Na+}}<br></div><div><br></div><div>{{c1::Low}} Osmolality&nbsp;{{c1::&lt; 450mosm/kg due to tubule not working }}<br></div><div><br></div><div><br></div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "MCd-7t<_Le",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Give 3 findings that might indicate Chronic Kidney disease<div>{{c1::Elevated phosphorus</div>• Hypocalcemia<br><div>• Anemia}}<br></div>",
+                        ""
+                    ],
+                    "guid": "ol3px2@eBh",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Management of an AKI</b><div><b><br></b></div><div>Maintain Intravascular volume: especially if you belive&nbsp;{{c1::pre-renal}}</div><div>Give fluids</div><div>{{c1::5-10}}mls/kg of Isotonic Fluid such as {{c1::saline}} or {{c1::hartmans solution}}<br></div><div><br></div><div>Monitor every c.2 hours for&nbsp;{{c1::volume overload}}, why?{{c1::could cause pulmonary oedema}}</div><div><br></div><div>AVOID NSAIDS AND ACE INHIBITORS, why?</div><div>NSAIDS:{{c1::NSAIDs are COX inhibitors, so they inhibit the production of prostaglandins and leukotrienes, which are vasoactive agents, so inbibiting them disrupts renal blood flow, also can cause allergic effect and interstitial nephritis}}<br></div><div><br></div><div>ACE-Inhibitors:{{c1::Causes vasoconstriction, more likely to get ATN}}</div>",
+                        ""
+                    ],
+                    "guid": "ua.e^2ty${",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Renal Replacement Therapy, also know as Dialysis</b><div><br></div><div>Indications:</div><div>Refractory Volume {{c1::overload}}<br></div><div><br></div><div>{{c1::Hyper}}kalemia (K &gt;{{c1::6.5}} meq/L)<br></div><div><br></div><div>Metabolic {{c1::acid}}osis (pH {{c1::&lt;}} 7.1), another treatment for this?{{c1::IV Bicarbonate}}<br></div><div><br></div><div>Uremia, or signs of uremia:</div><div>{{c1::pericarditis,<br>neuropathy, or an otherwise unexplained<br>decline in mental status}}(3)<br></div><div><br></div><div>RRTs</div><div><br></div><div>IHD:&nbsp;{{c1::Intermittent hemodialysis}}</div><div>3-4 hours 3 times a week</div><div><br></div><div>CRRT:{{c1::C stands for continuous}}</div><div>2-3 days, continuously&nbsp;</div><div>What must you give patient on CRRT?&nbsp;{{c1::anti-coagulant (heprarin)}}</div><div><br></div><div><br></div><div><br></div>",
+                        ""
+                    ],
+                    "guid": "v.&`SuI3$m",
+                    "note_model_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
+                    "tags": []
+                }
+            ]
         },
         {
             "__type__": "Deck",
@@ -2924,7 +3552,7 @@
                 "ease4": 1.3,
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
-                "maxIvl": 5,
+                "maxIvl": 1,
                 "perDay": 500
             },
             "reviewOrder": 0,
@@ -2938,58 +3566,6 @@
     "media_files": [],
     "name": "2.2::Organ Failure",
     "note_models": [
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
-            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "name": "Front",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "name": "Back",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Basic-b2764",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Front}}"
-                }
-            ],
-            "type": 0
-        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "f51973f3-7dcf-11eb-96c6-af478fea30f9",
@@ -3041,6 +3617,58 @@
                 }
             ],
             "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "f5199df6-7dcf-11eb-a338-af478fea30f9",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic-b2764",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
         },
         {
             "__type__": "NoteModel",
@@ -3161,6 +3789,137 @@
                     "name": "IO Card",
                     "ord": 0,
                     "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "15b5ec73-b241-11eb-bc8c-c0b5d703b09e",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze-838d6",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "136833ad-948a-11eb-b54e-ad9d49024ac7",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Add Reverse",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic (optional reversed card)",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "all",
+                    [
+                        1,
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{#Add Reverse}}{{Back}}{{/Add Reverse}}"
                 }
             ],
             "type": 0
